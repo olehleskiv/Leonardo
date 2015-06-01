@@ -1,0 +1,56 @@
+#language_bar
+{
+	height:40px;   /*38*/
+}
+#language_bar ul
+{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+#language_bar li
+{
+	background-repeat:no-repeat;
+	margin-top:0px;     /*6*/
+	margin-left:1px;    /*16*/
+	float: left;
+	padding:0px 0px 0px 0px;
+	margin-bottom:0px;
+}
+#language_bar li a:hover
+{
+	border-color:#000000;
+	height: 32px;
+	width: 32px;
+	float: left;
+	background-image: url(./img/flags/flag_hover.png);
+	display: block;
+	text-decoration: none; 
+	color: #D1C631 !important;
+}
+
+#language_bar li a
+{	
+	background-image: none;
+	height: 32px; /*13*/
+	width: 32px;   /*18*/
+	float: left;
+	display: block;
+	font-size:0px;
+}
+.sign
+{
+	visibility: visible !important;
+	z-index: 1;
+	border:none !important;
+	background-image: none !important;
+	float: none !important;
+	font-size:10px !important;
+	font-weight: bold;
+	position:absolute;
+	top:15px;
+	text-align: center;
+}
+#language_bar li a:link        {text-decoration: none; color: #000000;}
+#language_bar li a:visited {text-decoration: none; color: #000000;}
+#language_bar li a:active   {text-decoration: none; color: #000000;}

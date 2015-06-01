@@ -1,0 +1,7 @@
+default-character-set=utf8
+default-collation=utf8_general_ci
+CREATE USER 'leonard'@'localhost' IDENTIFIED BY  '***';
+
+GRANT ALL PRIVILEGES ON * . * TO  'leonard'@'localhost' IDENTIFIED BY  '***' WITH GRANT OPTION MAX_QUERIES_PER_HOUR 0 MAX_CONNECTIONS_PER_HOUR 0 MAX_UPDATES_PER_HOUR 0 MAX_USER_CONNECTIONS 0 ;
+
+GRANT ALL PRIVILEGES ON  `dataforcal` . * TO  'leonard'@'localhost';

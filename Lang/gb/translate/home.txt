@@ -1,0 +1,54 @@
+<* title *> Rest in Montenegro <* / title *>
+<* content *>
+<div style="margin-left:auto; margin-right:auto; text-align:center">
+<a href="photo/32_1.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/32_s.jpg" /> </ a>
+<a href="photo/islandBig.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/islandSmall.JPG" /> </ a>
+<a href="photo/rocksBig.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/rocksSmall.JPG" /> </ a>
+<a href="photo/CIMG1979p.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG1979s.JPG" /> </ a>
+<a href="photo/plaz1.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/plazs.jpg" /> </ a>
+</ div>
+<br />
+<h1 style="text-align:center"> Hotel Villa «Leonardo» </ h1>
+<br />
+<p> <b> storey villa </ b> is located in a small picturesque village resort ZELENIKA , which is located near one of the most popular resorts in Montenegro , Herceg Novi. Staying there is a quiet alternative to mass tourism in the surrounding areas . They say that, thanks to its amazing flora it has a beneficial effect on a person . </ P>
+
+
+
+<p> <b> In the villa : </ b> 16 rooms (8 two-roomed apartments , 3 two four-bedded rooms and 5 single rooms with a kitchenette ) </ p>
+<p> <b> Apartments : </ b> furniture , air conditioning, TV (satellite , Russian-speaking channels) , kitchenette (electrical stove, sink, refrigerator , dishes), terrace, bathroom ( toilet , sink , shower). </ p>
+<p> <b> In the Room : </ b> furniture , air conditioning, TV (satellite , Russian-speaking channels) , terrace, bathroom (toilet , sink , shower).
+ Separate kitchen on the ground floor . </ P> <p> </ p>
+<p> Cleaning and change of bed linen - 5-7 days . </ p>
+<p> For an additional fee you can use the washing machine and iron . </ p>
+On <p> teretorii villa is free parking, a large comfortable garden furniture , BBQ </ p>
+
+<p> <b> Location : </ b> ZELENIKA (2 km from Herceg Novi) . Until Zelenika easily accessible by car from the airport of any of the three cities : Tivat (25 km), Podgorica (100 km) and Dubrovnik (30 km ). </ P>
+<p> Distance to the beach - 450 meters (5 minutes walk free ). </ p> <p> Beaches : the platform , pebbles and sand. </ p>
+<p> <b> Additional Information : </ b>
+<p> Minimum rental period is 3 days . </ p>
+<p> the accommodation price does not include tourism taxes . </ p>
+<p> at time of reservation a deposit of 20 %. </ p>
+<p> For early reservations ( at least 4 weeks) 10% discount . </ p>
+<p> The villa operates bike rental </ p>
+<p> We provide transportation from the airport of Tivat, as well as tours </ p>
+<p> <b> ROOMS / APARTMENTS : </ b>
+<p> One room with kitchenette - 6-26 ˆ * </ p>
+<p> Two-roomed apartment -11-50 ˆ * </ p>
+<p> * Price is per room </ p>
+
+<p> Two four-bed room - 4-12 ˆ ** </ p>
+<p> ** Price per person per night </ p>
+
+<p> ( More information in the "Services ") </ p>
+
+
+
+
+
+
+
+
+
+<* / content *>
+<* description *> <* / description *>
+<* keywords *> Hotel , the private sector , a family vacation near the sea , 2011, room <* / keywords *>

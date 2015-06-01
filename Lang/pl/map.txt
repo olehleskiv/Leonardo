@@ -1,0 +1,9 @@
+<*title*>Mapa Czarnogóry<*/title*>
+<*content*>
+<br/><div style="text-align:center;">
+	<p><b>Miejsce znajdowania</b>: m. Zelenika,Herceg-Novi,Montenegro; 500 m do morza, 5 min. pieszo</p>
+	<div id="map_canvas" style="margin: 0 auto; width: 570px; height: 430px"></div>
+</div>
+<*/content*>
+<*description*>Interaktywna mapa Czarnogóry i lokalizacja hotelu.<*/description*>
+<*keywords*>interaktywna mapa, lokalizacja<*/keywords*>

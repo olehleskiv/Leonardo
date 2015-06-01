@@ -1,0 +1,929 @@
+﻿<*title*>Usługi i Ceny<*/title*>
+<*content*>
+<link rel="stylesheet" href="css3_3d.css" media="screen" />
+<link rel="stylesheet" href="services.css"/>
+<link rel="stylesheet" href="list.css" />
+
+<a href="#" class="scrollup">Wgórę</a>
+<br>
+
+<p>
+<h1 style="text-align:center">Pokoje/Apartamenty dostępne do wynajęcia:</h1>
+</p>
+
+<script type="text/javascript" src="scripts/rotator.js"></script>
+<!-- Автор Dylan Wagstaff, http://www.alohatechsupport.net -->
+
+<style>
+#rotator {
+position:relative;
+margin-left: 300px;
+}
+h1 {
+	margin-top: -20px;
+   }
+   
+h2 {
+   margin-top: 100px;
+   margin-bottom: 20px;
+   text-align:center;
+}
+    
+h3 {
+   margin-top: 50px; 
+    margin-bottom: 20px; 
+	text-align:center;
+   }
+p {
+    text-indent: 40px; /* Отступ первой строки в пикселах */
+   }
+
+</style> 
+
+<div id="rotator" style="float: center;>
+margin-top: 0px; 
+margin-left: 380px;
+margin-bottom: 5px;">
+
+
+  <ul>
+    <li class="show"><img class="box9" src="photo/rotator/dom_b.jpg" width="420" height="290" alt="pic1" /></a></li>
+    <li><img class="box9" src="photo/rotator/outside_b.jpg" width="420" height="290" alt="pic2" ></a></li>
+	<li><img class="box9" src="photo/rotator/interirer_b.jpg" width="420" height="290" alt="pic4"  /></a></li>
+	<li><img class="box9" src="photo/rotator/altanka_b.jpg" width="420" height="290" alt="pic5"/></a></li>
+	<li><img class="box9" src="photo/rotator/divan.jpg" width="420" height="290" alt="pic6"  /></a></li>
+	<li><img class="box9" src="photo/rotator/kitchen_new.jpg" width="420" height="290" alt="pic7"/></a></li>
+	<li><img class="box9" src="photo/rotator/stairs_b.jpg" width="420" height="290" alt="pic9"/></a></li>	
+	<li><img class="box9" src="photo/rotator/corridor.jpg" width="420" height="290" alt="pic10"/></a></li>
+	<li><img class="box9" src="photo/rotator/kovka.jpg" width="420" height="290" alt="pic11"/></a></li>
+	<li><img class="box9" src="photo/rotator/plants.jpg" width="420" height="290" alt="pic12"/></a></li>
+	<li><img class="box9" src="photo/rotator/villa_new.jpg" width="420" height="290" alt="pic13"/></a></li>
+  </ul>
+</div>
+
+<div class="buttonblock">
+<!--
+<div style="margin-left:0px; margin-right:auto; padding-right:12px; text-align:left; margin-top:-155px; clear:both">
+ <div>
+ </BR></BR> -->
+<a href="#oneroom" STYLE="width:375px;margin:-3px 0px 0px -4px;" class="button9">   Jednopokojowy (2-3 osobowy)   </a></br>
+<a href="#tworoom" STYLE="width:375px;margin:-3px 0px 0px -4px" class="button9">   Dwupokojowy (3-4 osobowy)   </a></br>
+<a href="#apartments" STYLE="width:375px;margin:-3px 0px 0px -4px;" class="button9">Dwupokojowy z mini-kuchnią</a></br>
+
+<a href="#adds"  class="button9" STYLE= "color: #191970;width:375px;margin:-3px 0px 0px -4px">Informacja dodatkowa </a></br>
+<!--
+</div></div>
+-->
+</div>
+			<p><a name="oneroom"></a></p>
+						<h2 style="margin-top:250px;">Jednopokojowy apartament (2-3 osobowy)</h2>
+
+<table class="simple-little-table" align="center" cellspacing='0'		
+	<tr>
+		<td colspan="6" 
+		style="text-align: center;">
+		<b>Cena jest podana w euro za 1 dobę za apartament (bez kuchni) bez wyżywienia</b><br>
+		(Kuchnia ogólna jest dotępna na pierwszym piętrze)</td>
+	</tr>
+	<tr>
+		<th><b>Typ apartamentu </b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
+	</tr>
+	<tr>
+		<th><b>Jednopokojowy (2 osoby)</b></th><td>15</td><td>18</td><td>24</td><td>18</td><td>16</td>
+	</tr>		
+	<tr>
+		<th><b>Jednopokojowy (3 osoby)</b></th><td>18</td><td>22</td><td>28</td><td>22</td><td>20</td>
+	</tr>	
+</table>	
+
+<h3>Apartament №1</h3>
+
+<div style="align:center; text-align:center; margin-top:20px; clear:both">
+
+ <ul id="grid" class="group">
+ <li>
+  <div class="details" class="more" ><h3>2 łóżka pojedyncze</h3></div> 
+	<a href="photo/oneroom/1.jpg" 
+	rel="lightbox-set" 
+	title="Jednopokojowy apartament (2-3 osobowy)"
+	alt="Jednopokojowy apartament (2-3 osobowy)">
+ 
+ 
+<img src="photo/oneroom/1.jpg" 
+width="250"
+height="160"
+alt="Jednopokojowy apartament (2-3 osobowy)"></a> 
+</li>
+
+
+
+<li>
+<div class="details"><h3>Balcon</h3></div>
+	<a href="photo/oneroom/2.jpg" 
+	rel="lightbox-set" 
+	title="Jednopokojowy apartament (2-3 osobowy)"
+	alt="Jednopokojowy apartament (2-3 osobowy)">
+
+<img src="photo/oneroom/2.jpg" 
+width="250"
+height="160"
+alt="Jednopokojowy apartament (2-3 osobowy)"></a> 
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Łóżko francuskie</h3></div> 
+	<a href="photo/oneroom/3.jpg" 
+	rel="lightbox-set" 
+	title="Jednopokojowy apartament (2-3 osobowy)"
+	alt="Jednopokojowy apartament (2-3 osobowy)">
+
+<img src="photo/oneroom/3.jpg" 
+width="250"
+height="160"
+alt="Jednopokojowy apartament (2-3 osobowy)"></a> 
+</li>
+</ul>
+</div>
+
+<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
+<ul id="grid" class="group">
+<li>
+<div class="details" class="more" ><h3>Łazienka </h3></div> 
+	<a href="photo/oneroom/4.jpg" 
+	rel="lightbox-set" 
+	title="Jednopokojowy apartament (2-3 osobowy)"
+	alt="Jednopokojowy apartament (2-3 osobowy)">
+
+<img src="photo/oneroom/4.jpg" 
+width="250"
+height="160"
+alt="Jednopokojowy apartament (2-3 osobowy)"></a> 
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Łazienka </h3></div> 
+	<a href="photo/oneroom/5.jpg" 
+	rel="lightbox-set" 
+	title="Jednopokojowy apartament (2-3 osobowy)">
+
+<img src="photo/oneroom/5.jpg" 
+width="250"
+height="160"
+alt="Jednopokojowy apartament (2-3 osobowy)"></a> 
+</li>
+</ul>
+</div>
+
+
+<h3 style="clear:left;">Apartament №2</h3>
+
+
+<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
+<ul id="grid" class="group">
+<li>
+<div class="details" class="more" ><h3>Balcon</h3></div> 
+	<a href="photo/oneroom/6.jpg" 
+	rel="lightbox-set" 
+	title="Jednopokojowy apartament (2-3 osobowy)"
+	alt="Jednopokojowy apartament (2-3 osobowy)">
+
+<img src="photo/oneroom/6.jpg" 
+width="250"
+height="160"
+alt="Jednopokojowy apartament (2-3 osobowy)"></a> 
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Łóżko francuskie</h3></div> 
+	<a href="photo/oneroom/7.jpg" 
+	rel="lightbox-set" 
+	title="Jednopokojowy apartament (2-3 osobowy)"
+	alt="Jednopokojowy apartament (2-3 osobowy)">
+
+<img src="photo/oneroom/7.jpg" 
+width="250"
+height="160"
+alt="Jednopokojowy apartament (2-3 osobowy)"></a> 
+</li>
+</ul>
+</div>
+
+
+			<p><a name="tworoom"></a></p>
+						<h2 style="clear:left; margin-top:300px;">Dwupokojowy apartament (3-4 osobowy)</h2>
+
+<table class="simple-little-table" align="center" cellspacing='0'>		
+	<tr>
+		<td colspan="6" 
+		style="text-align: center;">
+		<b>Cena jest podana w euro za 1 dobę za apartament(bez kuchni) bez wyżywienia</b>
+		<br>(Kuchnia ogólna jest dotępna na pierwszym piętrze)</td>
+	</tr>
+	<tr>
+		<th><b>Typ apartamentu</b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
+	</tr>	
+	<tr>
+		<tr>
+	<tb>		</tb> </tr>
+<th><b>Dwupokojowu (3-4 osoby)</b></th><td>21</td><td>28</td><td>38</td><td>32</td><td>24</td>
+	</tr>
+	
+</table>
+
+			<h3>Apartament №1</h3>
+
+<div style="margin:auto;text-align:left; clear:both;">
+<ul id="grid" class="group">
+ <li>
+ <div class="details" class="more" ><h3>Stół</h3></div> 
+	<a href="photo/tworoom/1/11.jpg" 
+	rel="lightbox-set" 
+	title="№1 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№1 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/1/11.jpg" 
+width="250"
+height="160"
+alt="№1 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Pierwsza sypialnia (z balconem)</h3></div> 
+	<a href="photo/tworoom/1/12.jpg" 
+	rel="lightbox-set" 
+	title="№1 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№1 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/1/12.jpg" 
+width="250"
+height="160"
+alt="№1 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Pierwsza sypialnia (z balconem)</h3></div> 
+	<a href="photo/tworoom/1/13.jpg" 
+	rel="lightbox-set" 
+	title="№1 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№1 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/1/13.jpg" 
+width="250"
+height="160"
+alt="№1 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+</ul>
+</div>
+
+<div style="margin: auto auto auto 130px; text-align:left; clear:both;">
+<ul id="grid" class="group">
+<li>
+<div class="details" class="more" ><h3>Druga sypialnia</h3></div> 
+	<a href="photo/tworoom/1/14.jpg" 
+	rel="lightbox-set" 
+	title="№1 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№1 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/1/14.jpg" 
+width="250"
+height="160"
+alt="№1 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Łazienka </h3></div> 
+	<a href="photo/tworoom/1/15.jpg" 
+	rel="lightbox-set" 
+	title="№1 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№1 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/1/15.jpg" 
+width="250"
+height="160"
+alt="№1 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+</ul>
+</div>
+	
+	         	<h3 style="clear:left;">Apartament №2</h3>
+<div style="align:center; margin: auto auto auto 50px;">
+<ul id="grid" class="group">
+<li>
+<div class="details" class="more" ><h3>Pierwsza sypialnia (z balconem)</h3></div> 
+	<a href="photo/tworoom/2/21.jpg" 
+	rel="lightbox-set" 
+	title="№2 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№2 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/2/21.jpg" 
+width="250"
+height="160"
+alt="№2 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+
+<!--
+<li>
+	<a href="photo/tworoom/2/22.jpg" 
+	rel="lightbox-set" 
+	title="№2 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№2 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/2/22.jpg" 
+width="250"
+height="160"
+alt="№2 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+-->
+
+<li>
+<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Stolik dla obiadu</h3></div> 
+	<a href="photo/tworoom/2/23.jpg" 
+	rel="lightbox-set" 
+	title="№2 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№2 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/2/23.jpg" 
+width="125"
+height="160"
+alt="№2 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Druga sypialnia</h3></div> 
+	<a href="photo/tworoom/2/24.JPG" 
+	rel="lightbox-set" 
+	title="№2 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№2 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/2/24.JPG" 
+width="250"
+height="160"
+alt="№2 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+
+</ul>
+</div>
+
+<div style="margin: auto auto auto 130px; text-align:center; clear:both">
+<ul id="grid" class="group">
+
+
+<li>
+<div class="details" class="more" ><h3>Stół</h3></div> 
+	<a href="photo/tworoom/2/25.jpg" 
+	rel="lightbox-set" 
+	title="№2 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№2 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/2/25.jpg" 
+width="250"
+height="160"
+alt="№2 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Łazienka </h3></div> 
+	<a href="photo/tworoom/2/26.jpg" 
+	rel="lightbox-set" 
+	title="№2 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№2 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/2/26.jpg" 
+width="250"
+height="160"
+alt="№2 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+</ul>
+</div>
+
+
+				<h3 style="clear:left;">Apartament №3</h3>
+
+<div style="margin:auto;">
+<ul id="grid" class="group">
+<li>
+<div class="details" class="more" ><h3>Pierwsza sypialnia (z balconem)</h3></div> 
+	<a href="photo/tworoom/3/31.jpg" 
+	rel="lightbox-set" 
+	title="№3 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№3 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/3/31.jpg" 
+width="250"
+height="160"
+alt="№3 - Dwupokojowy apartament (3-4) osobowy"></a>
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Pierwsza sypialnia (z balconem)</h3></div> 
+	<a href="photo/tworoom/3/32.jpg" 
+	rel="lightbox-set" 
+	title="№3 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№3 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/3/32.jpg" 
+width="250"
+height="160"
+alt="№3 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Druga sypialnia (stolik)</h3></div> 
+	<a href="photo/tworoom/3/33.jpg" 
+	rel="lightbox-set" 
+	title="№3 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№3 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/3/33.jpg" 
+width="250"
+height="160"
+alt="№3 - Dwupokojowy apartament (3-4) osobowy"></a> 
+</li>
+</ul>
+</div>
+
+<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
+<ul id="grid" class="group">
+<li>
+<div class="details" class="more" ><h3>Druga sypialnia</h3></div> 
+	<a href="photo/tworoom/3/34.jpg" 
+	rel="lightbox-set" 
+	title="№3 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№3 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/3/34.jpg" 
+width="250"
+height="160"
+
+alt="№3 - Dwupokojowy apartament (3-4) osobowy"></a>
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Druga sypialnia</h3></div> 
+	<a href="photo/tworoom/3/34a.jpg" 
+	rel="lightbox-set" 
+	title="№3 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№3 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/3/34a.jpg" 
+width="250"
+height="160"
+
+alt="№3 - Dwupokojowy apartament (3-4) osobowy"></a>
+</li>
+</ul>
+</div>
+
+<div style="margin: auto auto auto 180px; text-align:center; clear:both;">
+<ul id="grid" class="group">
+<li>
+<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Łazienka </h3></div> 
+	<a href="photo/tworoom/3/35.jpg" 
+	rel="lightbox-set" 
+	title="№3 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№3 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/3/35.jpg" 
+width="125"
+height="160"
+alt="№3 - Dwupokojowy apartament (3-4) osobowy"></a>
+</li>
+
+<li>
+<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">WC</h3></div> 
+	<a href="photo/tworoom/3/36.jpg" 
+	rel="lightbox-set" 
+	title="№3 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№3 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/3/36.jpg" 
+width="125"
+height="160"
+alt="№3 - Dwupokojowy apartament (3-4) osobowy"></a>
+</li>
+
+<li>
+<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Łazienka</h3></div> 
+	<a href="photo/tworoom/3/37.jpg" 
+	rel="lightbox-set" 
+	title="№3 - Dwupokojowy apartament (3-4) osobowy"
+	alt="№3 - Dwupokojowy apartament (3-4) osobowy">
+
+<img src="photo/tworoom/3/37.jpg" 
+width="125"
+height="160"
+alt="№3 - Dwupokojowy apartament (3-4) osobowy"></a>
+</li>
+</ul>
+</div>
+
+<div><br></br><br></br><br></br><br></br>
+			<p><a name="apartments"></a></p>
+						<h2  style="clear:left;">Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)</h2>
+						
+<table class="simple-little-table" align="center" cellspacing='0'>		
+
+<tr>
+		<td colspan="6" style="text-align: center;">Koszt pobytu za 1 dobę za apartament:</td>
+</tr>
+
+<tr>
+		<th style="text-align: center;"><b>Termin pobytu</b></th> <th colspan="3" style="text-align: center;"><b>Cena</b></th> </tr>
+<tr>
+ <td></td>
+<td>3-7 dni </td><td>8-15 dni </td></tr>
+<tr class='even'><th>01 maja - 31 maja</th><td>25</td><td>22</td></tr>
+<tr><th>01 czerwca - 30 czerwca</th><td>38</td><td>35</td>	</tr>	
+<tr class='even'><th>01 lipca - 14 lipca</th><td>45</td><td>40</td>	</tr>	
+<tr><th>15 lipca - 14 sierpnia</th><td>50</td><td>46</td>	</tr>	
+<tr class='even'><th>15 sierpnia - 31 sierpnia</th><td>45</td><td>40</td>	</tr>	
+<tr><th>1 września - 14 października</th><td>35</td><td>32</td>	</tr>	
+<tr class='even'><th>15 października – 31 grudnia</th><td>25</td><td>20</td>	</tr>	
+
+</table>
+	
+
+<h3 style="clear:left;">Apartament №1</h3>
+<div style="margin-left:-15px; margin-right:auto; padding-right:12px; text-align:center; margin-top:20px; clear:both">
+<ul id="grid" class="group">
+<li>	
+<div class="details" class="more" ><h3>Pokój z kuchnią i balkonem</h3></div> 
+	<a href="photo/apartment/1-41.jpg" 
+	rel="lightbox-set" 
+	title="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"
+	alt="1 Apartament -Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)">
+
+<img src="photo/apartment/1-41.jpg" 
+width="250"
+height="160"
+alt="1 Apartament -Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"></a>
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Pokój z kuchnią i balkonem</h3></div> 
+	<a href="photo/apartment/1-42.jpg" 
+	rel="lightbox-set" 
+	title="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"
+	alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)">
+
+<img src="photo/apartment/1-42.jpg" 
+width="250"
+height="160"
+alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"></a>
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Pokój z kuchnią i balkonem</h3></div> 
+	<a href="photo/apartment/1-43.jpg" 
+	rel="lightbox-set" 
+	title="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"
+	alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)">
+
+<img src="photo/apartment/1-43.jpg" 
+width="250"
+height="160"
+alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"></a>
+</li>
+</ul>
+</div>
+
+<div style="margin: auto auto auto 130px; text-align:center; clear:both">
+<ul id="grid" class="group">	
+<li>
+<div class="details" class="more" ><h3>Łazienka </h3></div> 
+	<a href="photo/apartment/1-44.jpg" 
+	rel="lightbox-set" 
+	title="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"
+	alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)">
+
+<img src="photo/apartment/1-44.jpg" 
+width="250"
+height="160"
+alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"></a>
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Balcon</h3></div> 
+	<a href="photo/apartment/1-45.jpg" 
+	rel="lightbox-set" 
+	title="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"
+	alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)">
+
+<img src="photo/apartment/1-45.jpg" 
+width="250"
+height="160"
+alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"></a>
+</li>
+
+</ul>
+</div>
+
+<h3 style="clear:left;">Apartament №2</h3>
+
+<div style="margin-left:-15px; text-align:center;  clear:both">
+<ul id="grid" class="group">	
+<li>
+<div class="details" class="more" ><h3>Pierwszy pokój (Stół)</h3></div> 
+	<a href="photo/apartment/2-46.jpg" 
+	rel="lightbox-set" 
+	title="Willa w Czarnogórze"
+	alt="2 Apartament -  Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)">
+
+<img src="photo/apartment/2-46.jpg" 
+width="250"
+height="160"
+alt="Willa w Czarnogórze"></a>
+</li>
+<li>
+<div class="details" class="more" ><h3>Pierwszy pokój (kuchnią)</h3></div> 
+	<a href="photo/apartment/2-47.jpg" 
+	rel="lightbox-set" 
+	title="Willa w Czarnogórze"
+	alt="Willa w Czarnogórze">
+
+<img src="photo/apartment/2-47.jpg" 
+width="250"
+height="160"
+alt="Willa w Czarnogórze"></a>
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Pierwszy pokój (kanapa)</h3></div> 
+	<a href="photo/apartment/2-48.jpg" 
+	rel="lightbox-set" 
+	title="Willa w Czarnogórze"
+	alt="Willa w Czarnogórze">
+
+<img src="photo/apartment/2-48.jpg" 
+width="250"
+height="160"
+alt="Willa w Czarnogórze"></a>
+</li>
+</ul>
+</div>
+
+<div style="margin-left:-15px; text-align:center;  clear:both">
+<ul id="grid" class="group">	
+<li>
+<div class="details" class="more" ><h3>Przejście do innej sypialni</h3></div> 
+	<a href="photo/apartment/2-49.jpg" 
+	rel="lightbox-set" 
+	title="Willa w Czarnogórze"
+	alt="2 Apartament -  Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)">
+
+<img src="photo/apartment/2-49.jpg" 
+width="250"
+height="160"
+alt="Willa w Czarnogórze"></a>
+</li>
+<li>
+<div class="details" class="more" ><h3>Druga sypialnia</h3></div> 
+	<a href="photo/apartment/2-50.jpg" 
+	rel="lightbox-set" 
+	title="Willa w Czarnogórze"
+	alt="Willa w Czarnogórze">
+
+<img src="photo/apartment/2-50.jpg" 
+width="250"
+height="160"
+alt="Willa w Czarnogórze"></a>
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Przejście w inny pokój(szafa)</h3></div> 
+	<a href="photo/apartment/2-51.jpg" 
+	rel="lightbox-set" 
+	title="Willa w Czarnogórze"
+	alt="Willa w Czarnogórze">
+
+<img src="photo/apartment/2-51.jpg" 
+width="250"
+height="160"
+alt="Willa w Czarnogórze"></a>
+</li>
+</ul>
+</div>
+
+
+<div style="margin: auto auto auto 130px; text-align:center; clear:both">
+<ul id="grid" class="group">	
+<li>
+<div class="details" class="more" ><h3>Pierwszy pokój (balcon)</h3></div> 
+	<a href="photo/apartment/2-52.jpg" 
+	rel="lightbox-set" 
+	title="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"
+	alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)">
+
+<img src="photo/apartment/2-52.jpg" 
+width="250"
+height="160"
+alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"></a>
+</li>
+
+<li>
+<div class="details" class="more" ><h3>Łazienka</h3></div> 
+	<a href="photo/apartment/2-53.jpg" 
+	rel="lightbox-set" 
+	title="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"
+	alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)">
+
+<img src="photo/apartment/2-53.jpg" 
+width="250"
+height="160"
+alt="1 Apartament - Dwupokojowe  3-4 osobowe  apartamenty (z mini-kuchnią)"></a>
+</li>
+</ul>
+</div>
+</div>
+
+<!--------------------------------------------------->			 
+
+	<br></br><br></br><br></br><br></br>
+			<p><a name="adds"></a></p>
+			<div class="topbar orange" 
+			style="width:815px; margin:80px auto -30px auto; background: #D2E9AE;
+    background: -webkit-gradient(linear, left top, left bottom, from(#D2E9AE), to(#E7F3D4));
+    background: -moz-linear-gradient(top,  #D2E9AE,  #D2E9AE);">
+		<h1 style="color:grey;">Informacja dodatkowa</h1>
+	</div>
+	<br></br>
+						
+
+<div style="float: right; margin-left: 10px; margin-top:-15px; margin-right:-10px; clear: right;">
+<ul id="grid" class="group">
+<li>
+<div class="details" class="more" ><h3>Willa</h3></div> 
+	<a href="photo/rotator/outside_b.jpg" 
+	rel="lightbox-set" 
+	title="Willa w Czarnogórze"
+	alt="Willa w Czarnogórze">
+
+<img src="photo/rotator/outside_b.jpg" 
+width="250"
+height="160"
+alt="Willa w Czarnogórze"></a>
+</li>
+</ul>
+</div>
+
+<div style="float: right;margin-left: 10px; margin-top:-50px; margin-right:-10px; clear: right;">
+<ul id="grid" class="group">
+<li>
+<div class="details" class="more" ><h3>Kuchnia ogólna</h3></div> 
+	<a href="photo/rotator/kitchen.jpg" 
+	rel="lightbox-set" 
+	title="Willa w Czarnogórze - Kuchnia ogólna"
+	alt="Willa w Czarnogórze - Kuchnia ogólna">
+
+<img src="photo/rotator/kitchen.jpg" 
+width="250"
+height="160"
+alt="Willa w Czarnogórze - Kuchnia ogólna"></a>
+</li>
+</ul>
+</div>
+
+<div style="float: right;margin-left: 10px; margin-top:-50px; margin-right:-10px;clear: right;">
+<ul id="grid" class="group">
+<li>
+<div class="details" class="more" ><h3>Sala</h3></div> 
+	<a href="photo/rotator/interirer_b.jpg" 
+	rel="lightbox-set" 
+	title="Willa w Czarnogórze - Sala"
+	alt="Willa w Czarnogórze - Sala">
+
+<img src="photo/rotator/interirer_b.jpg" 
+width="250"
+height="160"
+alt="Willa w Czarnogórze - Sala"></a>
+</li>
+</ul>
+</div>
+
+
+
+<table class="simple-little-table" align="center" cellspacing='0' style="font-size:16px;  margin-left: 15px; ">		
+	<tr>
+		<th style="text-align: center; margin:0px auto;">
+		<b>Informacja dodatkowa</b></th>
+	</tr>
+	
+	<tr class='even'>
+    <td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
+	 Dodatkowe łóżko -  za dodatkową opłatą.</td>
+	</tr>
+		<tr class='even' style=>
+		<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
+		Ceny pobytu nie zawierają opłaty klimatycznej.</td> 
+		</tr>
+			<tr class='even'>
+			<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
+			W przypadku rezygnacji z rezerwacji zaliczka <b><i>NIE</i></b> podlega zwrotowi.</td> 
+			</tr>
+				<tr class='even'>
+				<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
+				W przypadku zakwaterowania na 1-3 dni wzrost cen o 20%.</td> 
+				</tr>
+					<tr class='even'>
+					<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
+					Przy pobycie więcej niż 14 dób, również grupowych zamówieniach – możliwy rabat.</td> 
+					</tr>
+	
+</table>
+
+<!--
+<p><b>Додатково:</b> 2-разове харчування(сніданок+обід) – 10 євро з особи</p>
+В чотирьохмісних Apartamentах можливе разміщення  п`ятої людини за додаткову плату. <br/>
+* Ціни  на проживання  вказані без врахування  туристичного  збору.<br/> 
+* При резервуванні необхідна 30% передоплата. <br/> 
+* У разі відмови від резервування 30% передоплата НЕ повертається.<br/> 
+* При розміщенні  на 1-3 дня вартість  проживания збільшується на 20%.<br/> 
+* При проживанні більше 14 діб ,а також колективних замовленнях – можлива знижка.</p>
+<br/>
+-->
+<table class="simple-little-table" align="center" cellspacing='0' style="font-size:16px;  margin-left: 15px; ">		
+	<tr>
+		<th style="text-align: center; margin:0px auto;">
+		<b>Dodatkowe usługi:</b></th>
+	</tr>
+	
+	<tr class='even'>
+    <td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
+	Transfer lotnisko (Tivat) - miejsce pobytu - 30 euro;</td>
+	</tr>
+		<tr class='even' style=>
+		<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
+		Transfer Budva - miejsce pobytu - 35 euro;</td> 
+		</tr>
+			<tr class='even'>
+			<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
+			Wypożyczenie roweru górskiego - 5 euro/doba;</td> 
+			</tr>
+				<tr class='even'>
+				<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
+				Organizujemy wycieczki po całej Czarnogórze własnym samochodem;</td> 
+				</tr>
+					<tr class='even'>
+					<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
+					Korzystanie z pralki za za dodatkową opłatą.</td> 
+					</tr>
+	
+</table>
+
+
+<!-- Put this script tag to the <head> of your page 
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+
+<script type="text/javascript">
+  VK.init({apiId: 4160494, onlyWidgets: true});
+</script>
+-->
+<!-- Put this div tag to the place, where the Comments block will be 
+<div id="vk_comments"></div>
+<script type="text/javascript">
+VK.Widgets.Comments("vk_comments", {limit: 10, width: "496", attach: "*"});
+</script>
+-->
+
+
+<!--
+<div style="margin-left:auto; margin-right:auto; padding-right:12px; text-align:center; margin-top:20px; clear:both">
+<a href="photo/karfagen1p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen1s.jpg" /></a>
+<a href="photo/karfagen3p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen3s.jpg" /></a>
+<a href="photo/DSCN0428_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0428_s.jpg" /></a>
+<a href="photo/karfagen5p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen5s.jpg" /></a>
+<a href="photo/DSCN0633_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0633_s.jpg" /></a>
+<a href="photo/DSCN0717_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0717_s.jpg" /></a>
+<a href="photo/DSCN0719_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0719_s.jpg" /></a>
+<a href="photo/DSCN0699_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0699_s.jpg" /></a>
+<a href="photo/karfagen6p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen6s.jpg" /></a>
+<a href="photo/karfagen2p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen2s.jpg" /></a>
+<a href="photo/DSCN0637_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0637_s.jpg" /></a>
+<a href="photo/IMG332_B.jpg" rel="lightbox-set" title=""><img alt="" src="photo/IMG332_s.jpg" /></a>
+<a href="photo/IMG337_B.jpg" rel="lightbox-set" title=""><img alt="" src="photo/IMG337_s.jpg" /></a>
+<a href="photo/88.jpg" rel="lightbox-set" title=""><img alt="" src="photo/88s.jpg" /></a>
+<a href="photo/33.jpg" rel="lightbox-set" title=""><img alt="" src="photo/33s.jpg" /></a>
+<a href="photo/stairs_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/stairs_s.jpg" /></a>
+<a href="photo/CIMG4628p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG4628s.JPG" /></a>		
+<a href="photo/CIMG3852p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG3852s.JPG" /></a>
+<a href="photo/CIMG3850p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG3850s.JPG" /></a>
+<a href="photo/123.jpg" rel="lightbox-set" title=""><img alt="" src="photo/123s.jpg" /></a>
+<a href="photo/CIMG5566p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5566s.JPG" /></a>	
+<a href="photo/CIMG5343p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5343s.JPG" /></a>
+<a href="photo/stb.jpg" rel="lightbox-set" title=""><img alt="" src="photo/sts.jpg" /></a>	
+<a href="photo/11b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/11s.jpg" /></a>	
+<a href="photo/CIMG5709.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5709s.jpg" /></a>
+<a href="photo/CIMG5791.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5791s.jpg" /></a>
+<a href="photo/CIMG5795.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5795s.jpg" /></a>
+<a href="photo/DSCN0431_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0431_s.jpg" /></a>
+<a href="photo/DSCN0448_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0448_s.jpg" /></a>
+<a href="photo/CIMG5712.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5712s.jpg" /></a>
+<a href="photo/CIMG5715.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5715s.jpg" /></a> 
+</div>
+-->
+<br>
+
+<*/content*>
+<*description*>Jednopokojowe (na 2 osoby) i dwupokojowe (na 4 osoby) numery, numer luksus(lodówka, taras(10m kw), klimatyzator). 
+W numerze: korzyści(WC, natrysk, umywalka), telewizor(SAT-TV), balkon. Nadaje się miejsce dla parkingu.<*/description*>
+<*keywords*>usługi, ceny<*/keywords*>

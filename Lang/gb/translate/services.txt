@@ -1,0 +1,216 @@
+<* title *> Prices & <* / title *>
+<* content *>
+
+
+<h2 style="text-align:center"> ROOMS / APARTMENTS </ h2>
+
+<br
+<p> One room </ p>
+
+
+<p> bedroom family room </ p>
+<p> Two-roomed apartment ( with kitchenette ) </ p>
+  
+<br />
+
+
+<table style = "width: 90 %; margin-left: auto; margin-right: auto; border: 1px dashed grey; border-collapse: collapse; border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px; "rules =" rows "frame =" void ">
+<tr>
+<td colspan="6" style="text-align: center;"> <b> prices are in euro per room per night 1 </ b> </ td>
+</ tr>
+<tr>
+<td> <b> Type
+</ tr>
+<tr>
+<td> 2 -seater. ( odnokomn. ) </ td> <td> 15 </ td> <td> 18 </ td> <td> 24 </ td> <td> 18 </ td> <td> 16 </ td>
+</ tr>
+<tr> <td> 3 -seater. ( odnokomn. ) </ td> <td> 18 </ td> <td> 22 </ td> <td> 28 </ td> <td> 22 </ td> <td> 20 </ td>
+ 
+</ tr>
+
+<tr>
+<td> 3 -4 -seater. ( dvuhkomnatnyy. ) </ td> <td> 21 </ td> <td> 28 </ td> <td> 40 </ td> <td> 32 </ td> <td> 24 </ td>
+</ tr>
+
+
+<tr> <td colspan="6"> <br/> </ td> </ tr>
+
+</ table>
+<br/>
+<div style="float: right; margin-top: 20px; margin-left: 20px">
+<a href="photo/CIMG4618p.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG4618s.JPG" /> </ a>
+<a href="photo/CIMG4667p.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG4667s.JPG" /> </ a>
+<br />
+<a href="photo/2rooms_b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/2rooms_s.jpg" /> </ a>
+
+
+<a href="photo/CIMG5566p.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG5566s.JPG" /> </ a>
+<br />
+<a href="photo/zagb.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/zags.jpg" /> </ a>
+<a href="photo/CIMG4691p.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG4691s.JPG" /> </ a>
+</ div>
+
+<p> <b> Extras : </ b> 2 meals a day (breakfast and lunch ) to 10 euros per person </ p>
+
+In the four-bedded rooms can accommodate a fifth person at an additional cost . <br/>
+
+* Accommodation prices are excluding tourist taxes . <br/>
+
+If the reservation is required 30 % deposit . <br/>
+
+When placed on the 1-3 days the price is increased by 20 % <br/>
+
+
+
+** For stays longer than 14 days , as well as the collective - orders are discounts </ p>
+<br/>
+<b> <br/>
+
+Additional services : </ b>
+<ul>
+<li> Airport Tivat airport - residence , 30 euros ; </ li>
+<li> Budva residence of 35 euros ; </ li>
+Rent a mountain bike <li> -5 euro \ day </ li>
+  <li> For an additional fee you can use the washing machine . </ li>
+ </ ul>
+
+
+<table style = "width: 90 %; margin-left: auto; margin-right: auto; border: 1px dashed grey; border-collapse: collapse; border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px; "rules =" rows "frame =" void ">
+
+
+
+<tr>
+<td colspan="6" style="text-align: center;"> <b> 2 - 4 bed room apartment : </ b> </ td>
+</ tr>
+<tr>
+<td colspan="6" style="text-align: center;"> cost of accommodation for apartment per night : </ td>
+</ tr>
+
+
+<tr>
+<td> <b> Date </ b> </ td> <td> <b> Price </ b> </ td> </ tr>
+
+<tr>
+ <td> </ td>
+<td> 3-7 days </ td> <td> 8-15 days </ td> <td> 16-21 days </ td> </ tr>
+
+
+<tr>
+<td> May 1 - May 31 </ td> <td> 25 </ td> <td> 22 </ td> <td> 19 </ td> </ tr>
+<tr>
+<td> 1 June -30 June </ td> <td> 38 </ td> <td> 35 </ td> <td> 30 </ td> </ tr>
+<tr>
+<td> July 1 - July 14 </ td> <td> 45 </ td> <td> 40 </ td> <td> 35 </ td> </ tr>
+<tr>
+<td> 15 July -14 August </ td> <td> 50 </ td> <td> 46 </ td> <td> 38 </ td> </ tr>
+<tr>
+<td> August 15 - August 31 </ td> <td> 45 </ td> <td> 40 </ td> <td> 35 </ td> </ tr>
+<tr>
+<td> September 1 - October 14 </ td> <td> 35 </ td> <td> 32 </ td> <td> 30 </ td> </ tr>
+<tr>
+<td> October 15 - December 31 </ td> <td> 25 </ td> <td> 20 </ td> <td> 16 </ td> </ tr>
+
+
+</ table>
+
+
+
+
+
+
+<div style="margin-left:auto; margin-right:auto; padding-right:12px; text-align:center; margin-top:20px; clear:both">
+
+<a href="photo/karfagen1p" rel="lightbox-set" title=""> <img alt="" src="photo/karfagen1s" /> </ a> <a href = "photo/karfagen3p" rel = "lightbox-set" title = ""> <img alt="" src="photo/karfagen3s" /> </ a>
+
+ 
+<a href="photo/DSCN0428_b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/DSCN0428_s.jpg" /> </ a>
+ 
+<a href="photo/karfagen5p" rel="lightbox-set" title=""> <img alt="" src="photo/karfagen5s" /> </ a>
+
+ 
+<a href="photo/DSCN0633_b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/DSCN0633_s.jpg" /> </ a>
+ 
+
+
+<a href="photo/DSCN0717_b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/DSCN0717_s.jpg" /> </ a>
+ 
+
+<a href="photo/DSCN0719_b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/DSCN0719_s.jpg" /> </ a>
+ 
+
+<a href="photo/DSCN0699_b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/DSCN0699_s.jpg" /> </ a>
+ 
+
+
+<a href="photo/karfagen6p" rel="lightbox-set" title=""> <img alt="" src="photo/karfagen6s" />
+
+</ a>
+
+<a href="photo/karfagen2p" rel="lightbox-set" title=""> <img alt="" src="photo/karfagen2s" /> </ a>
+
+<a href="photo/DSCN0637_b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/DSCN0637_s.jpg" /> </ a>
+ 
+
+
+
+ 
+<a href="photo/IMG332_B.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/IMG332_s.jpg" /> </ a>
+ 
+<a href="photo/IMG337_B.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/IMG337_s.jpg" /> </ a>
+ 
+
+
+<a href="photo/88.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/88s.jpg" /> </ a>
+ 
+<a href="photo/33.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/33s.jpg" /> </ a>
+ 
+<a href="photo/stairs_b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/stairs_s.jpg" /> </ a>
+
+
+<a href="photo/CIMG4628p.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG4628s.JPG" /> </ a>
+
+<a href="photo/CIMG3852p.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG3852s.JPG" /> </ a>
+   
+
+<a href="photo/CIMG3850p.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG3850s.JPG" /> </ a>
+<a href="photo/123.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/123s.jpg" /> </ a>
+
+<a href="photo/CIMG5566p.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG5566s.JPG" /> </ a>
+
+<a href="photo/CIMG5343p.JPG" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG5343s.JPG" /> </ a>
+
+
+<a href="photo/stb.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/sts.jpg" /> </ a>
+
+
+
+<a href="photo/11b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/11s.jpg" /> </ a>
+
+ <a href="photo/CIMG5709.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG5709s.jpg" /> </ a>
+ 
+ <a href="photo/CIMG5791.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG5791s.jpg" /> </ a>
+ 
+<a href="photo/CIMG5795.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG5795s.jpg" /> </ a>
+
+
+
+
+ 
+<a href="photo/DSCN0431_b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/DSCN0431_s.jpg" /> </ a>
+ 
+ 
+ 
+<a href="photo/DSCN0448_b.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/DSCN0448_s.jpg" /> </ a>
+ 
+
+
+
+
+ 
+<a href="photo/CIMG5712.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG5712s.jpg" /> </ a>
+ 
+<a href="photo/CIMG5715.jpg" rel="lightbox-set" title=""> <img alt="" src="photo/CIMG5715s.jpg" /> </ a>
+</ div>
+<* / content *>
+<* description *> One-bedroom ( 2 double ) and two ( 4-bed ) room suite (fridge , hair dryer , large terrace (10m sq. m. ) ), air conditioning . Rooms have : convenience ( TUD ) , TV (SAT-TV), balcony. There is a parking place . <* / Description *>
+<* keywords *> services, prices <* / keywords *>

@@ -1,0 +1,48 @@
+<* Title *> Contact <* / title *> 
+<* Content *> 
+<br /> 
+<div style="width:100%; overflow:auto"> 
+<div style="float:left; width:400px"> 
+<ul style="margin:auto; list-style-type: none; margin-left: 70px; margin-top: 20px"> 
+<li> <b> Contact Phone: </ b> </ li> 
+<li> 
+<ul style="list-style-type: none"> 
+<li> Ukraine: </ li> 
+<li> 
+<ul style="list-style-type: none"> 
+<li> +38 (067) 590-64-91 </ li> 
+<li> +38 (067) 959-33-22 </ li> 
+</ Ul> 
+</ Li> 
+<li> Montenegro: </ li> 
+<li> 
+<ul style="list-style-type: none"> 
+<li> +38 (269) 272-431 </ li> 
+<li> +38 (269) 444-199 </ li> 
+<li> +38 (269) 997-084 </ li> 
+</ Ul> 
+</ Li> 
+</ Ul> 
+</ Li> 
+<li> <b> Mail: </ b> </ li> 
+<li> 
+<ul style="list-style-type: none"> 
+<li> <a href="mailto:info@agencyleonard.com"> info@agencyleonard.com </ a> </ li> 
+</ Ul> 
+</ Li> 
+<li> <b> Skype: </ b> </ li> 
+<li> 
+<ul style="list-style-type: none"> 
+<li> <a href="skype:agencyleonard?chat"> agencyleonard </ a> </ li> 
+</ Ul> 
+</ Li> 
+</ Ul> 
+</ Div> 
+<div id="mailform"> 
+<h2> Sending Mail </ h2> 
+<? Php include ('dd-formmailer/dd-formmailer.php');?> 
+</ Div> 
+</ Div> 
+<* / Content *> 
+<* Description *> You can contact us via phone, Skype and email. Also implemented on-line to send mail. <* / Description *> 
+<* Keywords *> contact details, phone, skype, e-mail <* / keywords *>
