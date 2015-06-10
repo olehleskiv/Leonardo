@@ -1,31 +1,16 @@
-#mailform
-{
-	
-float:left; 
-	
-width:400px; 
-	
-border-style: solid; 
-	
-border-color: #E0E0E0; 
-	
-border-width: 2px;
-	
-text-align:center;
-
+#mailform {
+	float:left;
+	width:400px;
+	border-style: solid;
+	border-color: #E0E0E0;
+	border-width: 2px;
+	text-align:center;
 }
 
 
-#mailform h2
-{
-	
-text-align: center; 
-	
-
-color: #606060; 
-	
-font-size: 135%; 
-	
-font-family: Arial, Helvetica, sans-serif;
-
+#mailform h2 {
+	text-align: center;
+	color: #606060;
+	font-size: 135%;
+	font-family: Arial, Helvetica, sans-serif;
 }

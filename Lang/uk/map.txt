@@ -2,7 +2,9 @@
 <*content*>
 <br>
 <div style="text-align:center; font-size:20px;">
-	<p><b>Місце знаходження</b>: м.Зеленіка, Герцег-Нови, 500 м до моря, 5 хв пішки</p>
+	<p>
+		<b>Місце знаходження</b>: м.Зеленіка, Герцег-Нови, 500 м до моря, 5 хв пішки
+	</p>
 	<div id="map_canvas" style="margin: 0 auto; width: 570px; height: 430px"></div>
 </div>
 <*/content*>

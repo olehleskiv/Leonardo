@@ -172,15 +172,15 @@ top:  5px;
 
 
 #outer_container{margin:auto; width:974px; padding:0 10px; background:#eee;}
-#outer_container .left{float:left; width:12px; height:170px; background:url(thumbScroller_left.png);}
-#outer_container .right{float:right; width:12px; height:170px; background:url(thumbScroller_right.png);}
-#thumbScroller{position:relative; margin:auto; float:center; background:url(thumbScroller_bg.png) repeat-x;}
+#outer_container .left{float:left; width:12px; height:170px; background:url(img/thumbScroller_left.png);}
+#outer_container .right{float:right; width:12px; height:170px; background:url(img/thumbScroller_right.png);}
+#thumbScroller{position:relative; margin:auto; float:center; background:url(img/thumbScroller_bg.png) repeat-x;}
 #thumbScroller{width:830px;}
 #thumbScroller, #thumbScroller .container, #thumbScroller .content{height:170px;}
 #thumbScroller{overflow:hidden;}
 #thumbScroller .container{position:relative; left:0;}
 #thumbScroller .content{position:center;width:260px; float:left;}
-#thumbScroller .content div{padding:10px 15px; height:100%; font-family:Verdana, Geneva, sans-serif; font-size:13px; background:url(thumbScroller_shadow.png) no-repeat left top;}
+#thumbScroller .content div{padding:10px 15px; height:100%; font-family:Verdana, Geneva, sans-serif; font-size:13px; background:url(img/thumbScroller_shadow.png) no-repeat left top;}
 #thumbScroller img{border:5px solid #fff;}
 
 

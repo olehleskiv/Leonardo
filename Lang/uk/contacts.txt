@@ -2,49 +2,47 @@
 <*content*>
 <br />
 <div style="width:100%; overflow:auto">
-<div style="float:left; width:400px">
-<ul style="margin:auto; list-style-type: none; margin-left: 70px; margin-top: 20px">
-	<li> <b>Контактні телефони:</b> </li>
-	<li>
-		<ul style="list-style-type: none">
-			<li> Україна: </li>
+	<div style="float:left; width:400px">
+		<ul style="margin:auto; list-style-type: none; margin-left: 70px; margin-top: 20px">
+			<li><b>Контактні телефони:</b></li>
 			<li>
 				<ul style="list-style-type: none">
-					<li>+38 (067) 590-64-91</li>
-					<li>+38 (067) 959-33-22</li>
+					<li> Україна: </li>
+					<li>
+						<ul style="list-style-type: none">
+							<li>+38 (067) 590-64-91</li>
+							<li>+38 (067) 959-33-22</li>
+						</ul>
+					</li>
+					<li> Чорногорія: </li>
+					<li>
+						<ul style="list-style-type: none">
+							<li>+38 (269) 272-431</li>
+							<li>+38 (269) 444-199</li>
+							<li>+38 (269) 997-084</li>
+						</ul>
+					</li>
 				</ul>
 			</li>
-			<li> Чорногорія: </li>
+			<li><b>Mail:</b></li>
 			<li>
 				<ul style="list-style-type: none">
-					<li>+38 (269) 272-431</li>
-					<li>+38 (269) 444-199</li>
-					<li>+38 (269) 997-084</li>
+					<li><a href="mailto:info@agencyleonard.com">info@agencyleonard.com</a></li>
+				</ul>
+			</li>
+			<li><b>Skype:</b></li>
+			<li>
+				<ul style="list-style-type: none">
+					<li><a href="skype:agencyleonard?chat">jagencyleonard</a></li>
 				</ul>
 			</li>
 		</ul>
-	</li>
-	<li><b>Mail:</b></li>
-	<li>
-		<ul style="list-style-type: none">
-			<li><a href="mailto:info@agencyleonard.com">info@agencyleonard.com</a></li>
-		</ul>
-	</li>
-	<li><b>Skype:</b></li>
-	<li>
-		<ul style="list-style-type: none">
-			<li><a href="skype:agencyleonard?chat">jagencyleonard</a></li>
-		</ul>
-	</li>
-</ul>
 	</div>
 	<div id="mailform">
 		<h2>Відправка Пошти</h2>
 		<?php include('dd-formmailer/dd-formmailer.php'); ?>
 	</div>
 </div>
-
-
 
 
 <*/content*>

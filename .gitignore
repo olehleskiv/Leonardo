@@ -24,7 +24,6 @@ php_flag display_errors On
 deny from all
 </Files>
 
-/photo
 
 
 
