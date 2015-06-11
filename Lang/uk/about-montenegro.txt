@@ -48,21 +48,39 @@
 	<br>
 </p>
 
-<!-- To Do:
-Use Photos from http://world-bays.com/boka-kotorska/ -->
 <div id="rotator" style="width:420px; height:310px; float:right;">
 	<ul style="margin-left:-50px; margin-top:45px;">
-		<li class="show"><img class="box9" src="photo/rotator/dom_b.jpg"  width="420" height="290" alt="Загальний вигляд вілли" /></a></li>
-		<li><img class="box9" src="photo/rotator/outside_b.jpg"  width="420" height="290" alt="Вілла ззовні"  ></a></li>
-		<li><img class="box9" src="photo/rotator/interirer_b.jpg"  width="420" height="290" alt="Інтерєр вілла"/></a></li>
-		<li><img class="box9" src="photo/rotator/altanka_b.jpg"  width="420" height="290" alt="pic5"  /></a></li>
-		<li><img class="box9" src="photo/rotator/divan.jpg"  width="420" height="290" alt="pic6"  /></a></li>
-		<li><img class="box9" src="photo/rotator/kitchen.jpg"  width="420" height="290" alt="pic7"  /></a></li>
-		<li><img class="box9" src="photo/rotator/stairs_b.jpg"  width="420" height="290" alt="pic9"  /></a></li>
-		<li><img class="box9" src="photo/rotator/corridor.jpg"  width="420" height="290" alt="pic10"  /></a></li>
-		<li><img class="box9" src="photo/rotator/kovka.jpg"  width="420" height="290" alt="pic11"  /></a></li>
-		<li><img class="box9" src="photo/rotator/plants.jpg"  width="420" height="290" alt="pic12"  /></a></li>
-  </ul>
+		<li class="show">
+			<img class="box9" src="photo/bay/1.jpg" width="420" height="290" alt="pic1">
+		</li>
+		<li>
+			<img class="box9" src="photo/bay/2.jpg" width="420" height="290" alt="pic2">
+		</li>
+		<li>
+			<img class="box9" src="photo/bay/3.jpg" width="420" height="290" alt="pic3">
+		</li>
+		<li>
+			<img class="box9" src="photo/bay/4.jpg" width="420" height="290" alt="pic4">
+		</li>
+		<li>
+			<img class="box9" src="photo/bay/5.jpg" width="420" height="290" alt="pic5">
+		</li>
+		<li>
+			<img class="box9" src="photo/bay/6.jpg" width="420" height="290" alt="pic6">
+		</li>
+		<li>
+			<img class="box9" src="photo/bay/7.jpg" width="420" height="290" alt="pic7">
+		</li>
+		<li>
+			<img class="box9" src="photo/bay/8.jpg" width="420" height="290" alt="pic8">
+		</li>
+		<li>
+			<img class="box9" src="photo/bay/9.jpg" width="420" height="290" alt="pic9">
+		</li>
+		<li>
+			<img class="box9" src="photo/bay/10.jpg" width="420" height="290" alt="pic10">
+		</li>
+	</ul>
 </div>
 
 <a href="#montenegro" class="button9">Чорногорія</a><br>
@@ -87,16 +105,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <div style="float: right; margin: 10px 0 5px 20px;">
-
-	<a href="photo/mont/monte_map.jpg" 
-		rel="lightbox-set" 
-		title="Карта Чорногорії"
-		alt="Карта Чорногорії">
-
-		<img src="photo/mont/monte_map.jpg" 
-			width="340"
-			height="380"
-			alt="Карта Чорногорії"> 
+	<a href="photo/mont/monte_map.jpg" rel="lightbox-set" title="Карта Чорногорії">
+		<img src="photo/mont/monte_map.jpg"  width="340" height="380" alt="Карта Чорногорії"> 
 	</a>
 </div>
 
@@ -114,14 +124,9 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 	Найвища точка Чорногорії – гора </i>Дурмітор (2 522 м)</i>. У Чорногорії знаходиться найглибший в Європі і <b>другий за глибиною в світі</b> після Колорадо каньйон річки <i>Тара</i>. Цей каньйон глибиною близько <i>1200 м</i> визнаний природною спадщиною і знаходиться під захистом ЮНЕСКО.
 </p>
 
-<a href="photo/mont/tara.jpg" 
-	rel="lightbox-set" 
-	title="Каньйон річки Тара"
-	alt="Каньйон річки Тара">
-
-	<p style="text-align:center; margin-top: 20px;">
-		<img src="photo/mont/tara.jpg"
-			alt="Каньйон річки Тара">
+<a href="photo/mont/tara.jpg" rel="lightbox-set" title="Каньйон річки Тара">
+<p style="text-align:center; margin-top: 20px;">
+		<img src="photo/mont/tara.jpg" alt="Каньйон річки Тара">
 	</p>
 </a>
 <h4 style="text-align:center"><i>Каньйон річки Тара - другий у світі за глибиною</i></h4>
@@ -132,37 +137,14 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 <h2>Херцег - Нові </h2>
 
 <p style="margin:auto; text-align:center">
-	<a href="photo/CIMG1397p.JPG" 
-		rel="lightbox-set" 
-		title="Вулиці Херцег-Нові"
-		alt="Вулиці Херцег-Нові">
-
-		<img src="photo/CIMG1397p.JPG" 
-			width="230"
-			height="150"
-			alt="Вулиці Херцег-Нові">
+	<a href="photo/CIMG1397p.JPG" rel="lightbox-set" title="Вулиці Херцег-Нові">
+		<img src="photo/CIMG1397p.JPG"  width="230" height="150" alt="Вулиці Херцег-Нові">
 	</a> 
-
-	<a href="photo/CIMG1407p.JPG" 
-		rel="lightbox-set" 
-		title="Вулиці Херцег-Нові"
-		alt="Вулиці Херцег-Нові">
-
-		<img src="photo/CIMG1407p.JPG" 
-			width="230"
-			height="150"
-			alt="Вулиці Херцег-Нові">
+	<a href="photo/CIMG1407p.JPG" rel="lightbox-set" title="Вулиці Херцег-Нові">
+		<img src="photo/CIMG1407p.JPG"  width="230" height="150" alt="Вулиці Херцег-Нові">
 	</a> 
-
-	<a href="photo/CIMG1398p.JPG" 
-		rel="lightbox-set" 
-		title="Вулиці Херцег-Нові"
-		alt="Вулиці Херцег-Нові">
-
-		<img src="photo/CIMG1398p.JPG" 
-			width="230"
-			height="150"
-			alt="Вулиці Херцег-Нові">
+	<a href="photo/CIMG1398p.JPG" rel="lightbox-set" title="Вулиці Херцег-Нові">
+		<img src="photo/CIMG1398p.JPG"  width="230" height="150" alt="Вулиці Херцег-Нові">
 	</a>
 </p>
 
@@ -171,15 +153,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="float: right; margin:0 0 5px 10px;">
-	<a href="photo/mont/mimoza.jpg" 
-		rel="lightbox-set" 
-		title="Дерево мімози"
-		alt="Дерево мімози">
-
-	<img src="photo/mont/mimoza.jpg" 
-		width="500"
-		height="360"
-		alt="Мімоза">
+	<a href="photo/mont/mimoza.jpg" rel="lightbox-set" title="Дерево мімози">
+		<img src="photo/mont/mimoza.jpg" width="500 height="360 alt="Мімоза">
 	</a>
 </p>
 
@@ -205,37 +180,14 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="margin:15px auto; text-align:center">
-	<a href="photo/mont/day_mimoza_1.jpg" 
-		rel="lightbox-set" 
-		title="Фестиваль мімози"
-		alt="Фестиваль мімози">
-
-		<img src="photo/mont/day_mimoza_1.jpg" 
-			width="230"
-			height="150"
-			alt="Свято мімози">
+	<a href="photo/mont/day_mimoza_1.jpg" rel="lightbox-set" title="Фестиваль мімози">
+<img src="photo/mont/day_mimoza_1.jpg"  width="230" height="150" alt="Свято мімози">
 	</a> 
-
-	<a href="photo/mont/day_mimoza_2.jpg" 
-		rel="lightbox-set" 
-		title="Мажоретки на фестивалі мімози"
-		alt="Мажоретки на фестивалі мімози">
-
-		<img src="photo/mont/day_mimoza_2.jpg" 
-			width="230"
-			height="150"
-			alt="Свято мімози">
+a href="photo/mont/day_mimoza_2.jpg" rel="lightbox-set" title="Мажоретки на фестивалі мімози">
+<img src="photo/mont/day_mimoza_2.jpg"  width="230" height="150" alt="Свято мімози">
 	</a> 
-
-	<a href="photo/mont/day_mimoza_3.jpg" 
-		rel="lightbox-set" 
-		title="Свято мімози"
-		alt="Свято мімози">
-
-		<img src="photo/mont/day_mimoza_3.jpg" 
-			width="230"
-			height="150"
-			alt="Свято мімози">
+a href="photo/mont/day_mimoza_3.jpg" rel="lightbox-set" title="Свято мімози">
+<img src="photo/mont/day_mimoza_3.jpg"  width="230" height="150" alt="Свято мімози">
 	</a>
 </p>
 
@@ -248,15 +200,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="text-align:center; margin: 20px auto;">
-
-	<a href="photo/mont/kotor2.jpg" 
-		rel="lightbox-set" 
-		title="Бока-Которська затока"
-		alt="Бока-Которська затока">
-
-		<img src="photo/mont/kotor2.jpg" 
-			title="Бока-Которська затока"
-			alt="Бока-Которська затока">
+<a href="photo/mont/kotor2.jpg" rel="lightbox-set" title="Бока-Которська затока">
+	<img src="photo/mont/kotor2.jpg"  title="Бока-Которська затока" alt="Бока-Которська затока">
 	</a>
 </p>
 
@@ -274,27 +219,11 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="margin:15 px auto; text-align:center">
-
-	<a href="photo/mont/history1.jpg" 
-		rel="lightbox-set" 
-		title="Форте-Маре"
-		alt="Форте-Маре">
-		
-		<img src="photo/mont/history1.jpg" 
-			width="400"
-			height="270"
-			alt="Форте-Маре">
+	<a href="photo/mont/history1.jpg" rel="lightbox-set" title="Форте-Маре">
+		<img src="photo/mont/history1.jpg"  width="400" height="270" alt="Форте-Маре">
 	</a>
-
-	<a href="photo/mont/history2.jpg" 
-		rel="lightbox-set" 
-		title="Канлі-кула"
-		alt="Канлі-кула">
-		
-		<img src="photo/mont/history2.jpg" 
-			width="400"
-			height="270"
-			alt="Канлі-кула">
+	<a href="photo/mont/history2.jpg" rel="lightbox-set" title="Канлі-кула">
+		<img src="photo/mont/history2.jpg"  width="400" height="270" alt="Канлі-кула">
 	</a>
 </p>
 
@@ -306,27 +235,11 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 	Ще можна піднятися на фортечні стіни, і насолодитися панорамою відкритого моря або видом найбільшого фіорду Середземномор'я - воістину вражаюче видовище.
 </p>
 <p style="margin:15px auto; text-align:center">
-
-	<a href="photo/mont/fiort1.JPG" 
-		rel="lightbox-set" 
-		title="Фіорд в Херцег - Нові"
-		alt="Фіорд в Херцег - Нові">
-
-		<img src="photo/mont/fiort1.JPG" 
-			width="400"
-			height="270"
-			alt="Фіорд в Херцег - Нові">
+	<a href="photo/mont/fiort1.JPG" rel="lightbox-set" title="Фіорд в Херцег - Нові">
+		<img src="photo/mont/fiort1.JPG"  width="400" height="270" alt="Фіорд в Херцег - Нові">
 	</a>
-
-	<a href="photo/mont/fiort2.JPG" 
-		rel="lightbox-set" 
-		title="Вигляд із стін фортеці"
-		alt="Вигляд із стін фортеці">
-
-		<img src="photo/mont/fiort2.JPG" 
-			width="400"
-			height="270"
-			alt="Фіорд в Херцег - Нові">
+	<a href="photo/mont/fiort2.JPG" rel="lightbox-set" title="Вигляд із стін фортеці">
+		<img src="photo/mont/fiort2.JPG"  width="400" height="270" alt="Вигляд із стін фортеці">
 	</a>
 
 <h4 style="text-align:center">
@@ -355,15 +268,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="text-align:center; margin:15px auto;">
-
-	<a href="photo/mont/church.jpg" 
-		rel="lightbox-set" 
-		title="Монастир Савіна"
-		alt="Монастир Савіна">
-
-		<img src="photo/mont/church.jpg"
-			title="Монастир Савіна" 
-			alt="Монастир Савіна">
+	<a href="photo/mont/church.jpg" rel="lightbox-set" title="Монастир Савіна">
+		<img src="photo/mont/church.jpg" title="Монастир Савіна"  alt="Монастир Савіна">
 	</a>
 </p>
 
@@ -381,15 +287,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="text-align:center;margin:15px auto;">
-
-	<a href="photo/mont/garden.jpg" 
-		rel="lightbox-set" 
-		title="Ботанічний сад"
-		alt="Ботанічний сад">
-
-		<img src="photo/mont/garden.jpg"
-			title="Ботанічний сад" 
-			alt="Ботанічний сад">
+	<a href="photo/mont/garden.jpg" rel="lightbox-set" title="Ботанічний сад">
+		<img src="photo/mont/garden.jpg" title="Ботанічний сад"  alt="Ботанічний сад">
 	</a>
 </p>
 
@@ -417,27 +316,11 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="margin:15px auto; text-align:center">
-
-	<a href="photo/mont/beach1.JPG" 
-		rel="lightbox-set" 
-		title="Пляжі в Херцег-Нові"
-		alt="Пляжі в Херцег-Нові">
-
-		<img src="photo/mont/beach1.JPG" 
-			width="400"
-			height="270"
-			alt="Пляжі в Херцег - Нові">
+	<a href="photo/mont/beach1.JPG" rel="lightbox-set" title="Пляжі в Херцег-Нові">
+		<img src="photo/mont/beach1.JPG"  width="400" height="270" alt="Пляжі в Херцег - Нові">
 	</a> 
-
-	<a href="photo/mont/beach2.JPG" 
-		rel="lightbox-set" 
-		title="Пляжі в Херцег-Нові"
-		alt="Пляжі в Херцег-Нові">
-
-		<img src="photo/mont/beach2.JPG" 
-			width="400"
-			height="270"
-			alt="Пляжі в Херцег - Нові">
+	<a href="photo/mont/beach2.JPG" rel="lightbox-set" title="Пляжі в Херцег-Нові">
+		<img src="photo/mont/beach2.JPG"  width="400" height="270" alt="Пляжі в Херцег - Нові">
 	</a>
 
 <h4 style="text-align:center">
@@ -457,27 +340,11 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="margin:15px auto; text-align:center">
-
-	<a href="photo/mont/miriste.jpg" 
-		rel="lightbox-set" 
-		title="Пляж Мірісте"
-		alt="Пляж Мірісте">
-
-		<img src="photo/mont/miriste.jpg" 
-			width="400"
-			height="270"
-			alt="Пляж Мірісте">
+	<a href="photo/mont/miriste.jpg" rel="lightbox-set" title="Пляж Мірісте">
+		<img src="photo/mont/miriste.jpg"  width="400" height="270" alt="Пляж Мірісте">
 	</a>
-
-	<a href="photo/mont/mamula.jpg" 
-		rel="lightbox-set" 
-		title="Острів Мамула"
-		alt="Острів Мамула">
-
-		<img src="photo/mont/mamula.jpg" 
-			width="400"
-			height="270"
-			alt="Острів Мамула">
+	<a href="photo/mont/mamula.jpg" rel="lightbox-set" title="Острів Мамула">
+		<img src="photo/mont/mamula.jpg"  width="400" height="270" alt="Острів Мамула">
 	</a>
 
 <h4 style="text-align:center">
@@ -498,27 +365,11 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 <p>
 
 <p style="margin:15px auto; text-align:center">
-
-	<a href="photo/mont/bluecave1.jpg" 
-		rel="lightbox-set" 
-		title="Голуба печера"
-		alt="Голуба печера">
-
-		<img src="photo/mont/bluecave1.jpg" 
-			width="400"
-			height="270"
-			alt="Голуба печера">
+	<a href="photo/mont/bluecave1.jpg" rel="lightbox-set" title="Голуба печера">
+		<img src="photo/mont/bluecave1.jpg"  width="400" height="270" alt="Голуба печера">
 	</a> 
-
-	<a href="photo/mont/bluecave2.jpg" 
-		rel="lightbox-set" 
-		title="Голуба печера"
-		alt="Голуба печера">
-
-		<img src="photo/mont/bluecave2.jpg" 
-			width="400"
-			height="270"
-			alt="Голуба печера">
+	<a href="photo/mont/bluecave2.jpg" rel="lightbox-set" title="Голуба печера">
+		<img src="photo/mont/bluecave2.jpg"  width="400" height="270" alt="Голуба печера">
 	</a>
 
 <h4 style="text-align:center">
@@ -530,48 +381,25 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="margin:15px auto; text-align:center">
-
-	<a href="photo/mont/rosibeach1.jpg" 
-		rel="lightbox-set" 
-		title="Пляж Росі"
-		alt="Пляж Росі">
-
-		<img src="photo/mont/rosibeach1.jpg" 
-			width="400"
-			height="270"
-			alt="Пляж Росі">
+	<a href="photo/mont/rosibeach1.jpg" rel="lightbox-set" title="Пляж Росі">
+		<img src="photo/mont/rosibeach1.jpg"  width="400" height="270" alt="Пляж Росі">
 	</a>
-
-	<a href="photo/mont/rosibeach2.jpg" 
-		rel="lightbox-set" 
-		title="Пляж Росі"
-		alt="Пляж Росі">
-
-		<img src="photo/mont/rosibeach2.jpg" 
-			width="400"
-			height="270"
-			alt="Пляж Росі">
+	<a href="photo/mont/rosibeach2.jpg" rel="lightbox-set" title="Пляж Росі">
+		<img src="photo/mont/rosibeach2.jpg"  width="400" height="270" alt="Пляж Росі">
 	</a>
+</p>
 
 <h4 style="text-align:center">
 	<i>Пляж Росі</i>
 </h4>
-
 
 <p>
 	Місто Росі розташоване на краю півострова <i>Лушіца</i>. У ньому багато унікальних зразків архітектури, а навколо Росі розкинулися розкішні ліси, в яких можна зустріти досить рідкісні види рослин. У семи кілометрах від Херцег-Нові є містечко <i>Нивиці</i>, колись рибальське село. Сьогодні це відомий курорт з довгим гальково-піщаним пляжем, облаштованим згідно з усіма вимогами підвищеного комфорту.
 </p>
 
 <p style="text-align:center; margin: 15px auto;">
-
-	<a href="photo/mont/lusticamap.jpg" 
-		rel="lightbox-set" 
-		title="Карта півострова Лушіца"
-		alt="Карта півострова Лушіца">
-
-		<img src="photo/mont/lusticamap.jpg" 
-			title="Карта півострова Лушіца"
-			alt="Карта півострова Лушіца">
+	<a href="photo/mont/lusticamap.jpg" rel="lightbox-set" title="Карта півострова Лушіца">
+		<img src="photo/mont/lusticamap.jpg" alt="Карта півострова Лушіца">
 	</a>
 </p>
 
@@ -587,15 +415,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="text-align:center; margin:15px auto;">
-
-	<a href="photo/mont/center.jpg" 
-		rel="lightbox-set" 
-		title="Пляж лікувально-оздоровчого центру"
-		alt="Пляж лікувально-оздоровчого центру">
-
-		<img src="photo/mont/center.jpg" 
-			title="Пляж лікувально-оздоровчого центру"
-			alt="Пляж лікувально-оздоровчого центру">
+	<a href="photo/mont/center.jpg" rel="lightbox-set" title="Пляж лікувально-оздоровчого центру">
+		<img src="photo/mont/center.jpg" alt="Пляж лікувально-оздоровчого центру">
 	</a>
 </p>
 
@@ -606,15 +427,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="text-align:center;margin:15px auto;">
-
-	<a href="photo/mont/prgnobeach.jpg" 
-		rel="lightbox-set" 
-		title="Пляж Пржно, Луштіца"
-		alt="Пляж Пржно, Луштіца">
-
-		<img src="photo/mont/prgnobeach.jpg" 
-			title="Пляж Пржно, Луштіца"
-			alt="Пляж Пржно, Луштіца"> 
+	<a href="photo/mont/prgnobeach.jpg" rel="lightbox-set" title="Пляж Пржно, Луштіца">
+		<img src="photo/mont/prgnobeach.jpg" alt="Пляж Пржно, Луштіца"> 
 	</a>
 </p>
 
@@ -625,15 +439,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="text-align:center; margin:15px auto;">
-
-	<a href="photo/mont/bluegorbeaches.jpg" 
-		rel="lightbox-set" 
-		title="Пляж Плаві Горізонти"
-		alt="Пляж Плаві Горізонти">
-
-		<img src="photo/mont/bluegorbeaches.jpg" 
-			title="Пляж Плаві Горізонти"
-			alt="Пляж Плаві Горізонти">
+	<a href="photo/mont/bluegorbeaches.jpg" rel="lightbox-set" title="Пляж Плаві Горізонти">
+		<img src="photo/mont/bluegorbeaches.jpg" alt="Пляж Плаві Горізонти">
 	</a>
 </p>
 
@@ -649,16 +456,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 <h3>1.Парк Дурмітор. Каньйон річки Тара</h3>
 
 <p style="float: right; margin:15px 0;">
-
-	<a href="photo/mont/dyrmitor.jpg" 
-		rel="lightbox-set" 
-		title="Каньйон річки Тари"
-		alt="Каньйон річки Тари">
-
-		<img src="photo/mont/dyrmitor.jpg" 
-			width="500"
-			height="360"
-			alt="Каньйон річки Тари">
+	<a href="photo/mont/dyrmitor.jpg" rel="lightbox-set" title="Каньйон річки Тари">
+		<img src="photo/mont/dyrmitor.jpg"  width="500" height="360" alt="Каньйон річки Тари">
 	</a>
 </p>
 
@@ -668,16 +467,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 
 
 <p style="float: right; margin:15px 0;">
-
-	<a href="photo/mont/splav.jpg" 
-		rel="lightbox-set" 
-		title="Сплав по річці"
-		alt="Сплав по річці">
-
-	<img src="photo/mont/splav.jpg" 
-		width="500"
-		height="360"
-		alt="Сплав по річці">
+	<a href="photo/mont/splav.jpg" rel="lightbox-set" title="Сплав по річці">
+	<img src="photo/mont/splav.jpg"  width="500" height="360" alt="Сплав по річці">
 	</a>
 </p>
 
@@ -698,15 +489,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="text-align:center; margin:15px 0;">
-
-	<a href="photo/mont/skadarlake.jpg" 
-		rel="lightbox-set" 
-		title="Скадарське озеро"
-		alt="Скадарське озеро">
-
-		<img src="photo/mont/skadarlake.jpg" 
-			title="Скадарське озеро"
-			alt="Скадарське озеро">
+	<a href="photo/mont/skadarlake.jpg" rel="lightbox-set" title="Скадарське озеро">
+		<img src="photo/mont/skadarlake.jpg" alt="Скадарське озеро">
 	</a>
 </p>
 
@@ -720,15 +504,8 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="text-align:center;margin:15px 0;">
-
-	<a href="photo/mont/lovchen1.jpg" 
-		rel="lightbox-set" 
-		title="Гора Ловчен"
-		alt="Гора Ловчен">
-
-		<img src="photo/mont/lovchen1.jpg" 
-			title="Гора Ловчен"
-			alt="Гора Ловчен">
+	<a href="photo/mont/lovchen1.jpg" rel="lightbox-set" title="Гора Ловчен">
+		<img src="photo/mont/lovchen1.jpg" alt="Гора Ловчен">
 	</a>
 </p>
 
@@ -752,28 +529,14 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="text-align:center;margin:15px 0;">
-
-	<a href="photo/mont/ostrog1.jpg" 
-		rel="lightbox-set" 
-		title="Монастир Острог"
-		alt="Монастир Острог">
-
-		<img src="photo/mont/ostrog1.jpg" 
-			title="Монастир Острог"
-			alt="Монастир Острог">
+	<a href="photo/mont/ostrog1.jpg" rel="lightbox-set" title="Монастир Острог">
+		<img src="photo/mont/ostrog1.jpg" alt="Монастир Острог">
 		</a>
 </p>
 
 <p style="text-align:center;margin:15px 0;">
-
-	<a href="photo/mont/ostrog2.jpg" 
-		rel="lightbox-set" 
-		title="Ікона в скелі"
-		alt="Ікона в скелі">
-
-		<img src="photo/mont/ostrog2.jpg" 
-			title="Ікона в скелі"
-			alt="Ікона в скелі">
+	<a href="photo/mont/ostrog2.jpg" rel="lightbox-set" title="Ікона в скелі">
+		<img src="photo/mont/ostrog2.jpg" alt="Ікона в скелі">
 	</a>
 </p>
 
@@ -794,28 +557,13 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="margin:15px auto; text-align:center">
-
-	<a href="photo/mont/plavigorizont1.jpg" 
-		rel="lightbox-set" 
-		title="Пляж  Plavi Horizont"
-		alt="Пляж  Plavi Horizont">
-
-		<img src="photo/mont/plavigorizont1.jpg" 
-			width="400"
-			height="270"
-			alt="Пляж  Plavi Horizont">
+	<a href="photo/mont/plavigorizont1.jpg" rel="lightbox-set" title="Пляж  Plavi Horizont">
+		<img src="photo/mont/plavigorizont1.jpg"  width="400" height="270" alt="Пляж  Plavi Horizont">
 	</a>
-
-	<a href="photo/mont/plavigorizont2.jpg" 
-		rel="lightbox-set" 
-		title="Скелі"
-		alt="Скелі">
-
-			<img src="photo/mont/plavigorizont2.jpg" 
-			width="400"
-			height="270"
-			alt="Скелі">
+	<a href="photo/mont/plavigorizont2.jpg" rel="lightbox-set" title="Скелі">
+			<img src="photo/mont/plavigorizont2.jpg"  width="400" height="270" alt="Скелі">
 	</a>
+</p>
 
 <h4 style="text-align:center">
 	<i>Пляж Plavi Horizont. Прогулявшись хвойним парком від основного пляжу можна потрапити на скелястий берег</i>
@@ -830,35 +578,20 @@ Use Photos from http://world-bays.com/boka-kotorska/ -->
 </p>
 
 <p style="text-align:center;margin:15px 0;">
-
-	<a href="photo/mont/jaz1.jpg" 
-		rel="lightbox-set" 
-		title="Пляж Яз"
-		alt="Пляж Яз">
-
-		<img src="photo/mont/jaz1.jpg" 
-			title="Пляж Яз"
-			alt="Пляж Яз">
+	<a href="photo/mont/jaz1.jpg" rel="lightbox-set" title="Пляж Яз">
+		<img src="photo/mont/jaz1.jpg" alt="Пляж Яз">
 	</a>
 </p>
 
 <p style="text-align:center; margin:15px 0;">
-
-	<a href="photo/mont/jaz2.jpg" 
-		rel="lightbox-set" 
-		title="Пляж Яз"
-		alt="Пляж Яз">
-
-		<img src="photo/mont/jaz2.jpg" 
-			title="Пляж Яз"
-			alt="Пляж Яз">
+	<a href="photo/mont/jaz2.jpg" rel="lightbox-set" title="Пляж Яз">
+		<img src="photo/mont/jaz2.jpg" alt="Пляж Яз">
 	</a>
 </p>
 
 <p>
 	<i>*Нагадаємо, що при бажанні можемо організувати Вам приватну екскурсію по вище переліченим та іншим цікавим куточкам Чорногорії.</i>
 </p>
-
 
 <*/content*>
 <*keywords*>історія, храми, монастирі, пляжі Чорногорії, клімат Чорногорії, Герцег-Нові<*/keywords*>

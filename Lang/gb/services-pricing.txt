@@ -8,13 +8,11 @@
 <br>
 
 <p>
-<h1 style="text-align:center">At your service we offer: </h1>
+	<h1 style="text-align:center">At your service we offer: </h1>
 </p>
 
 <script type="text/javascript" src="scripts/rotator.js"></script>
-<!-- Автор Dylan Wagstaff, http://www.alohatechsupport.net -->
 
- 
 <style>
 #rotator {
 position:relative;
@@ -42,24 +40,41 @@ h1 {
 
 </style> 
 
-<div id="rotator" style="float: center;>
-margin-top: 0px; 
-margin-left: 380px;
-margin-bottom: 5px;">
-
-
-  <ul>
-    <li class="show"><img class="box9" src="photo/rotator/dom_b.jpg" width="420" height="290" alt="pic1" /></a></li>
-    <li><img class="box9" src="photo/rotator/outside_b.jpg" width="420" height="290" alt="pic2" ></a></li>
-	<li><img class="box9" src="photo/rotator/interirer_b.jpg" width="420" height="290" alt="pic4"  /></a></li>
-	<li><img class="box9" src="photo/rotator/altanka_b.jpg" width="420" height="290" alt="pic5"/></a></li>
-	<li><img class="box9" src="photo/rotator/divan.jpg" width="420" height="290" alt="pic6"  /></a></li>
-	<li><img class="box9" src="photo/rotator/kitchen_new.jpg" width="420" height="290" alt="pic7"/></a></li>
-	<li><img class="box9" src="photo/rotator/stairs_b.jpg" width="420" height="290" alt="pic9"/></a></li>	
-	<li><img class="box9" src="photo/rotator/corridor.jpg" width="420" height="290" alt="pic10"/></a></li>
-	<li><img class="box9" src="photo/rotator/kovka.jpg" width="420" height="290" alt="pic11"/></a></li>
-	<li><img class="box9" src="photo/rotator/plants.jpg" width="420" height="290" alt="pic12"/></a></li>
-	<li><img class="box9" src="photo/rotator/villa_new.jpg" width="420" height="290" alt="pic13"/></a></li>
+<div id="rotator" style="float: center; margin-top: 0px; margin-left: 380px; margin-bottom: 5px;">
+	<ul>
+		<li class="show">
+			<img class="box9" src="photo/rotator/dom_b.jpg" width="420" height="290" alt="pic1" />
+		</li>
+		<li>
+			<img class="box9" src="photo/rotator/outside_b.jpg" width="420" height="290" alt="pic2" >
+		</li>
+		<li>
+			<img class="box9" src="photo/rotator/interirer_b.jpg" width="420" height="290" alt="pic4"  />
+		</li>
+		<li>
+			<img class="box9" src="photo/rotator/altanka_b.jpg" width="420" height="290" alt="pic5"/>
+		</li>
+		<li>
+			<img class="box9" src="photo/rotator/divan.jpg" width="420" height="290" alt="pic6"/>
+		</li>
+		<li>
+			<img class="box9" src="photo/rotator/kitchen_new.jpg" width="420" height="290" alt="pic7"/>
+		</li>
+		<li>
+			<img class="box9" src="photo/rotator/stairs_b.jpg" width="420" height="290" alt="pic9"/>
+		</li>	
+		<li>
+			<img class="box9" src="photo/rotator/corridor.jpg" width="420" height="290" alt="pic10"/>
+		</li>
+		<li>
+			<img class="box9" src="photo/rotator/kovka.jpg" width="420" height="290" alt="pic11"/>
+		</li>
+		<li>
+			<img class="box9" src="photo/rotator/plants.jpg" width="420" height="290" alt="pic12"/>
+		</li>
+		<li>
+			<img class="box9" src="photo/rotator/villa_new.jpg" width="420" height="290" alt="pic13"/>
+		</li>
   </ul>
 </div>
 

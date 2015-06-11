@@ -1,6 +1,6 @@
 #nav-menu
 {
-	background-image: url(./img/menu_back.png);
+	background-image: url(../img/menu_back.png);
 	height:38px;
 }
 #nav-menu ul
@@ -29,7 +29,7 @@
 
 #nav-menu li a
 {
-	background-image: url(./img/menu_front.png);
+	background-image: url(../img/menu_front.png);
 	background-repeat: repeat-x;
 	font-family: Helvetica , sans-serif;
 	height: 38px;
@@ -43,13 +43,13 @@
 }
 #current_page
 {
-	background-image: url(./img/pressed.png) !important;
+	background-image: url(../img/pressed.png) !important;
 	color: #FFFFFF !important;
 	line-height: 36px !important;
 }
 #bottom-menu
 {
-	background-image: url(./img/botomMenu.png);
+	background-image: url(../img/botomMenu.png);
 	height:14px;
 }
 #bottom-menu ul

@@ -120,6 +120,24 @@
 				echo "<script type=\"text/javascript\" src=\"scripts/maps.js\"></script>$PHP_EOL";
 			}
 		?>
+
+		<script type="application/ld+json">
+			{
+				"@context": "http://schema.org/",
+				"@type": "Hotel",
+				"name": "Villa Leonardo",
+				"logo": "",
+				"image": "http://www.agencyleonard.com/photo/rotator/dom_b.jpg",
+				"description": "Two-story building of the villa is situated in the small picturesque resort village Zelenika not far from the most popular resort of Montenegro Herzeg - Novi city. Your rest here will differ greatly from mass tourism at nearby areas. You will enjoy the unique local nature and fill its favorable influence.",
+				"priceRange" : "15 - 42€ per night",
+				"address" : "Montenegro, Zelenika, 85346",
+				"email": "info@agencyleonard.com",
+				"foundingDate" : "2008-04-09T21:00:00.000Z",
+				"telephone" : "+38 (269) 272-431",
+				"map" :"https://www.google.com.ua/maps/@42.4512979,18.5782905,180m/data=!3m1!1e3"
+			}
+		</script>
+
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
 		<script type="text/javascript">
@@ -176,6 +194,7 @@
 		<script type="text/javascript" src="scripts/slimbox2.js"></script>
 		
 		<!-- <script type="text/javascript" src="scripts/allversion.js"></script> - Modernizr-->
+
 		<link rel="stylesheet" href="css/slimbox2.css" type="text/css" media="screen" />
 		<meta name="google-site-verification" content="vwQrVWduoy9SQBfbmcYZjavjmvv2oxk81W-P6AxRwtQ" />
 		<meta name="msvalidate.01" content="FD4B53F5D9C730B40F88ED989FAEBE9F" />  
@@ -186,11 +205,12 @@
 		<meta name="keywords" content="<?php echo $keywords; if(($keywordsLocal != "")&&($keywords != "")) echo ", "; echo $keywordsLocal; ?>" />
 		<meta name="Description" content="<?php echo $description; if(($descriptionLocal != "")&&($description != "")) echo " "; echo $descriptionLocal; ?>" />
 		<title><?php echo $title; if(($titleLocal != "")&&($title != "")) echo " - "; echo $titleLocal; ?></title>
-		<link rel="stylesheet" type="text/css" href="main.css"/>
-		<link rel="stylesheet" type="text/css" href="menu.css"/>
-		<link rel="stylesheet" type="text/css" href="mailform.css"/>
-		<link rel="stylesheet" type="text/css" href="lang_bar.css"/>
-		<link rel="stylesheet" type="text/css" href="dd-formmailer/dd-formmailer.css"/>
+		<link rel="stylesheet" href="css/main.css"/>
+		<link rel="stylesheet" href="css/menu.css"/>
+		<link rel="stylesheet" href="css/mailform.css"/>
+		<link rel="stylesheet" href="css/lang_bar.css"/>
+		<link rel="stylesheet" href="dd-formmailer/dd-formmailer.css"/>
+		<link rel="stylesheet" href="css/responsive.css">
 		<!--[if gte IE 5.5]>
 		<![if lt IE 7]>
 		<style type="text/css">
@@ -374,11 +394,11 @@ onclick="this.target='_blank'">Weather Forecast</a></p> -->
 
 	<div id="footer">
 		<p>©2010<?php $date_array = getdate(); if ($date_array[year]>2010) echo ("-".$date_array[year])?> Hotel Leonardo</p>
-		<div id="unikernel">
+		<!-- <div id="unikernel">
 			<a href="http://www.unikernel.net/">
 				© 2010 UniKernel IT Development Team
 			</a>
-		</div>
+		</div> -->
 
 	</div>
 	</body>

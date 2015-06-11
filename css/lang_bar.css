@@ -23,7 +23,7 @@
 	height: 32px;
 	width: 32px;
 	float: left;
-	background-image: url(./img/flags/flag_hover.png);
+	background-image: url(../img/flags/flag_hover.png);
 	display: block;
 	text-decoration: none; 
 	color: #D1C631 !important;
