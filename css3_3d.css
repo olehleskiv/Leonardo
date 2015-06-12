@@ -10,10 +10,10 @@ h2.title span { font-size: 4px; line-height: 10px; display: block; letter-spacin
 /* -------------------------------------------------------------------------------------------------------------------------
 Grid of images
 ---------------------------------------------------------------------------------------------------------------------------- */
-#grid { margin: 35px 0; }
+.grid { margin: 35px 0; }
 /*
 Add the transition affect to the images in the grid. Any changes to the element will be transtioned from it's current state, for example on :hover */
-#grid li { float: left; list-style: none; margin: 0 25px 25px 0; position: relative; overflow: hidden; border-top: 1px solid rgba(255, 255, 255, 0.25);
+.grid li { float: left; list-style: none; margin: 0 25px 25px 0; position: relative; overflow: hidden; border-top: 1px solid rgba(255, 255, 255, 0.25);
 	-webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.4);
 	-moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
@@ -22,10 +22,10 @@ Add the transition affect to the images in the grid. Any changes to the element 
 	-ms-transition: all 0.15s ease-in;
 	transition: all 0.15s ease-in;
 }
-#grid li.end { margin-right: 0; }
-#grid li:nth-child(3n) { margin-right: 0; }
+.grid li.end { margin-right: 0; }
+.grid li:nth-child(3n) { margin-right: 0; }
 
-#grid li:hover { z-index: 2;
+.grid li:hover { z-index: 2;
 	-webkit-transform: scale(1.2) translateY(-40px);	
 	-moz-transform: scale(1.2) translateY(-40px);	
 	-ms-transform: scale(1.2) translateY(-40px);	
@@ -36,7 +36,7 @@ Add the transition affect to the images in the grid. Any changes to the element 
 }
 /*
 Rotate left hand column to the left upon hover */
-#grid li:nth-child(3n-2):hover {
+.grid li:nth-child(3n-2):hover {
 	-webkit-transform: scale(1.2) translate3d(0, -30px, 0) rotate(-2.5deg);
 	-moz-transform: scale(1.2) translateY(-30px) rotate(-2.5deg);
 	-ms-transform: scale(1.2) translateY(-30px) rotate(-2.5deg);
@@ -44,21 +44,21 @@ Rotate left hand column to the left upon hover */
 }
 /*
 Rotate every third li with :nth-child(3n) (right hand column in this demo) to the right upon hover */
-#grid li:nth-child(3n):hover {
+.grid li:nth-child(3n):hover {
 	-webkit-transform: scale(1.2) translate3d(0, -30px, 0) rotate(2.5deg);	
 	-moz-transform: scale(1.2) translateY(-30px) rotate(2.5deg);	
 	-ms-transform: scale(1.2) translateY(-30px) rotate(2.5deg);	
 	transform: scale(1.2) translateY(-30px) rotate(2.5deg);	
 }
 
-#grid img, li[id]:target div, #grid li, .backface {
+.grid img, li[id]:target div, .grid li, .backface {
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
 }
 
 
-#grid .details { position: absolute; bottom: 0; background: #fff; background: rgba(255, 255, 255, 0.6); 
+.grid .details { position: absolute; bottom: 0; background: #fff; background: rgba(255, 255, 255, 0.6); 
 border-top: 2px solid rgba(0, 0, 0, 0.25); width: 250px; height: 17px; border-bottom: 1px solid rgba(0, 0, 0, 0.25); padding: 2px;
 
 	-webkit-border-radius:  0 0 5px 5px;
@@ -69,9 +69,9 @@ border-top: 2px solid rgba(0, 0, 0, 0.25); width: 250px; height: 17px; border-bo
 	box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.35);
 }
 
-#grid .details h3 {color: #2F4F4F; font-style: oblique; margin-bottom: 0px; margin-top:-4px;letter-spacing: -1px; }
+.grid .details h3 {color: #2F4F4F; font-style: oblique; margin-bottom: 0px; margin-top:-4px;letter-spacing: -1px; }
 
-#grid .longdetails { position: absolute; bottom: 0; background: #fff; background: rgba(255, 255, 255, 0.6); 
+.grid .longdetails { position: absolute; bottom: 0; background: #fff; background: rgba(255, 255, 255, 0.6); 
 border-top: 2px solid rgba(0, 0, 0, 0.25); width: 806px; height: 20px; border-bottom: 1px solid rgba(0, 0, 0, 0.25); padding: 2px;
 
 	-webkit-border-radius:  0 0 5px 5px;
@@ -82,7 +82,7 @@ border-top: 2px solid rgba(0, 0, 0, 0.25); width: 806px; height: 20px; border-bo
 	box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.35);
 }
 
-#grid .longdetails h3 {color: #2F4F4F; font-style: oblique; margin-bottom: 0px; margin-top:-4px;letter-spacing: -1px; }
+.grid .longdetails h3 {color: #2F4F4F; font-style: oblique; margin-bottom: 0px; margin-top:-4px;letter-spacing: -1px; }
 
 
 

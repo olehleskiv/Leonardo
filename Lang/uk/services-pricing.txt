@@ -110,7 +110,7 @@ p {text-indent: 40px;}
 <h3>Номер №1</h3>
 
 <div style="align:center; text-align:center; margin-top:20px; clear:both">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>2 односпальних ліжка</h3>
@@ -139,7 +139,7 @@ p {text-indent: 40px;}
 </div>
 
 <div style="margin: auto auto auto 130px; text-align:center; clear:both;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Ванна кімната</h3>
@@ -164,7 +164,7 @@ p {text-indent: 40px;}
 
 
 <div style="margin: auto auto auto 130px; text-align:center; clear:both;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Балкон</h3>
@@ -209,7 +209,7 @@ p {text-indent: 40px;}
 <h3>Номер №1</h3>
 
 <div style="margin:auto;text-align:left; clear:both;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Робоче місце</h3>
@@ -238,7 +238,7 @@ p {text-indent: 40px;}
 </div>
 
 <div style="margin: auto auto auto 130px; text-align:left; clear:both;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" ><h3>Друга спальня</h3></div> 
 			<a href="photo/tworoom/1/14.jpg" rel="lightbox-set" title="№1 - Двокімнатний номер (3-4 місця)">
@@ -257,7 +257,7 @@ p {text-indent: 40px;}
 	
 <h3 style="clear:left;">Номер №2</h3>
 <div style="align:center; margin: auto auto auto 50px;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Перша спальня (з балконом)</h3>
@@ -286,7 +286,7 @@ p {text-indent: 40px;}
 </div>
 
 <div style="margin: auto auto auto 130px; text-align:center; clear:both">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Робоче місце</h3>
@@ -308,7 +308,7 @@ p {text-indent: 40px;}
 <h3 style="clear:left;">Номер №3</h3>
 
 <div style="margin:auto;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Перша спальня (з балконом)</h3>
@@ -337,7 +337,7 @@ p {text-indent: 40px;}
 </div>
 
 <div style="margin: auto auto auto 130px; text-align:center; clear:both;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Друга спальня</h3>
@@ -358,7 +358,7 @@ p {text-indent: 40px;}
 </div>
 
 <div style="margin: auto auto auto 180px; text-align:center; clear:both;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3 style="text-align:left; margin-left:5px; font-size: 18px;">Ванна кімната</h3>
@@ -429,7 +429,7 @@ p {text-indent: 40px;}
 
 <h3 style="clear:left;">Апартамент №1</h3>
 <div style="margin-left:-15px; margin-right:auto; padding-right:12px; text-align:center; margin-top:20px; clear:both">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Кімната з кухнею та балконом</h3>
@@ -458,7 +458,7 @@ p {text-indent: 40px;}
 </div>
 
 <div style="margin: auto auto auto 130px; text-align:center; clear:both">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Ванна кімната</h3>
@@ -481,7 +481,7 @@ p {text-indent: 40px;}
 <h3 style="clear:left;">Апартамент №2</h3>
 
 <div style="margin-left:-15px; text-align:center;  clear:both">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Перша кімната (столик)</h3>
@@ -510,7 +510,7 @@ p {text-indent: 40px;}
 </div>
 
 <div style="margin-left:-15px; text-align:center;  clear:both">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Перехід в другу спальню</h3>
@@ -540,7 +540,7 @@ p {text-indent: 40px;}
 
 
 <div style="margin: auto auto auto 130px; text-align:center; clear:both">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Перша кімната (балкон)</h3>
@@ -574,7 +574,7 @@ p {text-indent: 40px;}
 	<br></br>
 
 <div style="float: right; margin-left: 0px; margin-top:-15px; margin-right:-10px; clear: right;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more">
 				<h3>Вілла</h3>
@@ -587,7 +587,7 @@ p {text-indent: 40px;}
 </div>
 
 <div style="float: right;margin-left: 0px; margin-top:-50px; margin-right:-10px; clear: right;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Загальна кухня</h3>
@@ -600,7 +600,7 @@ p {text-indent: 40px;}
 </div>
 
 <div style="float: right;margin-left: 0px; margin-top:-50px; margin-right:-10px;clear: right;">
-	<ul id="grid" class="group">
+	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Холл</h3>

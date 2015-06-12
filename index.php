@@ -194,7 +194,7 @@
 		<script type="text/javascript" src="scripts/slimbox2.js"></script>
 		
 		<!-- <script type="text/javascript" src="scripts/allversion.js"></script> - Modernizr-->
-
+		<!-- <link href='http://fonts.googleapis.com/css?family=Comfortaa:400,700&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>  Font-->
 		<link rel="stylesheet" href="css/slimbox2.css" type="text/css" media="screen" />
 		<meta name="google-site-verification" content="vwQrVWduoy9SQBfbmcYZjavjmvv2oxk81W-P6AxRwtQ" />
 		<meta name="msvalidate.01" content="FD4B53F5D9C730B40F88ED989FAEBE9F" />  

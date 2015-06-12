@@ -78,10 +78,6 @@ opacity: 0.7;
     background: -webkit-gradient(linear, left top, left bottom, from(#D2E9AE), to(#E7F3D4));
     background: -moz-linear-gradient(top,  #D2E9AE,  #D2E9AE);
 }
-#childth{
-padding:13px 15px 13px 15px;
-}
-
 
 .simple-little-table th:first-child{
     text-align: left;
@@ -120,10 +116,6 @@ padding:13px 15px 13px 15px;
     background: #fafafa;
     background: -webkit-gradient(linear, left top, left bottom, from(#fbfbfb), to(#fafafa));
     background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);
-}
-#childtd {
-text-align: left;
-padding:3px 3px 3px 10px;
 }
 
 .simple-little-table tr.even td{
@@ -166,7 +158,8 @@ padding:3px 3px 3px 10px;
     color: #bd5a35;
     text-decoration:underline;
 }	
-	
+
+
 .box9{
 	width: 425px;
 	min-height: 295px;

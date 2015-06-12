@@ -2,10 +2,10 @@
 .holder {
 	width: 550px;
 	margin:auto;
-	
 	overflow: hidden;
 }
 .topbar {
+	clear: left;
 	border: 1px solid rgba(0,0,0,0.2);
 	box-shadow: inset 0px 0px 1px 1px rgba(255,255,255,0.5), 
 				inset 0px -3px 15px -1px rgba(0,0,0,0.2);
@@ -19,7 +19,6 @@
 }
 .topbar h1 {
 	text-align: center;
-	margin: 0 10px 10px 0;
 	color: #fff;
 	font-size: 22px;
 	text-shadow: 1px 1px 0px rgba(0,0,0,0.3);
@@ -112,6 +111,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffaf4b', end
   .button{
   text-decoration:none; text-align:center; 
  padding:11px 32px; 
+ margin-left: 20px;
  border:solid 2px #7c8285; 
  -webkit-border-radius:29px;
  -moz-border-radius:29px; 

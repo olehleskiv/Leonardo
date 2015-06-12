@@ -1,24 +1,11 @@
-﻿<*title*>Відпочинок в Чорногорії<*/title*>
+<*title*>Відпочинок в Чорногорії<*/title*>
 <*content*>
 
 <link rel="stylesheet" href="list.css" />
 <link rel="stylesheet" href="services.css" />
 <link rel="stylesheet" href="css3_3d.css" media="screen" />
+<link rel="stylesheet" href="css/home.css">
 
- <style>
-   h1 {
-	margin-bottom: -15px; 
-	text-align:center;
-	font-size: 36px;
-   }
-   p{
-   text-indent: 40px;
-   }
-   .maintext{
-   font-size: 20px;
-   }
- 
-  </style>
 
 <br/>
 <h1>Готель-Вілла «Leonardo»</h1>
@@ -120,19 +107,19 @@
 		<ul>
 			<li>
 				<span>8</span>
-				<p style="text-indent: 20px;">
+				<p>
 					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#apartments">двокімнатних чотирихмісних апартаментів</a>
 				</p>
 			</li>
 			<li>
 				<span>3</span>
-				<p style="text-indent: 20px;">
+				<p>
 					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#tworoom">двокімнатні чотиримісні номери</a>
 				</p>
 			</li>
 			<li>
 				<span>5</span>
-				<p style="text-indent: 20px;">
+				<p>
 					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#oneroom">однокімнатних двомісних номерів</a>
 				</p>
 			</li>
@@ -142,9 +129,9 @@
 
 <div class="maintext"> 
 	<p>
-		<b> Розташування:</b> Зеленіка(2 км від Герцег-Нові). До Зеленіки легко дістатись автомобілем від аеропорту будь-якого з трьох міст:
+		<b>Розташування:</b> Зеленіка(2 км від Герцег-Нові). До Зеленіки легко дістатись автомобілем від аеропорту будь-якого з трьох міст:
 	</p>
-	<ul style="margin-left:160px;">
+	<ul>
 		<li><i>Тівата (25 км)</i></li>
 		<li><i>Подгоріци (100 км)</i></li>
 		<li><i>Дубровніка (30 км).</i></li>
@@ -155,80 +142,55 @@
 	<br>
 </div>
 
-<table class="simple-little-table" align="center" cellspacing='0' style="opacity:0.9; color: #666; font-size:16px;">
+<table class="simple-little-table villa-info-table" align="center" cellspacing='0'>
 	<tr>
-		<th style="text-align: center;"><b>В апартаментах:</b></th> 
-		<th style="text-align: center;"><b>В номері:</b></th>
+		<th><b>В апартаментах:</b></th>
+		<th><b>В номері:</b></th>
 	</tr>
 	<tr class='even'>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;меблі
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;меблі
-		</td>
+		<td><span>меблі</span></td>
+		<td><span>меблі</span></td>
 	</tr>
 	<tr>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;кондиціонер
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;кондиціонер
-		</td>
+		<td><span>кондиціонер</span></td>
+		<td><span>кондиціонер</span></td>
 	</tr>
 	<tr class='even'>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;телевізор (супутникове ТБ, україномовні канали)
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;телевізор (супутникове ТБ, україномовні канали)
-		</td>
+		<td><span>телевізор (супутникове ТБ, україномовні канали)</span></td>
+		<td><span>телевізор (супутникове ТБ, україномовні канали)</span></td>
 	</tr>
 	<tr>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;тераса
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;тераса
-		</td>
+		<td><span>тераса</span></td>
+		<td><span>тераса</span></td>
 	</tr>
 	<tr class='even'>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;санвузол (туалет, умивальник, душ)
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;санвузол (туалет, умивальник, душ)
-		</td>
+		<td><span>санвузол (туалет, умивальник, душ)</span></td>
+		<td><span>санвузол (туалет, умивальник, душ)</span></td>
 	</tr>
 	<tr>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;міні-кухня (електроплита, мийка, холодильник, посуд)
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;Кухня окремо на першому поверсі
-		</td>
+		<td><span>міні-кухня (електроплита, мийка, холодильник, посуд)</span></td>
+		<td><span>Кухня окремо на першому поверсі</span></td>
 	</tr>
 </table>
 
-<div style="height:315px;">
-	<ul id="grid" class="group">
-		<li style="margin-left:-25px;">
-			<div class="longdetails" class="more" >
-				<h3>Вигляд на Боко-Которську затоку</h3>
-			</div> 
-			<a href="img/proluv_gora.jpg" rel="lightbox-set" title="Вигляд на Боко-Которську затоку">
-				<img src="img/proluv_gora.jpg" alt="Вигляд на Боко-Которську затоку">
-			</a>
-		</li>
-	</ul>
-</div>
+<ul class="grid group">
+	<li class="boka-view-picture">
+		<div class="longdetails" class="more" >
+			<h3>Вигляд на Боко-Которську затоку</h3>
+		</div> 
+		<a href="img/proluv_gora.jpg" rel="lightbox-set" title="Вигляд на Боко-Которську затоку">
+			<img src="img/proluv_gora.jpg" alt="Вигляд на Боко-Которську затоку">
+		</a>
+	</li>
+</ul>
+
 
 <div class="topbar orange">
-	<h1 style="padding: 10px; color:grey;">Додаткова інформація: </h1>
+	<h1 class="grey-header">Додаткова інформація: </h1>
 </div>
 
-<ul id="grid" class="group">
-	<li style="float: right;  clear: right; margin-right:0px; margin-top:-20px;"> 
+<ul class="grid group">
+	<li class="right-side-pictures"> 
 		<div class="details" class="more" >
 			<h3>Вид на Котор із гори</h3>
 		</div> 
@@ -238,8 +200,8 @@
 	</li>
 </ul>
 
-<ul id="grid" class="group">
-	<li style="float:right; clear: right; margin-right:0px; margin-top:-15px;">
+<ul class="grid group">
+	<li class="right-side-pictures">
 		<div class="details" class="more" >
 			<h3>Мальовничий куточок</h3>
 		</div>
@@ -249,96 +211,59 @@
 	</li>
 </ul>
 
-<table class="simple-little-table" align="center" cellspacing='0' 
-	style="opacity:0.9; color: #666; font-size:16px; width:580px;margin-top:-20px; margin-left:0px;">
+<table class="simple-little-table villa-info-table add-info-table" align="center" cellspacing='0'>
 	<tr class='even'>
-		<th id="childth">
-			<b>1</b>
-		</th>
-		<td id="childtd" style="padding:5px 3px 5px 20px;">
-			мінімальний термін оренди 3 дні;
-		</td>
+		<th><b>1</b></th>
+		<td>мінімальний термін оренди 3 дні;</td>
 	</tr>
 	<tr>
-		<th id="childth">
-			<b>2</b>
-		</th>
-		<td id="childtd" style="padding:5px 3px 5px 20px;">
-			при резервуванні необхідний аванс в розмірі 30%;
-		</td>
+		<th><b>2</b></th>
+		<td>при резервуванні необхідний аванс в розмірі 30%;</td>
 	</tr>
-	<tr id="childtd" class='even'><th id="childth"><b>3</b>
-		</th>
-			<td id="childtd" style="padding:5px 3px 5px 20px;">
-				при ранньому  бронюванні діє знижка;
-			</td>
+	<tr class='even'>
+		<th><b>3</b></th>
+		<td>при ранньому  бронюванні діє знижка;</td>
 	</tr>
 	<tr>
-		<th id="childth"><b>4</b></th>
-		<td id="childtd" style="padding:5px 3px 5px 20px;">
-			прибирання і заміна постільної білизни – через 5-7 днів;
-		</td>
-		</tr>
+		<th><b>4</b></th>
+		<td>прибирання і заміна постільної білизни – через 5-7 днів;</td>
+	</tr>
 	<tr class='even'>
-		<th id="childth">
-			<b>5</b>
-		</th>
-		<td id="childtd" style="padding:5px 3px 5px 20px;">
-			за окрему платню  доступне використання пральної машинки;
-		</td>
-		</tr>
+		<th><b>5</b></th>
+		<td>за окрему платню  доступне використання пральної машинки;</td>
+	</tr>
 	<tr>
-		<th id="childth"><b>6</b></th>
-		<td id="childtd" style="padding:5px 3px 5px 20px;">
-			на прохання надається праска;
-		</td>
-		</tr>
+		<th><b>6</b></th>
+		<td>на прохання надається праска;</td>
+	</tr>
 	<tr class='even'>
-		<th id="childth"><b>7</b></th>
-		<td id="childtd" style="padding:5px 3px 5px 20px;">
-			на території вілли знаходиться безкоштовний паркінг, велика затишна альтанка, мангал.
-		</td>
-		</tr>
+		<th><b>7</b></th><td>на території вілли знаходиться безкоштовний паркінг, велика затишна альтанка, мангал.</td>
+	</tr>
 </table>
 
-<div class="topbar orange" style="margin:10px 0px 0px 0px;">
-	<h1 style="padding: 10px; color:grey;">Додаткові послуги: </h1>
+<div class="topbar orange">
+	<h1 class="grey-header">Додаткові послуги: </h1>
 </div>
 
-<div style="width:410px; height:220px;float:right; clear:right;" >
-	<table class="simple-little-table" align="center" cellspacing='0' 
-		style="opacity:0.9; color: #666; font-size:16px; margin-top:40px;">
-		<tr class='even'>
-			<th id="childth">
-				<b>1</b>
-			</th>
-			<td id="childtd" style="padding:5px 40px 5px 20px;">
-				У віллі надається прокат велосипедів
-			</td>
-		</tr>
-		<tr>
-			<th id="childth">
-				<b>2</b>
-			</th>
-			<td id="childtd" style="padding-left:20px;">
-				Надаємо трансфер з аеропорту Тіват
-			</td>
-		</tr>
-		<tr id="childtd" class='even'>
-			<th id="childth">
-				<b>3</b>
-			</th>
-			<td id="childtd" style="padding-left:20px;">
-				<a href="http://www.agencyleonard.com/?lang=uk&amp;page=about-montenegro">Пропонуємо екскурсії по Чорногорії</a>
-			</td>
-		</tr>
-	</table>
-</div>
+<table class="simple-little-table add-service-table" align="center" cellspacing='0'>
+	<tr class='even'>
+		<th><b>1</b></th>
+		<td>У віллі надається прокат велосипедів</td>
+	</tr>
+	<tr>
+		<th><b>2</b></th>
+		<td>Надаємо трансфер з аеропорту Тіват</td>
+	</tr>
+	<tr class='even'>
+		<th><b>3</b></th>
+		<td><a href="http://www.agencyleonard.com/?lang=uk&amp;page=about-montenegro">Пропонуємо екскурсії по Чорногорії</a></td>
+	</tr>
+</table>
 
-<div style="margin-left:-35px; margin-top:-20px; width: 430px; height:210px;">
-	<ul id="grid" class="group">
+<div class="add-service-img">
+	<ul class="grid group">
 		<li>
-			<div class="details"  class="more" style="width:430px;">
+			<div class="details" class="more">
 				<h3>Вигляд з гори Ловчен</h3>
 			</div> 
 			<a href="img/kraevud.jpg" rel="lightbox-set" title="Відпочинок в Чорногорії - Вигляд з гори Ловчен">
@@ -350,7 +275,7 @@
 
 <br>
 <h2 align="center">
-	Більше інформації в розділі &nbsp;&nbsp;
+	Більше інформації в розділі
 	<a href="http://agencyleonard.com/?page=services-pricing" class="button"/>Послуги</a>
 </h2>
 

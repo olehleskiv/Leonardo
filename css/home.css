@@ -1,0 +1,87 @@
+h1 {
+	text-align:center;
+	font-size: 36px;
+	color: #595353;
+	font-style: italic;
+}
+p{
+	text-indent: 40px;
+}
+.inbar p{
+	text-indent: 20px;
+}
+.villa-info-table{
+	opacity: 0.9;
+	color: #666;
+	font-size: 16px;
+}
+
+.simple-little-table.villa-info-table tr td{
+	text-align: left;
+	padding: 5px 3px 10px 10px;
+}
+
+.simple-little-table.villa-info-table tr th{
+	text-align: center;
+}
+
+.simple-little-table.villa-info-table tr td span:before{
+	content: '';
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/list2.png);
+	background-size: 100% 100%;
+	position: relative;
+	left: -5px;
+	top: 4px;
+}
+
+.simple-little-table.villa-info-table.add-info-table{
+	width: 580px;
+	margin-top: -20px;
+	margin-left: 0px;
+}
+.simple-little-table.villa-info-table.add-info-table td{
+	padding:5px 3px 5px 20px;
+}
+
+.simple-little-table.add-service-table{
+	opacity: 0.9;
+	color: #666;
+	font-size: 16px;
+	margin-top: 40px;
+	float: right; 
+	clear: right;
+}
+
+.simple-little-table.add-service-table tr td{
+	padding-left: 20px;
+}
+
+.grid.group .boka-view-picture{
+	margin-left:-25px;
+}
+
+.grid.group .right-side-pictures{
+	float: right; 
+	clear: right; 
+	margin-right: 0px; 
+	margin-top: -20px;
+}
+
+.grid.group .right-side-pictures:last-of-type{
+	margin-top: -10px;
+}
+
+.topbar.orange .grey-header{
+	padding: 10px; 
+	color: #8B8989;
+}
+
+.add-service-img{
+	margin-left:-35px;
+	margin-top:-20px;
+	width: 430px; 
+	height:210px;
+}
