@@ -194,15 +194,19 @@ body img
 #rotator ul li.show {z-index:500;}
 
 .scrollup{
-	width:40px;
-	height:40px;
-	opacity:0.3;
-	position:fixed;
-	bottom:50px;
-	right:50px;
-	display:none;
-	text-indent:-9999px;
-	background: url('img/icon_top.png') no-repeat;
+	width: 40px;
+	height: 40px;
+	opacity: 0.3;
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	display: none;
+	text-indent: -9999px;
+	background: url(../img/icon_top.png) no-repeat;
+}
+
+.scrollup:hover{
+	opacity: 0.8;
 }
 
 

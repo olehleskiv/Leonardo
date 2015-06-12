@@ -13,18 +13,6 @@
 		font-style: italic;
 	}
 
-	h3 {
-		margin-top: 50px;
-		margin-bottom: 20px;
-		text-align:center;
-		font-style: italic;
-		color: #595353;
-	}
-
-	p {
-		text-indent: 40px;
-	}
-
 	h2 {
 		margin-top: 50px;
 		margin-bottom: 20px;
@@ -33,9 +21,23 @@
 		color: #595353;
 	}
 
-	h4{
-		margin-top:-15px;
+	h3 {
+		margin-top: 50px;
+		margin-bottom: 20px;
+		text-align:center;
+		font-style: italic;
+		color: #595353;
 	}
+
+	h4{
+		margin: 0;
+		text-align: center;
+	}
+
+	p {
+		text-indent: 40px;
+	}
+
 
 	img :hover{
 		cursor:pointer;
@@ -78,6 +80,23 @@
 		height: 390px;
 		margin-bottom: 30px;
 	}
+
+	.centred-photo{
+		text-align: center;
+		margin-top: 20px;
+	}
+
+	.mimoza-pic-container{
+		float: right;
+		margin: 0 0 5px 15px;
+	}
+
+	.caption-right{
+		text-align: right;
+	}
+
+
+
 
 
 </style>
@@ -158,11 +177,11 @@
 		Найвища точка Чорногорії – гора </i>Дурмітор (2 522 м)</i>. У Чорногорії знаходиться найглибший в Європі і <b>другий за глибиною в світі</b> після Колорадо каньйон річки <i>Тара</i>. Цей каньйон глибиною близько <i>1200 м</i> визнаний природною спадщиною і знаходиться під захистом ЮНЕСКО.
 	</p>
 
-	<a href="photo/mont/tara.jpg" rel="lightbox-set" title="Каньйон річки Тара">
-	<p style="text-align:center; margin-top: 20px;">
+	<div class="centred-photo">
+		<a href="photo/mont/tara.jpg" rel="lightbox-set" title="Каньйон річки Тара">
 			<img src="photo/mont/tara.jpg" alt="Каньйон річки Тара">
-		</p>
-	</a>
+		</a>
+	</div>
 	<h4 style="text-align:center"><i>Каньйон річки Тара - другий у світі за глибиною</i></h4>
 
 	<p>
@@ -170,7 +189,7 @@
 	</p>
 	<h2>Херцег - Нові </h2>
 
-	<p style="margin:auto; text-align:center">
+	<div class="centred-photo">
 		<a href="photo/CIMG1397p.JPG" rel="lightbox-set" title="Вулиці Херцег-Нові">
 			<img src="photo/CIMG1397p.JPG"  width="230" height="150" alt="Вулиці Херцег-Нові">
 		</a> 
@@ -180,17 +199,17 @@
 		<a href="photo/CIMG1398p.JPG" rel="lightbox-set" title="Вулиці Херцег-Нові">
 			<img src="photo/CIMG1398p.JPG"  width="230" height="150" alt="Вулиці Херцег-Нові">
 		</a>
-	</p>
+	</div>
 
 	<p>
 		Археологічні розкопки свідчать про те, що поселення в цій місцевості існувало ще в античні часи. Заснував ж Херцег-Нові у <i>1382</i> році боснійський король <i>Твртко I</i>. Фортеця тоді називалась по-іншому - <i>Святий Стефан</i>, або, на венеціанський манер, <i>Сан-Стефано</i>. Через сто років після утворення в місто ввійшли турки, які контролювали його аж до 1687 року. Потім Херцег нові ще кілька разів змінював володарів, і, в підсумку, став частиною незалежної нині Чорногорії.
 	</p>
 
-	<p style="float: right; margin:0 0 5px 10px;">
+	<div class="mimoza-pic-container">
 		<a href="photo/mont/mimoza.jpg" rel="lightbox-set" title="Дерево мімози">
-			<img src="photo/mont/mimoza.jpg" width="500 height="360 alt="Мімоза">
+			<img src="photo/mont/mimoza.jpg" width="500" alt="Мімоза">
 		</a>
-	</p>
+	</div>
 
 	<p>
 		Шість століть зберігають місто Херцег Нові, споруджені навпроти входу до Боко Которської затоки - стіни фортець <i>Мара, Цитадель</i>, і башти <i>Канілі</i>. Місто будувалося з XIV по XVII століття, - стіни з часом покрилися екзотичними рослинами, які місцеві моряки привозили з далеких мандрів.Херцег Нові - місто сонця і квітів. Різноманітна флора цього регіону, по праву, дає вважати це містечко ботанічним садом Чорногорії. 
@@ -201,7 +220,7 @@
 	</p>
 	<br>
 
-	<h4 style="text-align:right">
+	<h4 class="caption-right">
 		<i>Мімоза – символ зимового фестивалю у Герцег-Нові</i>
 	</h4>
 
@@ -213,7 +232,7 @@
 		Свято мімози починається з виставки квітів, потім влаштовується хода духового оркестру та виступ мажореток. У найближчих селищах - <i>Дженовічі, Баошічі, Кумбор</i> рибалки влаштовують бенкет. Кожен рік на свято збирається до <i>20 тисяч гостей</i>. Увечері починається карнавал. Музика, танці і веселощі продовжуються цілий місяць, а в завершенні свята на міській площі влаштовують спалення солом'яної ляльки, яка символізує все погане, що було в минулому році і те, що люди хочуть скоріше забути.
 	</p>
 
-	<p style="margin:15px auto; text-align:center">
+	<div class="centred-photo">
 		<a href="photo/mont/day_mimoza_1.jpg" rel="lightbox-set" title="Фестиваль мімози">
 			<img src="photo/mont/day_mimoza_1.jpg"  width="230" height="150" alt="Свято мімози">
 		</a> 
@@ -223,9 +242,9 @@
 		<a href="photo/mont/day_mimoza_3.jpg" rel="lightbox-set" title="Свято мімози">
 			<img src="photo/mont/day_mimoza_3.jpg"  width="230" height="150" alt="Свято мімози">
 		</a>
-	</p>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Свято мімози у Герцег-Нові відбувається на початку лютого</i>
 	</h4>
 
@@ -233,13 +252,13 @@
 		З 1997 Бока-Которська затока була офіційно прийнята в Ассоцацію <a href="http://world-bays.com/boka-kotorska">28 найкрасивіших заток світу</a>.
 	</p>
 
-	<p style="text-align:center; margin: 20px auto;">
-	<a href="photo/mont/kotor2.jpg" rel="lightbox-set" title="Бока-Которська затока">
-		<img src="photo/mont/kotor2.jpg"  title="Бока-Которська затока" alt="Бока-Которська затока">
+	<div class="centred-photo">
+		<a href="photo/mont/kotor2.jpg" rel="lightbox-set" title="Бока-Которська затока">
+			<img src="photo/mont/kotor2.jpg" alt="Бока-Которська затока">
 		</a>
-	</p>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Бока-Которська затока</i>
 	</h4>
 
@@ -252,31 +271,32 @@
 		Пам'ятки міста - реальне відображення його історії. Австрійці звели тут годинникову вежу, а венеціанці збудували оборонний бастіон, що призначався для охорони поселення з боку моря. Ця морська фортеця під назвою <i>Форте-Маре</i> і годинникова башта збереглися в Херцег-Нові і сьогодні. Іспанці звели в місті фортецю <i>Шпаньола</i>, а при пануванні турків, в шістнадцятому столітті, в місті з'явилася ще одна цитадель - <i>Канлі-кула, або «Кривава вежа»</i>. Настільки зловісна назва будови пояснюється тим, що в ті давні часи вона була в'язницею, де довгі роки томилися нещасні в'язні. У наші дні Канлі-кула має зовсім інше призначення. На відкритому майданчику фортеці проходять театральні вистави й демонструються кінофільми.
 	</p>
 
-	<p style="margin:15 px auto; text-align:center">
+	<div class="centred-photo">
 		<a href="photo/mont/history1.jpg" rel="lightbox-set" title="Форте-Маре">
 			<img src="photo/mont/history1.jpg"  width="400" height="270" alt="Форте-Маре">
 		</a>
 		<a href="photo/mont/history2.jpg" rel="lightbox-set" title="Канлі-кула">
 			<img src="photo/mont/history2.jpg"  width="400" height="270" alt="Канлі-кула">
 		</a>
-	</p>
+	</div>
 
-	<h4 style="text-align:center;">
+	<h4>
 		<i>Канлі-кула, або «Кривава вежа» колись була вязницею, зараз місце проведення кінофестивалів</i>
 	</h4>
 
 	<p>
 		Ще можна піднятися на фортечні стіни, і насолодитися панорамою відкритого моря або видом найбільшого фіорду Середземномор'я - воістину вражаюче видовище.
 	</p>
-	<p style="margin:15px auto; text-align:center">
+	<div class="centred-photo">
 		<a href="photo/mont/fiort1.JPG" rel="lightbox-set" title="Фіорд в Херцег - Нові">
 			<img src="photo/mont/fiort1.JPG"  width="400" height="270" alt="Фіорд в Херцег - Нові">
 		</a>
 		<a href="photo/mont/fiort2.JPG" rel="lightbox-set" title="Вигляд із стін фортеці">
 			<img src="photo/mont/fiort2.JPG"  width="400" height="270" alt="Вигляд із стін фортеці">
 		</a>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Вигляд на затоку</i>
 	</h4>
 
@@ -301,13 +321,13 @@
 		У бібліотеці монастиря зберігається більше 5 000 рідкісних манускриптів, серед її експонатів - <b>унікальне рукописне Євангеліє 1375 року</b>.
 	</p>
 
-	<p style="text-align:center; margin:15px auto;">
+	<p class="centred-photo">
 		<a href="photo/mont/church.jpg" rel="lightbox-set" title="Монастир Савіна">
 			<img src="photo/mont/church.jpg" title="Монастир Савіна"  alt="Монастир Савіна">
 		</a>
 	</p>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Монастир відомий також тим, що в 2005 році на Đurđevdan (День Святого Георгія) в ньому прийняв хрещення знаменитий сербський режисер Емір Кустуріца.</i>
 	</h4>
 
@@ -320,13 +340,13 @@
 		За старим готелем «Бока» знаходиться чудовий Ботанічний сад, що з'явився в тридцяті роки двадцятого століття. Сад нараховує близько <i>вісімдесяти</i> видів екзотичних рослин, привезених сюди моряками з усіх куточків планети. Серед них - безліч мімоз. Цим прекрасним квітам присвячене дуже барвистий міське свято, що триває цілий місяць. Свято проводиться в кінці лютого і називається <i>«Фестиваль мімози»</i>.
 	</p>
 
-	<p style="text-align:center;margin:15px auto;">
+	<div class="centred-photo">
 		<a href="photo/mont/garden.jpg" rel="lightbox-set" title="Ботанічний сад">
-			<img src="photo/mont/garden.jpg" title="Ботанічний сад"  alt="Ботанічний сад">
+			<img src="photo/mont/garden.jpg" alt="Ботанічний сад">
 		</a>
-	</p>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Сад нараховує близько вісімдесяти видів екзотичних рослин</i>
 	</h4>
 
@@ -349,15 +369,16 @@
 		Пляжі в Херцег-Нові дуже різноманітні. Є тут і галькові пляжі, і штучні піщані пляжі, і пляжі-платформи. Рів'єра Херцег-Нові, що включає в себе невеликі острівці і курортні селища, простяглася на двадцять п'ять кілометрів.
 	</p>
 
-	<p style="margin:15px auto; text-align:center">
+	<div class="centred-photo">
 		<a href="photo/mont/beach1.JPG" rel="lightbox-set" title="Пляжі в Херцег-Нові">
 			<img src="photo/mont/beach1.JPG"  width="400" height="270" alt="Пляжі в Херцег - Нові">
 		</a> 
 		<a href="photo/mont/beach2.JPG" rel="lightbox-set" title="Пляжі в Херцег-Нові">
 			<img src="photo/mont/beach2.JPG"  width="400" height="270" alt="Пляжі в Херцег - Нові">
 		</a>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Пляжі в Херцег - Нові</i>
 	</h4>
 
@@ -373,15 +394,16 @@
 		Неподалік від пляжу знаходиться острів <i>Мамула</i>, до якого можна добратися на катері або човні.
 	</p>
 
-	<p style="margin:15px auto; text-align:center">
+	<div class="centred-photo">
 		<a href="photo/mont/miriste.jpg" rel="lightbox-set" title="Пляж Мірісте">
 			<img src="photo/mont/miriste.jpg"  width="400" height="270" alt="Пляж Мірісте">
 		</a>
 		<a href="photo/mont/mamula.jpg" rel="lightbox-set" title="Острів Мамула">
 			<img src="photo/mont/mamula.jpg"  width="400" height="270" alt="Острів Мамула">
 		</a>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Пляж Мірісте та острів Мамула</i>
 	</h4>
 
@@ -398,15 +420,16 @@
 		Між затокою <i>Золотий порт і мисом Мокра гора</i> знаходиться ще одна місцева дивина - <b>Блакитна печера</b>. Висота цього дива природи - дев'ять метрів, глибина - близько чотирьох метрів. Сюди абсолютно вільно може зайти невелика яхта.</p>
 	<p>
 
-	<p style="margin:15px auto; text-align:center">
+	<div class="centred-photo">
 		<a href="photo/mont/bluecave1.jpg" rel="lightbox-set" title="Голуба печера">
 			<img src="photo/mont/bluecave1.jpg"  width="400" height="270" alt="Голуба печера">
 		</a> 
 		<a href="photo/mont/bluecave2.jpg" rel="lightbox-set" title="Голуба печера">
 			<img src="photo/mont/bluecave2.jpg"  width="400" height="270" alt="Голуба печера">
 		</a>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Блакитна печера</i>
 	</h4>
 
@@ -414,16 +437,16 @@
 		У містечку <i>Росі</i> є ще один чудовий пляж, покритий дрібною галькою. Зона Росі довгий час була закрита для судноплавства, і морська вода в цих місцях, а разом з нею і берег, дуже чисті. Виняткова прозорість морської води залучає на пляж Росі безліч любителів <i>дайвінгу, підводного полювання і рибалки</i>.
 	</p>
 
-	<p style="margin:15px auto; text-align:center">
+	<div class="centred-photo">
 		<a href="photo/mont/rosibeach1.jpg" rel="lightbox-set" title="Пляж Росі">
 			<img src="photo/mont/rosibeach1.jpg"  width="400" height="270" alt="Пляж Росі">
 		</a>
 		<a href="photo/mont/rosibeach2.jpg" rel="lightbox-set" title="Пляж Росі">
 			<img src="photo/mont/rosibeach2.jpg"  width="400" height="270" alt="Пляж Росі">
 		</a>
-	</p>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Пляж Росі</i>
 	</h4>
 
@@ -431,13 +454,13 @@
 		Місто Росі розташоване на краю півострова <i>Лушіца</i>. У ньому багато унікальних зразків архітектури, а навколо Росі розкинулися розкішні ліси, в яких можна зустріти досить рідкісні види рослин. У семи кілометрах від Херцег-Нові є містечко <i>Нивиці</i>, колись рибальське село. Сьогодні це відомий курорт з довгим гальково-піщаним пляжем, облаштованим згідно з усіма вимогами підвищеного комфорту.
 	</p>
 
-	<p style="text-align:center; margin: 15px auto;">
+	<div class="centred-photo">
 		<a href="photo/mont/lusticamap.jpg" rel="lightbox-set" title="Карта півострова Лушіца">
 			<img src="photo/mont/lusticamap.jpg" alt="Карта півострова Лушіца">
 		</a>
-	</p>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Острів Луштіца, Блакитна печера, острів Мамула</i>
 	</h4>
 
@@ -448,66 +471,61 @@
 		Пляж знаменитого <b>лікувально-оздоровчого центру Чорногорії, Ігало</b>, - це просто дивовижне місце відпочинку. Він тягнеться від річки Суторіна до місцевого ресторану під назвою «Галеб». Частина пляжу покрита піском, частина - бетонними плитами. Уздовж пляжу вибудувані ресторани, бари, кафе. Ігало - популярний центр фізіотерапії, найбільший в басейні всього Середземномор'я. Поблизу нього знаходяться лікувально-грязьовий курорт «Ігальско блат» мінеральне джерело «Ігальске Слатіна».
 	</p>
 
-	<p style="text-align:center; margin:15px auto;">
+	<div class="centred-photo">
 		<a href="photo/mont/center.jpg" rel="lightbox-set" title="Пляж лікувально-оздоровчого центру">
 			<img src="photo/mont/center.jpg" alt="Пляж лікувально-оздоровчого центру">
 		</a>
-	</p>
+	</div>
 
-	<h4 style="text-align:center"><i>Пляж лікувально-оздоровчого центру</i></h4>
+	<h4><i>Пляж лікувально-оздоровчого центру</i></h4>
 
 	<p>
 		На території туристичного комплексу є різноманітні спортивні майданчики і зони відпочинку, і в кожному його куточку можна знайти затишний ресторанчик. В Ігало функціонує знаменитий <b>Інститут фізіотерапії і реабілітації імені доктора Симо Милошевича</b>, фахівці якого успішно лікують багато захворювань. Для лікувальних ванн з холодних радонових вод використовується мінеральна вода <i>«Ігалка»</i>, яку доставляють сюди з місцевих джерел.
 	</p>
 
-	<p style="text-align:center;margin:15px auto;">
+	<div class="centred-photo">
 		<a href="photo/mont/prgnobeach.jpg" rel="lightbox-set" title="Пляж Пржно, Луштіца">
 			<img src="photo/mont/prgnobeach.jpg" alt="Пляж Пржно, Луштіца"> 
 		</a>
-	</p>
+	</div>
 
-	<h4 style="text-align:center"><i>Пляж Пржно, Луштіца</i></h4>
+	<h4><i>Пляж Пржно, Луштіца</i></h4>
 
 	<p>
 		<i>По всьому узбережжю Херцег-Нові розташовуються невеликі, чисті і дуже затишні приватні пляжі. Вони вкриті маленькими бухточками і доками, серед оливкових, апельсинових і мандаринових гаїв. Всі ці природні принади, укупі з пам'ятниками старовини, надають цій місцевості особливий, ні з чим незрівняний, шарм.</i>
 	</p>
 
-	<p style="text-align:center; margin:15px auto;">
+	<div class="centred-photo">
 		<a href="photo/mont/bluegorbeaches.jpg" rel="lightbox-set" title="Пляж Плаві Горізонти">
 			<img src="photo/mont/bluegorbeaches.jpg" alt="Пляж Плаві Горізонти">
 		</a>
-	</p>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Пляж Плаві Горізонти (Блакитні горизонти)</i>
 	</h4>
 
 	<p>
 		<a name="fiveplaces"></a>
 	</p> 
-	<h2 style="text-align:center;margin-top:100px;">5 Особливих Місць в Чорногорії, які варто відвідати</h2>
+	<h2>5 Особливих Місць в Чорногорії, які варто відвідати</h2>
 
 	<h3>1.Парк Дурмітор. Каньйон річки Тара</h3>
 
-	<p style="float: right; margin:15px 0;">
-		<a href="photo/mont/dyrmitor.jpg" rel="lightbox-set" title="Каньйон річки Тари">
-			<img src="photo/mont/dyrmitor.jpg"  width="500" height="360" alt="Каньйон річки Тари">
-		</a>
-	</p>
-
-	<p style="margin-top:170px;">
+	<p>
 		Частина парку Дурмітор - Каньйон річки Тари, що є найглибшим у Європі (другий у світі після Гранд Каньйону)- включена до списку Всесвітньої спадщини ЮНЕСКО.
 	</p>
 
-
-	<p style="float: right; margin:15px 0;">
+	<div class="centred-photo">
 		<a href="photo/mont/splav.jpg" rel="lightbox-set" title="Сплав по річці">
-		<img src="photo/mont/splav.jpg"  width="500" height="360" alt="Сплав по річці">
+			<img src="photo/mont/splav.jpg"  width="400" height="270" alt="Сплав по річці">
 		</a>
-	</p>
+		<a href="photo/mont/dyrmitor.jpg" rel="lightbox-set" title="Каньйон річки Тари">
+			<img src="photo/mont/dyrmitor.jpg"  width="400" height="270" alt="Каньйон річки Тари">
+		</a>
+	</div>
 
-
-	<p style="margin-top:270px;">
+	<p>
 		<b>Розташування</b> - Каньйон Тари знаходиться на півночі  країни. Найближчі міста, звідки легко дістатися до каньйону - Жабляк, Плевля та Мойковац. До речі, <i>Жабляк</i> – відомий гірсько-лижний курорт Чорногорії, який варто відвідати взимку.
 	</p>
 
@@ -515,18 +533,16 @@
 		<i>Це місце припаде до душі екстрималам і любителям рафтингу.</i>
 	</p>
 
-	<br><br><br>
-
 	<h3>2. Скадарське озеро</h3>
 	<p>
 		Неймовірно чудова водойма грандіозних розмірів (близько 390 кв. км), що є домівкою  для пеліканів та інших видів птахів.
 	</p>
 
-	<p style="text-align:center; margin:15px 0;">
+	<div class="centred-photo">
 		<a href="photo/mont/skadarlake.jpg" rel="lightbox-set" title="Скадарське озеро">
 			<img src="photo/mont/skadarlake.jpg" alt="Скадарське озеро">
 		</a>
-	</p>
+	</div>
 
 	<p>
 		<b>Розташування</b> - <i>найбільше озеро Балкан знаходиться на межі Чорногорії та Албанії, 2/3 озера належить Чорногорії. З боку Чорногорії на березі західної частини озера розташоване містечко Вірпазар, з Албанської сторони на південно-східному краю озера - місто Шкодер</i>.
@@ -537,13 +553,13 @@
 		<i>Гора Ловчен</i> – національна атракція Чорногорії, що знаходиться в межах однойменного національного парку - вершина, з якої відкривається неймовірний пейзаж. Кажуть, що звідти можна побачити всю Чорногорію, частину Боснії і Герцеговини, Хорватію і, навіть, інколи Італію. Дорогою також можна помилуватись чудовим виглядом Боко-которської затоки.
 	</p>
 
-	<p style="text-align:center;margin:15px 0;">
+	<div class="centred-photo">
 		<a href="photo/mont/lovchen1.jpg" rel="lightbox-set" title="Гора Ловчен">
 			<img src="photo/mont/lovchen1.jpg" alt="Гора Ловчен">
 		</a>
-	</p>
+	</div>
 
-	<h4 align="center">
+	<h4>
 		<i>Поряд з меморіальним комплексом знаходиться оглядовий майданчик, з якого відкривається неймовірний пейзаж</i>
 	</h4>
 
@@ -562,17 +578,14 @@
 		Місце паломництва та найбільша святиня та визначна пам'ятка Чорногорії - <i>монастир Острог</i>. Він висічений у скелі високо в горах. Заснований монастир у XVII столітті, тут зберігаються мощі святого Василія Острозького.
 	</p>
 
-	<p style="text-align:center;margin:15px 0;">
+	<div class="centred-photo">
 		<a href="photo/mont/ostrog1.jpg" rel="lightbox-set" title="Монастир Острог">
-			<img src="photo/mont/ostrog1.jpg" alt="Монастир Острог">
-			</a>
-	</p>
-
-	<p style="text-align:center;margin:15px 0;">
-		<a href="photo/mont/ostrog2.jpg" rel="lightbox-set" title="Ікона в скелі">
-			<img src="photo/mont/ostrog2.jpg" alt="Ікона в скелі">
+			<img src="photo/mont/ostrog1.jpg" width="400" height="270" alt="Монастир Острог">
 		</a>
-	</p>
+		<a href="photo/mont/ostrog2.jpg" rel="lightbox-set" title="Ікона в скелі">
+			<img src="photo/mont/ostrog2.jpg" width="400" height="270" alt="Ікона в скелі">
+		</a>
+	</div>
 
 	<p>
 		<b>Розташування</b>: <i>Монастир Острог розташований в горах на висоті 900 метрів над рівнем моря, 15 км від міста Даніловграда.</i>
@@ -590,16 +603,16 @@
 		Протяжність пляжу – 320 м. Площа – 8500 кв. м.
 	</p>
 
-	<p style="margin:15px auto; text-align:center">
+	<div class="centred-photo">
 		<a href="photo/mont/plavigorizont1.jpg" rel="lightbox-set" title="Пляж  Plavi Horizont">
 			<img src="photo/mont/plavigorizont1.jpg"  width="400" height="270" alt="Пляж  Plavi Horizont">
 		</a>
 		<a href="photo/mont/plavigorizont2.jpg" rel="lightbox-set" title="Скелі">
-				<img src="photo/mont/plavigorizont2.jpg"  width="400" height="270" alt="Скелі">
+			<img src="photo/mont/plavigorizont2.jpg"  width="400" height="270" alt="Скелі">
 		</a>
-	</p>
+	</div>
 
-	<h4 style="text-align:center">
+	<h4>
 		<i>Пляж Plavi Horizont. Прогулявшись хвойним парком від основного пляжу можна потрапити на скелястий берег</i>
 	</h4>
 
@@ -611,17 +624,14 @@
 		В Чорногорії є досить багато пляжів такого типу по всьому узбережжі. Так наприклад можна також відвідати пляж <i>Яз (Jaz)</i>, розташований на однойменному мисі недалеко від Будви.
 	</p>
 
-	<p style="text-align:center;margin:15px 0;">
+	<div class="centred-photo">
 		<a href="photo/mont/jaz1.jpg" rel="lightbox-set" title="Пляж Яз">
-			<img src="photo/mont/jaz1.jpg" alt="Пляж Яз">
+			<img src="photo/mont/jaz1.jpg"  width="400" height="270" alt="Пляж Яз">
 		</a>
-	</p>
-
-	<p style="text-align:center; margin:15px 0;">
 		<a href="photo/mont/jaz2.jpg" rel="lightbox-set" title="Пляж Яз">
-			<img src="photo/mont/jaz2.jpg" alt="Пляж Яз">
+			<img src="photo/mont/jaz2.jpg"  width="400" height="270" alt="Пляж Яз">
 		</a>
-	</p>
+	</div>
 
 	<p>
 		<i>*Нагадаємо, що при бажанні можемо організувати Вам приватну екскурсію по вище переліченим та іншим цікавим куточкам Чорногорії.</i>

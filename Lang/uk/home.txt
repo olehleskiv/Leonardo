@@ -8,7 +8,9 @@
 
 
 <br/>
-<h1>Готель-Вілла «Leonardo»</h1>
+<header>
+	<h1>Готель-Вілла «Leonardo»</h1>
+</header>
 <br/>
 
 <div id="thumbScroller">
