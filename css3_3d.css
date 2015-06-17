@@ -13,7 +13,7 @@ Grid of images
 .grid { margin: 35px 0; }
 /*
 Add the transition affect to the images in the grid. Any changes to the element will be transtioned from it's current state, for example on :hover */
-.grid li { float: left; list-style: none; margin: 0 25px 25px 0; position: relative; overflow: hidden; border-top: 1px solid rgba(255, 255, 255, 0.25);
+.grid li { float: left; list-style: none; margin: 0 25px 15px 0; position: relative; overflow: hidden; border-top: 1px solid rgba(255, 255, 255, 0.25);
 	-webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.4);
 	-moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);

@@ -1,0 +1,136 @@
+#rotator {
+	position: relative;
+	top: -30px;
+	left: -40px;
+	margin-bottom: 220px;
+	border: 15px #444
+}
+
+h1 {
+	text-align: center;
+	margin-top: -20px;
+	font-style: italic;
+	color: #595353;
+}
+
+h2 {
+	margin-top: 100px;
+	text-align: center;
+	clear: both;
+	font-style: italic;
+	color: #595353;
+}
+
+h3 {
+	margin: 20px 0;
+	text-align: center;
+	font-style: italic;
+	color: #595353;
+}
+
+h3:hover{
+	color: #272524;
+}
+
+p {text-indent: 40px;}
+
+.buttonblock{
+	float: left;
+	width: 396px;
+	height: 208px;
+	padding: 5px;
+	text-align: center;
+	position: relative;
+	background-color: rgba(210, 233, 174, 0.4);
+	top: 40px;
+}
+
+.rotator-container{
+	margin-top: 0px;
+	float: left;
+	margin-bottom: 5px;
+}
+.nav-button{
+	width: 375px;
+	margin: -3px 0px 0px -4px;
+}
+.nav-button:last-of-type{
+	color: #191970;
+}
+.centred-img{
+	text-align: center;
+}
+
+.centred-img ul{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.centred-img img{
+	width: 250px;
+	height: 160px;
+}
+.centred-img img.vertical{
+	height: 160px;
+	width: 125px;
+}
+
+.centred-img .vertical-caption{
+	text-align: left;
+	margin-left: 5px;
+	font-size: 18px;
+}
+
+
+.topbar.topbar-table{
+/*	width: 815px;*/
+	margin: 80px auto -10px auto; 
+	background: #D2E9AE;
+    background: -webkit-linear-gradient(#D2E9AE, #D2E9AE);
+    background: -o-linear-gradient(#D2E9AE, #D2E9AE);
+    background: linear-gradient(#D2E9AE, #D2E9AE);
+}
+
+.topbar.topbar-table h4{
+	color: grey;
+	font-size: 25px;
+	margin: 0;
+	text-align: center;
+	padding: 10px 0;
+}
+
+.simple-little-table tr td{
+	font-size: 16px;
+	text-align: center;
+	padding: 4px;
+}
+.simple-little-table.text-left tr td{
+	text-align: left;
+}
+.simple-little-table tr td.caption{
+	padding: 18px 4px;
+	text-align: center;
+}
+.simple-little-table tr td span:before{
+	content: '';
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/list2.png);
+	background-size: 100% 100%;
+	position: relative;
+	left: -5px;
+	top: 4px;
+}
+
+.img-right{
+	float: right;
+	margin: -15px -10px 0 0;
+	clear: right;
+}
+
+.img-right img{
+	width: 250px;
+	height: 160px;
+}

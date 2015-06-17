@@ -1,98 +1,53 @@
 ﻿<*title*>Послуги і Ціни<*/title*>
 <*content*>
 
-<link rel="stylesheet" href="css3_3d.css" media="screen" />
-<link rel="stylesheet" href="services.css"/>
-<link rel="stylesheet" href="list.css" />
+<link rel="stylesheet" href="css3_3d.css">
+<link rel="stylesheet" href="services.css">
+<link rel="stylesheet" href="list.css">
+<link rel="stylesheet" href="css/prices.css">
 <script type="text/javascript" src="scripts/rotator.js"></script>
 
 <a href="#" class="scrollup">Вгору</a>
 <br>
 
-<h1 style="text-align:center">Пропонуємо до ваших послуг:</h1>
-
-<style>
-#rotator {
-position:relative;
-margin-left: 300px;
-}
-
-h1 {margin-top: -20px;}
-   
-h2 {
-   margin-top: 100px;
-   margin-bottom: 20px;
-   text-align:center;
-}
-   
-h3 {
-   margin-top: 50px; 
-    margin-bottom: 20px; 
-	text-align:center;
-   }
-   
-p {text-indent: 40px;}
-
-</style> 
-
-<div id="rotator" style="float: center; margin-top: 0px; margin-left: 380px; margin-bottom: 5px;">
-	<ul>
-		<li class="show">
-			<img class="box9" src="photo/rotator/dom_b.jpg" width="420" height="290" alt="pic1" />
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/outside_b.jpg" width="420" height="290" alt="pic2" >
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/interirer_b.jpg" width="420" height="290" alt="pic4"  />
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/altanka_b.jpg" width="420" height="290" alt="pic5"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/divan.jpg" width="420" height="290" alt="pic6"  />
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/kitchen_new.jpg" width="420" height="290" alt="pic7"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/stairs_b.jpg" width="420" height="290" alt="pic9"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/corridor.jpg" width="420" height="290" alt="pic10"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/kovka.jpg" width="420" height="290" alt="pic11"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/plants.jpg" width="420" height="290" alt="pic12"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/villa_new.jpg" width="420" height="290" alt="pic13"/>
-		</li>
-	</ul>
-</div>
+<h1>Пропонуємо до ваших послуг:</h1>
 
 <div class="buttonblock">
-	<a href="#oneroom" STYLE="width:375px;margin:-3px 0px 0px -4px;" class="button9">   1-кімнатний номер (2-3 особи)   </a>
+	<a href="#oneroom" class="button9 nav-button">1-кімнатний номер (2-3 особи)</a>
 	</br>
-	<a href="#tworoom" STYLE="width:375px;margin:-3px 0px 0px -4px" class="button9">   2-кімнатний номер (3-4 особи)   </a>
+	<a href="#tworoom" class="button9 nav-button">2-кімнатний номер (3-4 особи)</a>
 	</br>
-	<a href="#apartments" STYLE="width:375px;margin:-3px 0px 0px -4px;" class="button9">2-кімнатний апартамент з кухнею</a>
+	<a href="#apartments" class="button9 nav-button">2-кімнатний апартамент з кухнею</a>
 	</br>
-	<a href="#adds"  class="button9" STYLE= "color: #191970;width:375px;margin:-3px 0px 0px -4px">Додаткова інформація</a>
+	<a href="#adds" class="button9 nav-button">Додаткова інформація</a>
 	</br>
+</div>
+
+<div id="rotator" class="rotator-container">
+	<ul>
+		<li class="show"><img class="box9" src="photo/rotator/dom_b.jpg" alt="pic1"></li>
+		<li><img class="box9" src="photo/rotator/outside_b.jpg" alt="pic2"></li>
+		<li><img class="box9" src="photo/rotator/interirer_b.jpg" alt="pic4"></li>
+		<li><img class="box9" src="photo/rotator/altanka_b.jpg" alt="pic5"></li>
+		<li><img class="box9" src="photo/rotator/divan.jpg" alt="pic6"></li>
+		<li><img class="box9" src="photo/rotator/kitchen_new.jpg" alt="pic7"></li>
+		<li><img class="box9" src="photo/rotator/stairs_b.jpg" alt="pic9"></li>
+		<li><img class="box9" src="photo/rotator/corridor.jpg" alt="pic10"></li>
+		<li><img class="box9" src="photo/rotator/kovka.jpg" alt="pic11"></li>
+		<li><img class="box9" src="photo/rotator/plants.jpg" alt="pic12"></li>
+		<li><img class="box9" src="photo/rotator/villa_new.jpg" alt="pic13"></li>
+	</ul>
 </div>
 
 <p>
 	<a name="oneroom"></a>
 </p>
 
-<h2 style="margin-top:250px;">Однокімнатний номер (2-3 місця)</h2>
+<h2>Однокімнатний номер (2-3 місця)</h2>
 
-<table class="simple-little-table" align="center" cellspacing='0'>
+<table class="simple-little-table" cellspacing='0'>
 	<tr>
-		<td colspan="6" style="text-align: center;">
+		<td colspan="6" class="caption">
 			<b>Ціна вказана в євро за номер за 1 добу без харчування</b>
 		</td>
 	</tr>
@@ -109,14 +64,14 @@ p {text-indent: 40px;}
 
 <h3>Номер №1</h3>
 
-<div style="align:center; text-align:center; margin-top:20px; clear:both">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>2 односпальних ліжка</h3>
 			</div> 
 			<a href="photo/oneroom/1.jpg" rel="lightbox-set" title="Однокімнатний номер (2-3 місця)">
-				<img src="photo/oneroom/1.jpg" width="250" height="160" alt="Однокімнатний номер (2-3 місця)">
+				<img src="photo/oneroom/1.jpg" alt="Однокімнатний номер (2-3 місця)">
 			</a> 
 		</li>
 		<li>
@@ -124,7 +79,7 @@ p {text-indent: 40px;}
 				<h3>Балкон</h3>
 			</div>
 			<a href="photo/oneroom/2.jpg" rel="lightbox-set" title="Однокімнатний номер (2-3 місця)">
-				<img src="photo/oneroom/2.jpg" width="250" height="160" alt="Однокімнатний номер (2-3 місця)">
+				<img src="photo/oneroom/2.jpg" alt="Однокімнатний номер (2-3 місця)">
 			</a> 
 		</li>
 		<li>
@@ -132,45 +87,45 @@ p {text-indent: 40px;}
 				<h3>Двоспальне ліжко</h3>
 			</div> 
 			<a href="photo/oneroom/3.jpg" rel="lightbox-set" title="Однокімнатний номер (2-3 місця)">
-				<img src="photo/oneroom/3.jpg" width="250" height="160" alt="Однокімнатний номер (2-3 місця)">
+				<img src="photo/oneroom/3.jpg" alt="Однокімнатний номер (2-3 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Ванна кімната</h3>
 			</div> 
-			<a href="photo/oneroom/4.jpg" rel="lightbox-set" title="Однокімнатний номер (2-3 місця)">
-				<img src="photo/oneroom/4.jpg" width="250" height="160" alt="Однокімнатний номер (2-3 місця)">
+			<a href="photo/oneroom/4.jpg" rel="lightbox-set" title="Однокімнатний номер (2-3 місця) - Ванна кімната">
+				<img src="photo/oneroom/4.jpg" alt="Однокімнатний номер (2-3 місця)">
 			</a> 
 		</li>
 		<li>
 			<div class="details" class="more" >
 				<h3>Ванна кімната</h3>
 			</div>
-			<a href="photo/oneroom/5.jpg" rel="lightbox-set" title="Однокімнатний номер (2-3 місця)">
-				<img src="photo/oneroom/5.jpg" width="250" height="160" alt="Однокімнатний номер (2-3 місця)">
+			<a href="photo/oneroom/5.jpg" rel="lightbox-set" title="Однокімнатний номер (2-3 місця) - Ванна кімната">
+				<img src="photo/oneroom/5.jpg" alt="Однокімнатний номер (2-3 місця)">
 			</a> 
 		</li>
 	</ul>
 </div>
 
 
-<h3 style="clear:left;">Номер №2</h3>
+<h3>Номер №2</h3>
 
 
-<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Балкон</h3>
 			</div> 
 			<a href="photo/oneroom/6.jpg" rel="lightbox-set" title="Однокімнатний номер (2-3 місця)">
-				<img src="photo/oneroom/6.jpg" width="250" height="160" alt="Однокімнатний номер (2-3 місця)">
+				<img src="photo/oneroom/6.jpg" alt="Однокімнатний номер (2-3 місця)">
 			</a>
 		</li>
 		<li>
@@ -178,7 +133,7 @@ p {text-indent: 40px;}
 				<h3>Двоспальне ліжко</h3>
 			</div> 
 			<a href="photo/oneroom/7.jpg" rel="lightbox-set" title="Однокімнатний номер (2-3 місця)">
-				<img src="photo/oneroom/7.jpg" width="250" height="160" alt="Однокімнатний номер (2-3 місця)">
+				<img src="photo/oneroom/7.jpg" alt="Однокімнатний номер (2-3 місця)">
 			</a>
 		</li>
 	</ul>
@@ -187,11 +142,11 @@ p {text-indent: 40px;}
 <p>
 	<a name="tworoom"></a>
 </p>
-<h2 style="clear:left; margin-top:300px;">Двокімнатний номер (3-4 місця)</h2>
+<h2>Двокімнатний номер (3-4 місця)</h2>
 
-<table class="simple-little-table" align="center" cellspacing='0'>
+<table class="simple-little-table" cellspacing='0'>
 	<tr>
-		<td colspan="6" style="text-align: center;">
+		<td colspan="6" class="caption">
 			<b>Ціна вказана в євро за номер за 1 добу без харчування</b>
 		</td>
 	</tr>
@@ -208,14 +163,14 @@ p {text-indent: 40px;}
 
 <h3>Номер №1</h3>
 
-<div style="margin:auto;text-align:left; clear:both;">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Робоче місце</h3>
 			</div>
 			<a href="photo/tworoom/1/11.jpg" rel="lightbox-set" title="№1 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/1/11.jpg"  width="250" height="160" alt="№1 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/1/11.jpg"  alt="№1 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -223,7 +178,7 @@ p {text-indent: 40px;}
 				<h3>Перша спальня (з балконом)</h3>
 			</div>
 			<a href="photo/tworoom/1/12.jpg" rel="lightbox-set" title="№1 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/1/12.jpg"  width="250" height="160" alt="№1 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/1/12.jpg"  alt="№1 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -231,47 +186,47 @@ p {text-indent: 40px;}
 				<h3>Перша спальня (з балконом)</h3>
 			</div>
 			<a href="photo/tworoom/1/13.jpg" rel="lightbox-set" title="№1 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/1/13.jpg"  width="250" height="160" alt="№1 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/1/13.jpg"  alt="№1 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<div style="margin: auto auto auto 130px; text-align:left; clear:both;">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" ><h3>Друга спальня</h3></div> 
 			<a href="photo/tworoom/1/14.jpg" rel="lightbox-set" title="№1 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/1/14.jpg"  width="250" height="160" alt="№1 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/1/14.jpg"  alt="№1 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 
 		<li>
 			<div class="details" class="more" ><h3>Ванна кімната</h3></div> 
 			<a href="photo/tworoom/1/15.jpg" rel="lightbox-set" title="№1 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/1/15.jpg"  width="250" height="160" alt="№1 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/1/15.jpg"  alt="№1 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
-	
-<h3 style="clear:left;">Номер №2</h3>
-<div style="align:center; margin: auto auto auto 50px;">
+
+<h3>Номер №2</h3>
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Перша спальня (з балконом)</h3>
 			</div>
 			<a href="photo/tworoom/2/21.jpg" rel="lightbox-set" title="№2 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/2/21.jpg"  width="250" height="160" alt="№2 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/2/21.jpg" alt="№2 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 		<li>
 			<div class="details" class="more">
-				<h3 style="text-align:left; margin-left:5px; font-size: 18px;">Обідній столик</h3>
+				<h3 class="vertical-caption">Обідній столик</h3>
 			</div> 
 			<a href="photo/tworoom/2/23.jpg" rel="lightbox-set" title="№2 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/2/23.jpg"  width="125" height="160" alt="№2 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/2/23.jpg" class="vertical" alt="№2 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -279,42 +234,42 @@ p {text-indent: 40px;}
 				<h3>Друга спальня</h3>
 			</div>
 			<a href="photo/tworoom/2/24.JPG" rel="lightbox-set" title="№2 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/2/24.JPG"  width="250" height="160" alt="№2 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/2/24.JPG" alt="№2 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<div style="margin: auto auto auto 130px; text-align:center; clear:both">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Робоче місце</h3>
 			</div> 
 			<a href="photo/tworoom/2/25.jpg" rel="lightbox-set" title="№2 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/2/25.jpg"  width="250" height="160" alt="№2 - Двокімнатний номер (3-4 місця)"></a>
+				<img src="photo/tworoom/2/25.jpg"  alt="№2 - Двокімнатний номер (3-4 місця)"></a>
 		</li>
 		<li>
 			<div class="details" class="more" >
 				<h3>Ванна кімната</h3>
 			</div> 
 			<a href="photo/tworoom/2/26.jpg" rel="lightbox-set" title="№2 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/2/26.jpg"  width="250" height="160" alt="№2 - Двокімнатний номер (3-4 місця)"></a>
+				<img src="photo/tworoom/2/26.jpg"  alt="№2 - Двокімнатний номер (3-4 місця)"></a>
 		</li>
 	</ul>
 </div>
 
 
-<h3 style="clear:left;">Номер №3</h3>
+<h3>Номер №3</h3>
 
-<div style="margin:auto;">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Перша спальня (з балконом)</h3>
 			</div> 
 			<a href="photo/tworoom/3/31.jpg" rel="lightbox-set" title="№3 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/3/31.jpg"  width="250" height="160" alt="№3 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/3/31.jpg"  alt="№3 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -322,7 +277,7 @@ p {text-indent: 40px;}
 				<h3>Перша спальня (з балконом)</h3>
 			</div> 
 			<a href="photo/tworoom/3/32.jpg" rel="lightbox-set" title="№3 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/3/32.jpg"  width="250" height="160" alt="№3 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/3/32.jpg"  alt="№3 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -330,20 +285,20 @@ p {text-indent: 40px;}
 				<h3>Друга спальня (обідній столик)</h3>
 			</div> 
 			<a href="photo/tworoom/3/33.jpg" rel="lightbox-set" title="№3 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/3/33.jpg"  width="250" height="160" alt="№3 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/3/33.jpg"  alt="№3 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Друга спальня</h3>
 			</div> 
 			<a href="photo/tworoom/3/34.jpg" rel="lightbox-set" title="№3 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/3/34.jpg"  width="250" height="160" alt="№3 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/3/34.jpg"  alt="№3 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -351,54 +306,52 @@ p {text-indent: 40px;}
 				<h3>Друга спальня</h3>
 			</div> 
 			<a href="photo/tworoom/3/34a.jpg" rel="lightbox-set" title="№3 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/3/34a.jpg"  width="250" height="160" alt="№3 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/3/34a.jpg"  alt="№3 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<div style="margin: auto auto auto 180px; text-align:center; clear:both;">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
-				<h3 style="text-align:left; margin-left:5px; font-size: 18px;">Ванна кімната</h3>
+				<h3 class="vertical-caption">Ванна кімната</h3>
 			</div> 
 			<a href="photo/tworoom/3/35.jpg" rel="lightbox-set" title="№3 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/3/35.jpg"  width="125" height="160" alt="№3 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/3/35.jpg" class="vertical" alt="№3 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 		<li>
 			<div class="details" class="more" >
-				<h3 style="text-align:left; margin-left:5px; font-size: 18px;">Ванна кімната</h3>
+				<h3 class="vertical-caption">Ванна кімната</h3>
 			</div> 
 			<a href="photo/tworoom/3/36.jpg" rel="lightbox-set" title="№3 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/3/36.jpg"  width="125" height="160" alt="№3 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/3/36.jpg" class="vertical" alt="№3 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 		<li>
 			<div class="details" class="more" >
-				<h3 style="text-align:left; margin-left:5px; font-size: 18px;">Душова кабінка</h3>
+				<h3 class="vertical-caption">Душова кабінка</h3>
 			</div> 
 			<a href="photo/tworoom/3/37.jpg" rel="lightbox-set" title="№3 - Двокімнатний номер (3-4 місця)">
-				<img src="photo/tworoom/3/37.jpg"  width="125" height="160" alt="№3 - Двокімнатний номер (3-4 місця)">
+				<img src="photo/tworoom/3/37.jpg" class="vertical" alt="№3 - Двокімнатний номер (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
-
-<br></br><br></br><br></br><br></br>
 
 <p>
 	<a name="apartments"></a>
 </p>
-<h2  style="clear:left;">Двокімнатний апартамент з кухнею (3-4 місця)</h2>
+<h2>Двокімнатний апартамент з кухнею (3-4 місця)</h2>
 
-<table class="simple-little-table" align="center" cellspacing='0'>
+<table class="simple-little-table" cellspacing='0'>
 	<tr>
-		<td colspan="6" style="text-align: center;">Вартість розміщення в євро за добу за апартамент: </td>
+		<td colspan="6" class="caption">Вартість розміщення в євро за добу за апартамент: </td>
 	</tr>
 	<tr>
-		<th style="text-align: center;"><b>Дата</b></th> <th colspan="3" style="text-align: center;"><b>Ціна</b></th>
+		<th><b>Дата</b></th><th colspan="3"><b>Ціна</b></th>
 	</tr>
 	<tr>
 		<td></td>
@@ -427,15 +380,15 @@ p {text-indent: 40px;}
 	</tr>
 </table>
 
-<h3 style="clear:left;">Апартамент №1</h3>
-<div style="margin-left:-15px; margin-right:auto; padding-right:12px; text-align:center; margin-top:20px; clear:both">
+<h3>Апартамент №1</h3>
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Кімната з кухнею та балконом</h3>
 			</div> 
 			<a href="photo/apartment/1-41.jpg" rel="lightbox-set" title="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/apartment/1-41.jpg"  width="250" height="160" alt="1 номер -Двокімнатний апартамент з кухнею (3-4 місця)">
+				<img src="photo/apartment/1-41.jpg"  alt="1 номер -Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -443,7 +396,7 @@ p {text-indent: 40px;}
 				<h3>Кімната з кухнею та балконом</h3>
 			</div> 
 			<a href="photo/apartment/1-42.jpg" rel="lightbox-set" title="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/apartment/1-42.jpg"  width="250" height="160" alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+				<img src="photo/apartment/1-42.jpg"  alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -451,20 +404,20 @@ p {text-indent: 40px;}
 				<h3>Кімната з кухнею та балконом</h3>
 			</div> 
 			<a href="photo/apartment/1-43.jpg" rel="lightbox-set" title="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/apartment/1-43.jpg"  width="250" height="160" alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+				<img src="photo/apartment/1-43.jpg"  alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<div style="margin: auto auto auto 130px; text-align:center; clear:both">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Ванна кімната</h3>
 			</div> 
 			<a href="photo/apartment/1-44.jpg" rel="lightbox-set" title="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/apartment/1-44.jpg"  width="250" height="160" alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+				<img src="photo/apartment/1-44.jpg"  alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -472,22 +425,22 @@ p {text-indent: 40px;}
 				<h3>Балкон</h3>
 			</div> 
 			<a href="photo/apartment/1-45.jpg" rel="lightbox-set" title="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/apartment/1-45.jpg"  width="250" height="160" alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+				<img src="photo/apartment/1-45.jpg"  alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<h3 style="clear:left;">Апартамент №2</h3>
+<h3>Апартамент №2</h3>
 
-<div style="margin-left:-15px; text-align:center;  clear:both">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Перша кімната (столик)</h3>
 			</div> 
 			<a href="photo/apartment/2-46.jpg" rel="lightbox-set" title="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/apartment/2-46.jpg"  width="250" height="160" alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+				<img src="photo/apartment/2-46.jpg"  alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -495,7 +448,7 @@ p {text-indent: 40px;}
 				<h3>Перша кімната (кухня)</h3>
 			</div> 
 			<a href="photo/apartment/2-47.jpg" rel="lightbox-set" title="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/apartment/2-47.jpg"  width="250" height="160" alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+				<img src="photo/apartment/2-47.jpg"  alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -503,20 +456,20 @@ p {text-indent: 40px;}
 				<h3>Перша кімната (диван)</h3>
 			</div> 
 			<a href="photo/apartment/2-48.jpg" rel="lightbox-set" title="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/apartment/2-48.jpg"  width="250" height="160" alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+				<img src="photo/apartment/2-48.jpg"  alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<div style="margin-left:-15px; text-align:center;  clear:both">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Перехід в другу спальню</h3>
 			</div> 
 			<a href="photo/apartment/2-49.jpg" rel="lightbox-set" title="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-			<img src="photo/apartment/2-49.jpg" width="250" height="160" alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+			<img src="photo/apartment/2-49.jpg" alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -524,7 +477,7 @@ p {text-indent: 40px;}
 				<h3>Друга спальня</h3>
 			</div> 
 			<a href="photo/apartment/2-50.jpg" rel="lightbox-set" title="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-			<img src="photo/apartment/2-50.jpg"  width="250" height="160" alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+			<img src="photo/apartment/2-50.jpg"  alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 	<li>
@@ -532,21 +485,21 @@ p {text-indent: 40px;}
 				<h3>Перехід в другу кімнату (шафа)</h3>
 			</div> 
 			<a href="photo/apartment/2-51.jpg" rel="lightbox-set" title="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-			<img src="photo/apartment/2-51.jpg"  width="250" height="160" alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+			<img src="photo/apartment/2-51.jpg"  alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
 
 
-<div style="margin: auto auto auto 130px; text-align:center; clear:both">
+<div class="centred-img">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Перша кімната (балкон)</h3>
 			</div> 
 			<a href="photo/apartment/2-52.jpg" rel="lightbox-set" title="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/apartment/2-52.jpg"  width="250" height="160" alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+				<img src="photo/apartment/2-52.jpg"  alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 		<li>
@@ -554,138 +507,116 @@ p {text-indent: 40px;}
 				<h3>Ванна кімната</h3>
 			</div> 
 			<a href="photo/apartment/2-53.jpg" rel="lightbox-set" title="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/apartment/2-53.jpg"  width="250" height="160" alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+				<img src="photo/apartment/2-53.jpg"  alt="1 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<br></br><br></br><br></br><br></br>
-
 <p>
 	<a name="adds"></a>
 </p>
-<div class="topbar orange" 
-	style="width:815px; margin:80px auto -30px auto; background: #D2E9AE;
-    background: -webkit-gradient(linear, left top, left bottom, from(#D2E9AE), to(#E7F3D4));
-    background: -moz-linear-gradient(top,  #D2E9AE,  #D2E9AE);">
-	<h1 style="color:grey;">Додаткова інформація</h1>
+<div class="topbar topbar-table">
+	<h4>Додаткова інформація</h4>
 </div>
-	<br></br>
 
-<div style="float: right; margin-left: 0px; margin-top:-15px; margin-right:-10px; clear: right;">
+<div class="img-right">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more">
 				<h3>Вілла</h3>
 			</div> 
-			<a href="photo/rotator/outside_b.jpg" rel="lightbox-set" title="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/rotator/outside_b.jpg"  width="250" height="160" alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+			<a href="photo/rotator/outside_b.jpg" rel="lightbox-set" title="Вілла - фронтальний вигляд">
+				<img src="photo/rotator/outside_b.jpg" alt="Вілла - фронтальний вигляд">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<div style="float: right;margin-left: 0px; margin-top:-50px; margin-right:-10px; clear: right;">
+<div class="img-right">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Загальна кухня</h3>
 			</div> 
-			<a href="photo/rotator/kitchen.jpg" rel="lightbox-set" title="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/rotator/kitchen.jpg"  width="250" height="160" alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+			<a href="photo/rotator/kitchen_new.jpg" rel="lightbox-set" title="Загальна кухня">
+				<img src="photo/rotator/kitchen_new.jpg" alt="Загальна кухня">
 			</a>
 		</li>
 	</ul>
 </div>
 
-<div style="float: right;margin-left: 0px; margin-top:-50px; margin-right:-10px;clear: right;">
+<div class="img-right">
 	<ul class="grid" class="group">
 		<li>
 			<div class="details" class="more" >
 				<h3>Холл</h3>
 			</div> 
-			<a href="photo/rotator/interirer_b.jpg" rel="lightbox-set" title="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
-				<img src="photo/rotator/interirer_b.jpg"  width="250" height="160" alt="2 номер - Двокімнатний апартамент з кухнею (3-4 місця)">
+			<a href="photo/rotator/interirer_b.jpg" rel="lightbox-set" title="Холл">
+				<img src="photo/rotator/interirer_b.jpg" alt="Холл">
 			</a>
 		</li>
 	</ul>
 </div>
 
-
-
-<table class="simple-little-table" align="center" cellspacing='0' style="font-size:16px;  margin-left: 15px; ">
+<table class="simple-little-table text-left" cellspacing='0'>
 	<tr>
-		<th style="text-align: center; margin:0px 0px;">
-			<b>Додаткова інформація</b>
-		</th>
+		<th><b>Додаткова інформація</b></th>
 	</tr>
 	<tr class='even'>
-		<td style="padding:3px 3px 3px 10px;">
-			<img src="img/list2.png" width="20" height="20">
-			В чотирьохмісних номерах можливе разміщення  п`ятої людини за додаткову плату.
+		<td>
+			<span>В чотирьохмісних номерах можливе разміщення  п`ятої людини за додаткову плату.</span>
 		</td>
 	</tr>
 	<tr class='even'>
-		<td style="padding:3px 3px 3px 10px;">
-			<img src="img/list2.png" width="20" height="20">
-			Ціни  на проживання  вказані без врахування  туристичного  збору.
+		<td>
+			<span>Ціни  на проживання  вказані без врахування  туристичного  збору.</span>
 		</td>
 	</tr>
 	<tr class='even'>
-		<td style="padding:3px 3px 3px 10px;">
-			<img src="img/list2.png" width="20" height="20">
-			У разі відмови від резервування 30% передоплата <b><i>НЕ</i></b> повертається.
+		<td>
+			<span>У разі відмови від резервування 30% передоплата <b><i>НЕ</i></b> повертається.</span>
 		</td> 
 	</tr>
 	<tr class='even'>
-		<td style="padding:3px 3px 3px 10px;">
-			<img src="img/list2.png" width="20" height="20">
-			При розміщенні  на 1-3 дня вартість  проживания збільшується на 20%.
+		<td>
+			<span>При розміщенні  на 1-3 дня вартість  проживания збільшується на 20%.</span>
 		</td> 
 	</tr>
 	<tr class='even'>
-		<td style="padding:3px 3px 3px 10px;">
-			<img src="img/list2.png" width="20" height="20">
-			При проживанні більше 14 діб, а також колективних замовленнях надається знижка.
+		<td>
+			<span>При проживанні більше 14 діб, а також колективних замовленнях надається знижка.</span>
 		</td>
 	</tr>
 </table>
 
-<table class="simple-little-table" align="center" cellspacing='0' style="font-size:16px;  margin-left: 15px; ">
+<table class="simple-little-table text-left" cellspacing='0'>
 	<tr>
-		<th style="text-align: center; margin:0px auto;">
-			<b>Додаткові послуги:</b>
-		</th>
+		<th><b>Додаткові послуги:</b></th>
 	</tr>
 	<tr class='even'>
-		<td style="padding:3px 3px 3px 10px;">
-			<img src="img/list2.png" width="20" height="20">
-			Трансфер а\п Тіват-місце проживання- 30 євро;
+		<td>
+			<span>Трансфер а\п Тіват-місце проживання- 30 євро;</span>
 		</td>
 	</tr>
-	<tr class='even' style=>
-		<td style="padding:3px 3px 3px 10px;">
-			<img src="img/list2.png" width="20" height="20">
-			Будва-місце проживання - 35 євро;
+	<tr class='even'>
+		<td>
+			<span>Будва-місце проживання - 35 євро;</span>
 		</td> 
 	</tr>
 	<tr class='even'>
-		<td style="padding:3px 3px 3px 10px;">
-			<img src="img/list2.png" width="20" height="20">
-			Прокат гірського велосипеда – 5 євро\доба
+		<td>
+			<span>Прокат гірського велосипеда – 5 євро\доба</span>
 		</td> 
 	</tr>
 	<tr class='even'>
-		<td style="padding:3px 3px 3px 10px;">
-			<img src="img/list2.png" width="20" height="20">
-			Пропонуємо екскурсії по Чорногорії на власному авто
+		<td>
+			<span>Пропонуємо екскурсії по Чорногорії на власному авто</span>
 		</td> 
 	</tr>
 	<tr class='even'>
-		<td style="padding:3px 3px 3px 10px;">
-			<img src="img/list2.png" width="20" height="20">
-			Можливість користування пральною машинкою надається за окрему плату
+		<td>
+			<span>Можливість користування пральною машинкою надається за окрему плату</span>
 		</td> 
 	</tr>
 	
