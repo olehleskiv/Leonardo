@@ -2,70 +2,50 @@
 @media only screen 
 and (min-width : 320px) 
 and (max-width : 480px) {
-	body{
-		/*background-image: none;*/
-	}
-	img{
-		max-width: 100%;
-	}
-	#topname{
-		display: none;
-	}
-	#nav-menu{
-		background-image: none;
-		height: auto;
-	}
-	#nav-menu li{
-		width: 100%;
-	}
-	#nav-menu li a{
-		width: 100%;
-	}
-	#nav-menu li a:hover{
-		color: #000;
-		background-image: url(../img/menu_front.png);
-		background-repeat: repeat-x;
-		width: 100%;
-	}
-	li.seperator{
-		display: none;
-	}
-	#menu{
-		width: 100%;
-		margin-top: 50px;
+	#thumbScroller{
+		width: 98%;
 	}
 
-	#content{
+	.holder{
 		width: 100%;
 	}
-	#top_decor{
+	.inbar ul li p{
+		text-indent: 0;
+		padding: 0 5px 0 60px;
+		font-size: 16px;
+		min-height: 36px;
+	}
+	.inbar a{
+		display: block;
+	}
+
+	.maintext ul{
+		margin-left: 15px;
+	}
+
+	.grid.group .boka-view-picture{
 		display: none;
 	}
-	#middle_decor{
+
+	.grid.group .right-side-pictures{
+		margin: 25px;
+	}
+
+	.simple-little-table.villa-info-table.add-info-table{
 		width: 100%;
-		background-image: none;
-		background-color: rgba(255,255,255, 0.8);
 	}
-	#content_text{
-		padding: 0 5px;
-	}
-	#bottom_decor{
+
+	.add-service-img{
 		display: none;
 	}
-	#bottom_menu{
-		display: none;
-	}
-	#footer{
+
+	.simple-little-table.add-service-table{
+		margin-top: 15px;
 		width: 100%;
 	}
-	
-	.grid li:hover,
-	.grid li:nth-child(3n-2):hover,
-	.grid li:nth-child(3n):hover {
-		-webkit-transform: none;
-		-moz-transform: none;
-		-ms-transform: none;
-		transform: none;
+
+	h2 a{
+		display: block;
 	}
 }
  

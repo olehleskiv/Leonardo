@@ -4,6 +4,7 @@
 <link rel="stylesheet" href="services.css"/>
 <script type="text/javascript" src="scripts/rotator.js"></script>
 <link rel="stylesheet" href="css/about.css">
+<link rel="stylesheet" href="css/about-responsive.css">
 
 <a href="#" class="scrollup">Вгору</a>
 <br>
@@ -225,11 +226,11 @@
 		У бібліотеці монастиря зберігається більше 5 000 рідкісних манускриптів, серед її експонатів - <b>унікальне рукописне Євангеліє 1375 року</b>.
 	</p>
 
-	<p class="centred-photo">
+	<div class="centred-photo">
 		<a href="photo/mont/church.jpg" rel="lightbox-set" title="Монастир Савіна">
 			<img src="photo/mont/church.jpg" title="Монастир Савіна"  alt="Монастир Савіна">
 		</a>
-	</p>
+	</div>
 
 	<h4>
 		<i>Монастир відомий також тим, що в 2005 році на Đurđevdan (День Святого Георгія) в ньому прийняв хрещення знаменитий сербський режисер Емір Кустуріца.</i>

@@ -179,7 +179,7 @@ body img
 #outer_container{margin:auto; width:974px; padding:0 10px; background:#eee;}
 #outer_container .left{float:left; width:12px; height:170px; background:url(../img/thumbScroller_left.png);}
 #outer_container .right{float:right; width:12px; height:170px; background:url(../img/thumbScroller_right.png);}
-#thumbScroller{position:relative; margin:auto; float:center; background:url(../img/thumbScroller_bg.png) repeat-x;}
+#thumbScroller{position:relative; margin:auto; background:url(../img/thumbScroller_bg.png) repeat-x;}
 #thumbScroller{width:830px;}
 #thumbScroller, #thumbScroller .container, #thumbScroller .content{height:170px;}
 #thumbScroller{overflow:hidden;}
@@ -189,7 +189,7 @@ body img
 #thumbScroller img{border:5px solid #fff;}
 
 
-#rotator {position:relative; height:150px; margin-left: 15px; right: 0px;border:15px #444;}
+#rotator {position:relative; margin-left: 15px; right: 0px;border:15px #444;}
 #rotator ul li {float:left; position:absolute;  list-style: none; }
 #rotator ul li.show {z-index:500;}
 

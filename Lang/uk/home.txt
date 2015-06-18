@@ -1,11 +1,11 @@
 <*title*>Відпочинок в Чорногорії<*/title*>
 <*content*>
 
-<link rel="stylesheet" href="list.css" />
-<link rel="stylesheet" href="services.css" />
-<link rel="stylesheet" href="css3_3d.css" media="screen" />
+<link rel="stylesheet" href="list.css">
+<link rel="stylesheet" href="services.css">
+<link rel="stylesheet" href="css3_3d.css" media="screen">
 <link rel="stylesheet" href="css/home.css">
-
+<link rel="stylesheet" href="css/home-responsive.css">
 
 <br/>
 <header>

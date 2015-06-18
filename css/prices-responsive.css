@@ -2,70 +2,41 @@
 @media only screen 
 and (min-width : 320px) 
 and (max-width : 480px) {
-	body{
-		/*background-image: none;*/
-	}
-	img{
-		max-width: 100%;
-	}
-	#topname{
-		display: none;
-	}
-	#nav-menu{
-		background-image: none;
-		height: auto;
-	}
-	#nav-menu li{
+	.buttonblock{
+		float: none;
 		width: 100%;
+		background-color: transparent;
+		box-sizing: border-box;
 	}
-	#nav-menu li a{
+	#rotator{
+		top: 120px;
+		margin-bottom: 330px;
+	}
+	.nav-button{
 		width: 100%;
+		padding: 15px 2px;
+		box-sizing: border-box;
 	}
-	#nav-menu li a:hover{
-		color: #000;
-		background-image: url(../img/menu_front.png);
-		background-repeat: repeat-x;
+	.rotator-container{
+		float: none;
+	}
+	.simple-little-table{
 		width: 100%;
+		font-size: 15px;
+		box-sizing: border-box;
 	}
-	li.seperator{
-		display: none;
+	.simple-little-table th{
+		padding: 10px 2px;
+		box-sizing: border-box;
 	}
-	#menu{
-		width: 100%;
-		margin-top: 50px;
+	.simple-little-table th:first-child{
+		padding-left: 2px;
 	}
-
-	#content{
-		width: 100%;
+	.centred-img{
+		margin-left: 15%;
 	}
-	#top_decor{
-		display: none;
-	}
-	#middle_decor{
-		width: 100%;
-		background-image: none;
-		background-color: rgba(255,255,255, 0.8);
-	}
-	#content_text{
-		padding: 0 5px;
-	}
-	#bottom_decor{
-		display: none;
-	}
-	#bottom_menu{
-		display: none;
-	}
-	#footer{
-		width: 100%;
-	}
-	
-	.grid li:hover,
-	.grid li:nth-child(3n-2):hover,
-	.grid li:nth-child(3n):hover {
-		-webkit-transform: none;
-		-moz-transform: none;
-		-ms-transform: none;
-		transform: none;
+	.img-right{
+		float: none;
 	}
 }
  

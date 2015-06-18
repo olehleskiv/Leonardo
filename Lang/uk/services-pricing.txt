@@ -5,6 +5,7 @@
 <link rel="stylesheet" href="services.css">
 <link rel="stylesheet" href="list.css">
 <link rel="stylesheet" href="css/prices.css">
+<link rel="stylesheet" href="css/prices-responsive.css">
 <script type="text/javascript" src="scripts/rotator.js"></script>
 
 <a href="#" class="scrollup">Вгору</a>
