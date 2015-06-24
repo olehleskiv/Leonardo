@@ -1,257 +1,290 @@
-﻿<*title*>Odmorite se u Chernohoryy<*/title*>
+<*title*>Odmorite se u Chernohoryy<*/title*>
 <*content*>
-<link rel="stylesheet" href="list.css" />
-<link rel="stylesheet" href="services.css" />
-<link rel="stylesheet" href="css3_3d.css" media="screen" />
 
- <style>
-   h1 {
-    margin-bottom: -15px; 
-	text-align:center;
-	font-size: 36px;
-   }
-   p{
-   text-indent: 40px;
-   }
-   .maintext{
-   font-size: 20px;
-   }
- 
-  </style>
+<link rel="stylesheet" href="list.css">
+<link rel="stylesheet" href="services.css">
+<link rel="stylesheet" href="css3_3d.css" media="screen">
+<link rel="stylesheet" href="css/home.css">
+<link rel="stylesheet" href="css/home-responsive.css">
 
-<br />
-<h1>Villa «Leonardo»</h1>
-<br />
+<br/>
+<header>
+	<h1>Villa «Leonardo»</h1>
+</header>
+<br/>
 
 <div id="thumbScroller">
-    <div class="container">
-        <div class="content">
-            <div>
-			<a href="photo/rotator/altanka_b.jpg" rel="lightbox-set" src="photo/altanka_s.jpg" title="Arbor"> 
-			<img  src="photo/rotator/altanka_s.jpg"  title="Arbor" alt="Arbor" class="thumb" /></a></div>
-        </div>
+	<div class="container">
 		<div class="content">
-          <div><a href="photo/rotator/dom_b.jpg" rel="lightbox-set" src="photo/dom_s.jpg" title="Villa"> 
-		  <img  src="photo/rotator/dom_s.jpg"  title="Villa" alt="Villa" class="thumb" /></a></div>
-        </div>
-        <div class="content">
-            <div><a href="photo/rotator/interirer_b.jpg" rel="lightbox-set" src="photo/interirer_s.jpg" title="Unutrašnjost"> 
-			<img  src="photo/rotator/interirer_s.jpg"  title="Unutrašnjost" alt="Unutrašnjost" class="thumb" /></a></div>
-        </div>
-        <div class="content">
-           <div><a href="photo/rotator/outside_b.jpg" rel="lightbox-set" src="photo/outside_s.jpg" title="Villa"> 
-		   <img  src="photo/rotator/outside_s.jpg"  title="Villa" alt="Villa" class="thumb" /></a></div>
-        </div>
-        <div class="content">
-           <div><a href="photo/rotator/korabl_b.jpg" rel="lightbox-set" src="photo/korabl_s.jpg" title="Lazur"> 
-		   <img  src="photo/rotator/korabl_s.jpg"  title="Lazur" alt="Lazur" class="thumb" /></a></div>
-        </div>
-        <div class="content">
-            <div><a href="photo/rotator/sea_b.jpg" rel="lightbox-set" src="photo/sea_s.jpg" title="Usidriti brod"> 
-			<img  src="photo/rotator/sea_s.jpg"  title="Usidriti brod" alt="Usidriti brod" class="thumb" /></a></div>
-        </div>
-		
-		<!---------------------------------------------------------------------------------------------------->
-		
+			<div>
+				<a href="photo/rotator/altanka_b.jpg" rel="lightbox-set" title="Arbor"> 
+					<img  src="photo/rotator/altanka_s.jpg"  title="Arbor" alt="Arbor" class="thumb" />
+				</a>
+			</div>
+		</div>
 		<div class="content">
-            <div><a href="photo/rotator/bay_b.jpg" rel="lightbox-set" src="photo/sea_s.jpg" title="Marina"> 
-			<img  src="photo/rotator/bay_s.jpg"  title="Marina" alt="Marina" class="thumb" /></a></div>
-        </div>
+			<div>
+				<a href="photo/rotator/dom_b.jpg" rel="lightbox-set" title="Villa"> 
+					<img  src="photo/rotator/dom_s.jpg"  title="Villa" alt="Villa" class="thumb" />
+				</a>
+			</div>
+		</div>
 		<div class="content">
-            <div><a href="photo/rotator/parasolku_b.jpg" rel="lightbox-set" src="photo/sea_s.jpg" title="Plaža"> 
-			<img  src="photo/rotator/parasolku_s.jpg"  title="Plaža" alt="Plaža" class="thumb" /></a></div>
-        </div>
+			<div>
+				<a href="photo/rotator/interirer_b.jpg" rel="lightbox-set" title="Unutrašnjost"> 
+			<img  src="photo/rotator/interirer_s.jpg"  title="Unutrašnjost" alt="Unutrašnjost" class="thumb" />
+		</a>
+	</div>
+		</div>
 		<div class="content">
-            <div><a href="photo/rotator/waterjet_b.jpg" rel="lightbox-set" src="photo/sea_s.jpg" title="Zabavu"> 
-			<img  src="photo/rotator/waterjet_s.jpg"  title="Zabavu" alt="Zabavu" class="thumb" /></a></div>
-        </div>
+			<div>
+				<a href="photo/rotator/outside_b.jpg" rel="lightbox-set" title="Villa"> 
+					<img  src="photo/rotator/outside_s.jpg"  title="Villa" alt="Villa" class="thumb" />
+				</a>
+			</div>
+		</div>
 		<div class="content">
-            <div><a href="photo/rotator/zaxid_soncia_b.jpg" rel="lightbox-set" src="photo/sea_s.jpg" title="Zalazak sunca u Zaljevu"> 
-			<img  src="photo/rotator/zaxid_soncia_s.jpg"  title="Zalazak sunca u Zaljevu" alt="Zalazak sunca u Zaljevu" class="thumb" /></a></div>
-        </div>
-        <div class="content">
-            <div><a href="photo/rotator/kotor2_b.jpg" rel="lightbox-set" src="photo/sea_s.jpg" title="Pogled iz planine"> 
-			<img  src="photo/rotator/kotor2_s.jpg"  title="Pogled iz planine" alt="Pogled iz planine" class="thumb" /></a></div>
-        </div> 
-    </div>
+			<div>
+				<a href="photo/rotator/korabl_b.jpg" rel="lightbox-set" title="Lazur"> 
+					<img  src="photo/rotator/korabl_s.jpg"  title="Lazur" alt="Lazur" class="thumb" />
+				</a>
+			</div>
+		</div>
+		<div class="content">
+			<div>
+				<a href="photo/rotator/sea_b.jpg" rel="lightbox-set" title="Usidriti brod"> 
+					<img  src="photo/rotator/sea_s.jpg"  title="Usidriti brod" alt="Usidriti brod" class="thumb" />
+				</a>
+			</div>
+		</div>
+		<div class="content">
+			<div>
+				<a href="photo/rotator/bay_b.jpg" rel="lightbox-set" title="Marina"> 
+					<img  src="photo/rotator/bay_s.jpg"  title="Marina" alt="Marina" class="thumb" />
+				</a>
+			</div>
+		</div>
+		<div class="content">
+			<div>
+				<a href="photo/rotator/parasolku_b.jpg" rel="lightbox-set" title="Plaža"> 
+					<img  src="photo/rotator/parasolku_s.jpg"  title="Plaža" alt="Plaža" class="thumb" />
+				</a>
+			</div>
+		</div>
+		<div class="content">
+			<div>
+				<a href="photo/rotator/waterjet_b.jpg" rel="lightbox-set" title="Zabavu"> 
+					<img  src="photo/rotator/waterjet_s.jpg"  title="Zabavu" alt="Zabavu" class="thumb" />
+				</a>
+			</div>
+		</div>
+		<div class="content">
+			<div>
+				<a href="photo/rotator/zaxid_soncia_b.jpg" rel="lightbox-set" title="Zalazak sunca u Zaljevu"> 
+					<img  src="photo/rotator/zaxid_soncia_s.jpg"  title="Zalazak sunca u Zaljevu" alt="Zalazak sunca u Zaljevu" class="thumb" />
+				</a>
+			</div>
+		</div>
+		<div class="content">
+			<div>
+				<a href="photo/rotator/kotor2_b.jpg" rel="lightbox-set" title="Pogled iz planine"> 
+					<img  src="photo/rotator/kotor2_s.jpg"  title="Pogled iz planine" alt="Pogled iz planine" class="thumb" />
+				</a>
+			</div>
+		</div> 
+	</div>
 </div>
 
-<script type="text/javascript" src="scripts/thumbScroller.js"></script>
-
 <div class="maintext">
-<p><b>Vila</b> nalazi se u malom mjestu <i>Zelenika</i>, koji je u neposrednoj blizini jedne od najpopularnijih mjesta u Crnoj Gori, <i>Herceg Novom</i>. 
-Ostati tamo je alternativa masovnom turizmu u okolnim mjestima. Nevjerojatna flora ima blagotvoran učinak na ljude.</p>
+	<p>
+		<b>Vila</b> nalazi se u malom mjestu <i>Zelenika</i>, koji je u neposrednoj blizini jedne od najpopularnijih mjesta u Crnoj Gori, <i>Herceg Novom</i>.Ostati tamo je alternativa masovnom turizmu u okolnim mjestima. Nevjerojatna flora ima blagotvoran učinak na ljude.
+	</p>
 </div>
 
 <div class="holder">
 	<div class="topbar orange">
-		<h1>Vila ima 16 soba </h1>
+		<h1>Vila ima 16 soba</h1>
 	</div>
 	<div class="inbar">
 		<ul>
-			<li><span>8</span> <p style="text-indent: 20px;">
-			<a href="http://www.agencyleonard.com/?lang=sr&amp;page=services-pricing#apartments">dvosobna apartmana</a></p></li>
-			<li><span>3</span> <p style="text-indent: 20px;">
-			<a href="http://www.agencyleonard.com/?lang=sr&amp;page=services-pricing#tworoom">četverokrevetne sobe</a></p></li>
-			<li><span>5</span> <p style="text-indent: 20px;">
-			<a href="http://www.agencyleonard.com/?lang=sr&amp;page=services-pricing#oneroom">dvokrevetna soba s kuhinjom</a></p></li>
+			<li>
+				<span>8</span>
+				<p>
+					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#apartments">dvosobna apartmana</a>
+				</p>
+			</li>
+			<li>
+				<span>3</span>
+				<p>
+					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#tworoom">četverokrevetne sobe</a>
+				</p>
+			</li>
+			<li>
+				<span>5</span>
+				<p>
+					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#oneroom">dvokrevetna soba s kuhinjom</a>
+				</p>
+			</li>
 		</ul>
 	</div>
 </div>
 
-<div class="maintext" style="margin-top:40px;">
-<p><b> Mjesto:</b> Zelenika (2 km od Herceg Novog). Do Zeleniki lako doć autom od aerodroma bilo kojih od tri gradova:</p>
-<ul style="margin-left:160px;">
-<li><i>Tivat (25 km)</i></li>
-<li><i>Podgorica (100 km)</i></li>
-<li><i>Dubrovnik (30 km).</i></li>
-</ul> 
-
-<p><b>Udaljenost od plaže</b> – 50 metara (5 minuta hoda).</p> <p><b>Plaže:</b> platforma, pijesak i šljunak.</p><br>
+<div class="maintext"> 
+	<p>
+		<b> Mjesto:</b> Zelenika (2 km od Herceg Novog). Do Zeleniki lako doć autom od aerodroma bilo kojih od tri gradova:
+	</p>
+	<ul>
+		<li><i>Tivat (25 km)</i></li>
+		<li><i>Podgorica (100 km)</i></li>
+		<li><i>Dubrovnik (30 km).</i></li>
+	</ul>
+	<p>
+		<b>Udaljenost od plaže</b> – 50 metara (5 minuta hoda).
+	</p> 
+	<p>
+		<b>Plaže:</b> platforma, pijesak i šljunak.
+	</p>
+	<br>
 </div>
 
-<table class="simple-little-table" align="center" cellspacing='0' style="opacity:0.9; color: #666; font-size:16px;">		
-<tr>
-<th style="text-align: center;"><b>Apartman:</b></th> 
-<th style="text-align: center;"><b>U sobi:</b></th></tr>
-	
-<tr class='even'>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;namještaj</td>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;namještaj</td></tr>
-<tr>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;klima uređaj</td>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;klima uređaj</td>	</tr>	
-<tr class='even'>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;TV (satelitska)</td>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;TV (satelitska)</td>	</tr>	
-<tr>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;terasa</td>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;terasa</td></tr>	
-<tr class='even'>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;kupatilo (wc školjka, umivaonik, tuš)</td>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;kupatilo( wc školjka, umivaonik, tuš)</td></tr>	
-<tr>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;kuhinja (električni šporet, sudoper, hladnjak, posuđe)</td>
-		<td id="childtd"><img src="img/list2.png" width="20" height="20">&nbsp;&nbsp;odvojena kuhinja u prizemlju</td>	</tr>	
+<table class="simple-little-table villa-info-table" align="center" cellspacing='0'>
+	<tr>
+		<th><b>Apartman:</b></th>
+		<th><b>U sobi:</b></th>
+	</tr>
+	<tr class='even'>
+		<td><span>namještaj</span></td>
+		<td><span>namještaj</span></td>
+	</tr>
+	<tr>
+		<td><span>klima uređaj</span></td>
+		<td><span>klima uređaj</span></td>
+	</tr>
+	<tr class='even'>
+		<td><span>TV (satelitska)</span></td>
+		<td><span>TV (satelitska)</span></td>
+	</tr>
+	<tr>
+		<td><span>terasa</span></td>
+		<td><span>terasa</span></td>
+	</tr>
+	<tr class='even'>
+		<td><span>kupatilo (wc školjka, umivaonik, tuš)</span></td>
+		<td><span>kupatilo (wc školjka, umivaonik, tuš)</span></td>
+	</tr>
+	<tr>
+		<td><span>kuhinja (električni šporet, sudoper, hladnjak, posuđe)</span></td>
+		<td><span>odvojena kuhinja u prizemlju</span></td>
+	</tr>
 </table>
 
-<div style="margin-left:-25px">
-<ul id="grid" class="group">
-<li>
-<div class="longdetails" class="more" ><h3>Pogled na zaljeva Boka</h3></div> 
-	<a href="img/proluv_gora.jpg" 
-	rel="lightbox-set" 
-	title="Pogled na zaljeva Boka"
-	alt="Pogled na zaljeva Boka">
-
-<img src="img/proluv_gora.jpg" 
-alt="Pogled na zaljeva Boka"></a>
-</li>
+<ul class="grid group">
+	<li class="boka-view-picture">
+		<div class="longdetails" class="more" >
+			<h3>Pogled na zaljeva Boka</h3>
+		</div> 
+		<a href="img/proluv_gora.jpg" rel="lightbox-set" title="Pogled na zaljeva Boka">
+			<img src="img/proluv_gora.jpg" alt="Pogled na zaljeva Boka">
+		</a>
+	</li>
 </ul>
+
+
+<div class="topbar orange">
+	<h1 class="grey-header">Dodatne informacije: </h1>
 </div>
+
+<ul class="grid group">
+	<li class="right-side-pictures"> 
+		<div class="details" class="more" >
+			<h3>Pogled na Kotor iz planine</h3>
+		</div> 
+		<a href="photo/rotator/kotor1.jpg" rel="lightbox-set" title="Odmor Crnoj Gori - Pogled na Kotor iz planine">
+			<img src="photo/rotator/kotor1.jpg" width="250" height="158" alt="Odmor Crnoj Gori - Pogled na Kotor iz planine">
+		</a>
+	</li>
+</ul>
+
+<ul class="grid group">
+	<li class="right-side-pictures">
+		<div class="details" class="more" >
+			<h3>Opustite se u slikovitom kutu</h3>
+		</div>
+		<a href="photo/rotator/houses.jpg" rel="lightbox-set" title="Opustite se u slikovitom kutu">
+			<img src="photo/rotator/houses.jpg"  width="250" height="158" alt="Opustite se u slikovitom kutu">
+		</a>
+	</li>
+</ul>
+
+<table class="simple-little-table villa-info-table add-info-table" align="center" cellspacing='0'>
+	<tr class='even'>
+		<th><b>1</b></th>
+		<td>minimalni najam je 3 dana;</td>
+	</tr>
+	<tr>
+		<th><b>2</b></th>
+		<td>rezervacija je potrebna u visini od 30 %;</td>
+	</tr>
+	<tr class='even'>
+		<th><b>3</b></th>
+		<td>za rane rezervacije - popusta;</td>
+	</tr>
+	<tr>
+		<th><b>4</b></th>
+		<td>čišćenje i promjena posteljine - svakih 5-7 dana;</td>
+	</tr>
+	<tr class='even'>
+		<th><b>5</b></th>
+		<td>Plaćanje je moguće koristiti vešmašinu;</td>
+	</tr>
+	<tr>
+		<th><b>6</b></th>
+		<td>dostupni su na zahtjev pegle;</td>
+	</tr>
+	<tr class='even'>
+		<th><b>7</b></th><td>na teretorii vile je besplatan parking, velika udobna vrtna garnitura, roštilj.</td>
+	</tr>
+</table>
+
+<div class="topbar orange">
+	<h1 class="grey-header">Dodatne usluge: </h1>
+</div>
+
+<table class="simple-little-table add-service-table" align="center" cellspacing='0'>
+	<tr class='even'>
+		<th><b>1</b></th>
+		<td>U vili djeluje iznajmljivanje bicikla</td>
+	</tr>
+	<tr>
+		<th><b>2</b></th>
+		<td>Pruži se  usluga prevoza od aerodroma Tiv</td>
+	</tr>
+	<tr class='even'>
+		<th><b>3</b></th>
+		<td><a href="http://www.agencyleonard.com/?lang=sr&amp;page=about-montenegro">Nudimo ture u Crnoj Gori</a></td>
+	</tr>
+</table>
+
+<div class="add-service-img">
+	<ul class="grid group">
+		<li>
+			<div class="details" class="more">
+				<h3>Pogled iz planine Lovćenu</h3>
+			</div> 
+			<a href="img/kraevud.jpg" rel="lightbox-set" title="Odmor Crnoj Gori - Pogled iz planine Lovćenu">
+				<img src="img/kraevud.jpg" width="430" height="200" alt="Odmor Crnoj Gori - Pogled iz planine Lovćenu">
+			</a>
+		</li>
+	</ul>
+</div>
+
 <br>
+<h2 align="center">
+	Više informacija u
+	<a href="http://agencyleonard.com/?lang=sr&page=services-pricing" class="button"/>Usluge</a>
+</h2>
 
-<div style="float: right; margin-left: -20px; margin-top:23px; margin-right: -25px; clear: right;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Pogled na Kotor iz planine</h3></div> 
-	<a href="photo/rotator/kotor1.jpg" 
-	rel="lightbox-set" 
-	title="Odmor Crnoj Gori - Pogled na Kotor iz planine"
-	alt="Odmor Crnoj Gori - Pogled na Kotor iz planine">
-
-<img src="photo/rotator/kotor1.jpg" 
-width="250"
-height="158"
-alt="Odmor Crnoj Gori - Pogled na Kotor iz planine"></a>
-</li>
-</ul>
-</div>
-
-<div style="float: right; margin-left: -20px; margin-top:-50px; margin-right: -25px;clear: right;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Opustite se u slikovitom kutu</h3></div> 
-	<a href="photo/rotator/houses.jpg" 
-	rel="lightbox-set" 
-	title="Opustite se u slikovitom kutu Crnoj Gori"
-	alt="Opustite se u slikovitom kutu Crnoj Gori">
-
-<img src="photo/rotator/houses.jpg" 
-width="250"
-height="158"
-alt="Opustite se u slikovitom kutu Crnoj Gori"></a>
-</li>
-</ul>
-</div>
-
-<div class="topbar orange" style="margin-top:300px;">
-		<h1  style="padding: 10px; color:grey;">Dodatne informacije: </h1>
-	</div>
-	
-<table class="simple-little-table" align="center" cellspacing='0' style="opacity:0.9; color: #666; font-size:16px; margin-top:10px; margin-right:0px;">		
-	
-<tr class='even'><th id="childth"><b>1</b></th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-		&nbsp;&nbsp;minimalni najam je 3 dana;</td></tr>
-<tr><th id="childth"><b>2</b></th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-		&nbsp;&nbsp;rezervacija je potrebna u visini od 30 %;</td></tr>	
-<tr id="childtd" class='even'><th id="childth"><b>3</b></th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-		&nbsp;&nbsp;za rane rezervacije - popusta;</td></tr>	
-<tr><th id="childth"><b>4</b></th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-		&nbsp;&nbsp;čišćenje i promjena posteljine - svakih 5-7 dana;</td></tr>	
-<tr class='even'><th id="childth"><b>5</b></th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-		&nbsp;&nbsp;Plaćanje je moguće koristiti vešmašinu;</td></tr>
-<tr><th id="childth"><b>6</b></th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-		&nbsp;&nbsp;dostupni su na zahtjev pegle;</td></tr>	
-<tr class='even'><th id="childth"><b>7</b></th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-		&nbsp;&nbsp;na teretorii vile je besplatan parking, velika udobna vrtna garnitura, roštilj.</td></tr>	
-</table>
-
-<div style="float: left; margin-left: -39px; margin-top:30px;">
-<ul id="grid" class="group">
-<li>
-<div class="details" style="width:430px" class="more" ><h3>Pogled iz planine Lovćenu</h3></div> 
-	<a href="img/kraevud.jpg" 
-	rel="lightbox-set" 
-	title="Odmor Crnoj Gori - Pogled iz planine Lovćenu"
-	alt="Odmor Crnoj Gori - Pogled iz planine Lovćenu">
-
-<img src="img/kraevud.jpg" 
-width="430"
-height="200"
-alt="Odmor Crnoj Gori - Pogled iz planine Lovćenu"></a>
-</li>
-</ul>
-</div>		
-		
-<div class="topbar orange" style="margin:10px 0px 0px 0px;">
-		<h1 style="padding: 10px; color:grey;">Dodatne usluge: </h1>
-	</div>		
-		
-<table class="simple-little-table" align="center" cellspacing='0' style="opacity:0.9; float:right; color: #666; font-size:16px; margin-top:35px;">		
-
-<tr class='even'><th id="childth"><b>1</b></th>
-		<td id="childtd" style="padding:5px 40px 5px 10px;">
-		&nbsp;&nbsp;U vili djeluje iznajmljivanje bicikla</td></tr>
-<tr><th id="childth"><b>2</b></th>
-		<td id="childtd" style="padding:5px 40x 5px 10px;">
-		&nbsp;&nbsp;Pruži se  usluga prevoza od aerodroma Tivat</td></tr>	
-<tr id="childtd" class='even'><th id="childth"><b>3</b></th>
-		<td id="childtd" style="padding:5px 40px 5px 10px;">
-		&nbsp;&nbsp;<a href="http://www.agencyleonard.com/?lang=sr&amp;page=about-montenegro">Nudimo ture u Crnoj Gori</a></td></tr>	
-</table>
-
-<div>
-<h2 style="margin-left: 150px; margin-top:250px;"> Više informacija u&nbsp;&nbsp;
-<a href="http://agencyleonard.com/?lang=sr&page=services-pricing" class="button"/>Usluge</a></h2>
-</div>		
+<script type="text/javascript" src="scripts/thumbScroller.js"></script>
 
 <!--___________________________________________________________________________________________________
 <meta property="fb:admins" content="{lula.khryst,100001347304015}"/>
@@ -266,10 +299,10 @@ alt="Odmor Crnoj Gori - Pogled iz planine Lovćenu"></a>
 <!-- Put this div tag to the place, where the Like block will be 
 <div id="vk_like"></div>
 <script type="text/javascript">
-VK.Widgets.Like("vk_li\]\
-ke", {type: "full", height: 24});
+VK.Widgets.Like("vk_like", {type: "full", height: 24});
 </script>
 -->
+
 
 <*/content*>
 <*description*>Vila nalazi se u malom mjestu Zelenika, koji je u neposrednoj blizini 
