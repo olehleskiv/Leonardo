@@ -110,19 +110,19 @@
 			<li>
 				<span>8</span>
 				<p>
-					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#apartments">двокімнатних чотирихмісних апартаментів</a>
+					<a href="http://www.agencyleonard.com/?lang=uk&page=services-pricing#apartments">двокімнатних чотирихмісних апартаментів</a>
 				</p>
 			</li>
 			<li>
 				<span>3</span>
 				<p>
-					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#tworoom">двокімнатні чотиримісні номери</a>
+					<a href="http://www.agencyleonard.com/?lang=uk&page=services-pricing#tworoom">двокімнатні чотиримісні номери</a>
 				</p>
 			</li>
 			<li>
 				<span>5</span>
 				<p>
-					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#oneroom">однокімнатних двомісних номерів</a>
+					<a href="http://www.agencyleonard.com/?lang=uk&page=services-pricing#oneroom">однокімнатних двомісних номерів</a>
 				</p>
 			</li>
 		</ul>
@@ -261,7 +261,7 @@
 	</tr>
 	<tr class='even'>
 		<th><b>3</b></th>
-		<td><a href="http://www.agencyleonard.com/?lang=uk&amp;page=about-montenegro">Пропонуємо екскурсії по Чорногорії</a></td>
+		<td><a href="http://www.agencyleonard.com/?lang=uk&page=about-montenegro">Пропонуємо екскурсії по Чорногорії</a></td>
 	</tr>
 </table>
 
@@ -281,7 +281,7 @@
 <br>
 <h2 align="center">
 	Більше інформації в розділі
-	<a href="http://agencyleonard.com/?page=services-pricing" class="button"/>Послуги</a>
+	<a href="http://agencyleonard.com/?lang=uk&page=services-pricing" class="button"/>Послуги</a>
 </h2>
 
 <script type="text/javascript" src="scripts/thumbScroller.js"></script>

@@ -1,28 +1,17 @@
-﻿<*title*>Rest and Holidays in Montenegro<*/title*>
+<*title*>Rest and Holidays in Montenegro<*/title*>
 <*content*>
 
- <link rel="stylesheet" href="list.css" />
-<link rel="stylesheet" href="services.css" />
-<link rel="stylesheet" href="css3_3d.css" media="screen" />
+<link rel="stylesheet" href="list.css">
+<link rel="stylesheet" href="services.css">
+<link rel="stylesheet" href="css3_3d.css" media="screen">
+<link rel="stylesheet" href="css/home.css">
+<link rel="stylesheet" href="css/home-responsive.css">
 
- <style>
-   h1 {
-	margin-bottom: -15px; 
-	text-align:center;
-	font-size: 36px;
-   }
-   p{
-   text-indent: 40px;
-   }
-   .maintext{
-   font-size: 20px;
-   }
- 
-  </style>
-
-<br>
-<h1>Hotel-villa “LEONARDO”</h1>
-<br>
+<br/>
+<header>
+	<h1>Hotel-villa “Leonardo”</h1>
+</header>
+<br/>
 
 <div id="thumbScroller">
 	<div class="container">
@@ -43,9 +32,9 @@
 		<div class="content">
 			<div>
 				<a href="photo/rotator/interirer_b.jpg" rel="lightbox-set" title="Hall Interier"> 
-					<img  src="photo/rotator/interirer_s.jpg"  title="Hall Interier" alt="Hall Interier" class="thumb" />\
-				</a>
-			</div>
+			<img  src="photo/rotator/interirer_s.jpg"  title="Hall Interier" alt="Hall Interier" class="thumb" />
+		</a>
+	</div>
 		</div>
 		<div class="content">
 			<div>
@@ -98,8 +87,8 @@
 		</div>
 		<div class="content">
 			<div>
-				<a href="photo/rotator/kotor2_b.jpg" rel="lightbox-set" title="View from the mount"> 
-					<img  src="photo/rotator/kotor2_s.jpg"  title="View from the mount" alt="View from the mount" class="thumb" />
+				<a href="photo/rotator/kotor2_b.jpg" rel="lightbox-set" title="iew from the mount"> 
+					<img  src="photo/rotator/kotor2_s.jpg"  title="iew from the mount" alt="iew from the mount" class="thumb" />
 				</a>
 			</div>
 		</div> 
@@ -119,20 +108,20 @@
 	<div class="inbar">
 		<ul>
 			<li>
-				<span>8</span> 
-				<p style="text-indent: 20px;">
+				<span>8</span>
+				<p>
 					<a href="http://www.agencyleonard.com/?lang=gb&amp;page=services-pricing#apartments">two-room apartments for 4 persons</a>
 				</p>
 			</li>
 			<li>
-				<span>3</span> 
-				<p style="text-indent: 20px;">
+				<span>3</span>
+				<p>
 					<a href="http://www.agencyleonard.com/?lang=gb&amp;page=services-pricing#tworoom">two - room suites for 4 persons</a>
 				</p>
 			</li>
 			<li>
-				<span>5</span> 
-				<p style="text-indent: 20px;">
+				<span>5</span>
+				<p>
 					<a href="http://www.agencyleonard.com/?lang=gb&amp;page=services-pricing#oneroom">double rooms with kitchenettes</a>
 				</p>
 			</li>
@@ -140,268 +129,160 @@
 	</div>
 </div>
 
-<div class="maintext" style="margin-top:40px;">
+<div class="maintext"> 
 	<p>
 		<b>Location:</b> Zelenika (2 km from Herzeg - Novi). You can get by car from the airport of any of the three cities:
 	</p>
-	<ul style="margin-left:160px;">
+	<ul>
 		<li><i>Tiwat (25 km)</i></li>
 		<li><i>Podgoriza (100 km)</i></li>
 		<li><i>Dubrovnik (30 km).</i></li>
-	</ul> 
-
+	</ul>
 	<p>
-		<b>Distance to beach</b> – 450 m from the villa, 5 minutes walk.</p> <p><b>Beach:</b> platform, sand, pebble.
+		<b>Distance to beach</b> – 450 m from the villa, 5 minutes walk.
+	</p> 
+	<p>
+		<b>Beach:</b> platform, sand, pebble.
 	</p>
 	<br>
 </div>
 
-<table class="simple-little-table" align="center" cellspacing='0' style="opacity:0.9; color: #666; font-size:16px;">		
+<table class="simple-little-table villa-info-table" align="center" cellspacing='0'>
 	<tr>
-		<th style="text-align: center;">
-			<b>Apartment:</b>
-		</th> 
-		<th style="text-align: center;">
-			<b>Suite:</b>
-		</th>
+		<th><b>Apartment::</b></th>
+		<th><b>Suite:</b></th>
 	</tr>
 	<tr class='even'>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;furniture
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;furniture
-		</td>
+		<td><span>furniture</span></td>
+		<td><span>furniture</span></td>
 	</tr>
 	<tr>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;air conditioning
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;air conditioning
-		</td>
+		<td><span>air conditioning</span></td>
+		<td><span>air conditioning</span></td>
 	</tr>
 	<tr class='even'>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;satellite TV (English channels)
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;satellite TV (English channels)
-		</td>
+		<td><span>satellite TV (English channels)</span></td>
+		<td><span>satellite TV (English channels)</span></td>
 	</tr>
 	<tr>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;terrace
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;terrace
-		</td>
+		<td><span>terrace</span></td>
+		<td><span>terrace</span></td>
 	</tr>
 	<tr class='even'>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;shower room (shower, toilet, wash basin)
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;shower room (shower, toilet, wash basin)
-		</td>
+		<td><span>shower room (shower, toilet, wash basin)</span></td>
+		<td><span>shower room (shower, toilet, wash basin)</span></td>
 	</tr>
 	<tr>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;kitchenette (electric oven, kitchen sink, refrigerator, kitchen utensils)
-		</td>
-		<td id="childtd">
-			<img src="img/list2.png" width="20" height="20">
-			&nbsp;&nbsp;Kitchen - on the ground floor
-		</td>
+		<td><span>kitchenette (electric oven, kitchen sink, refrigerator, kitchen utensils)</span></td>
+		<td><span>Kitchen - on the ground floor</span></td>
 	</tr>
 </table>
 
-<div style="margin-left:-25px">
-	<ul id="grid" class="group">
-		<li>
-			<div class="longdetails" class="more" >
-				<h3>View of Boka-Kotor Bay</h3>
-			</div> 
-			<a href="img/proluv_gora.jpg" 
-				rel="lightbox-set" 
-				title="View to Boka-Kotor Bay"
-				alt="View to Boka-Kotor Bay">
-
-				<img src="img/proluv_gora.jpg" 
-				alt="View to Boka-Kotor Bay">
-			</a>
-		</li>
-	</ul>
-</div>
-<br>
-
-<div style="float: right; margin-left: -20px; margin-top:23px; margin-right: -25px; clear: right;">
-	<ul id="grid" class="group">
-		<li>
-			<div class="details" class="more" >
-				<h3>View of Kotor from mount</h3>
-			</div> 
-			<a href="photo/rotator/kotor1.jpg" 
-				rel="lightbox-set" 
-				title="Rest in Montenegro - View of Kotor from mount"
-				alt="Rest in Montenegro - View of Kotor from mount">
-
-				<img src="photo/rotator/kotor1.jpg" 
-				width="250"
-				height="158"
-				alt="Rest in Montenegro - View of Kotor from mount">
-			</a>
-		</li>
-	</ul>
-</div>
-
-<div style="float: right; margin-left: -20px; margin-top:-50px; margin-right: -25px;clear: right;">
-	<ul id="grid" class="group">
-		<li>
-			<div class="details" class="more" >
-				<h3>Rest on exciting panorams</h3>
-			</div> 
-			<a href="photo/rotator/houses.jpg" 
-				rel="lightbox-set">
-				<img src="photo/rotator/houses.jpg" 
-				width="250"
-				height="158"
-				alt="Rest on exciting panorams. Montenegro">
-			</a>
-		</li>
-	</ul>
-</div>
-
-<div class="topbar orange" style="margin-top:300px;">
-	<h1  style="padding: 10px; color:grey;">Additional information:</h1>
-</div>
-
-<table class="simple-little-table" align="center" cellspacing='0' style="opacity:0.9; color: #666; font-size:16px; margin-top:10px; margin-right:0px;">
-	<tr class='even'>
-		<th id="childth">
-			<b>1</b>
-		</th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-			&nbsp;&nbsp;minimum period of lease - 3 days;
-		</td>
-	</tr>
-	<tr>
-		<th id="childth">
-			<b>2</b>
-		</th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-			&nbsp;&nbsp;room reservation needs 30% prepayment;
-		</td>
-	</tr>
-		<tr id="childtd" class='even'><th id="childth">
-			<b>3</b>
-		</th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-			&nbsp;&nbsp;when reservation is done in advance a discount is given;
-		</td>
-	</tr>
-	<tr>
-		<th id="childth">
-			<b>4</b>
-		</th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-			&nbsp;&nbsp;cleaning services and bed linen change every 5-7 days;
-		</td>
-	</tr>
-	<tr class='even'>
-		<th id="childth">
-			<b>5</b>
-		</th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-			&nbsp;&nbsp;use of laundry machine for extra money;
-		</td>
-	</tr>
-	<tr>
-		<th id="childth">
-			<b>6</b>
-		</th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-			&nbsp;&nbsp;an iron is available;
-		</td>
-	</tr>
-	<tr class='even'>
-		<th id="childth">
-			<b>7</b>
-		</th>
-		<td id="childtd" style="padding:5px 3px 5px 10px;">
-			&nbsp;&nbsp;Outdoor facilities: free parking, charcoal barbecue, cosy pavilion.
-		</td>
-	</tr>
-</table>
-
-<div style="float: left; margin-left: -39px; margin-top:30px;">
-	<ul id="grid" class="group">
-		<li>
-		<div class="details" style="width:430px" class="more" >
-			<h3>View from Lovchen mountain</h3>
+<ul class="grid group">
+	<li class="boka-view-picture">
+		<div class="longdetails" class="more" >
+			<h3>View of Boka-Kotor Bay</h3>
 		</div> 
-			<a href="img/kraevud.jpg" 
-			rel="lightbox-set" 
-			title="View from Lovchen mountain"
-			alt="View from Lovchen mountain">
+		<a href="img/proluv_gora.jpg" rel="lightbox-set" title="View of Boka-Kotor Bay">
+			<img src="img/proluv_gora.jpg" alt="View of Boka-Kotor Bay">
+		</a>
+	</li>
+</ul>
 
-				<img src="img/kraevud.jpg" 
-				width="430"
-				height="200"
-				alt="View from Lovchen mountain">
-			</a>
-		</li>
-	</ul>
-</div>	
 
-<div class="topbar orange" style="margin:10px 0px 0px 0px;">
-	<h1 style="padding: 10px; color:grey;">Additional services:</h1>
+<div class="topbar orange">
+	<h1 class="grey-header">Additional information: </h1>
 </div>
 
-<table class="simple-little-table" align="center" cellspacing='0' style="opacity:0.9; float:right; color: #666; font-size:16px; margin-top:35px;">
+<ul class="grid group">
+	<li class="right-side-pictures"> 
+		<div class="details" class="more" >
+			<h3>View of Kotor from mount</h3>
+		</div> 
+		<a href="photo/rotator/kotor1.jpg" rel="lightbox-set" title="Rest in Montenegro - View of Kotor from mount">
+			<img src="photo/rotator/kotor1.jpg" width="250" height="158" alt="Rest in Montenegro - View of Kotor from mount">
+		</a>
+	</li>
+</ul>
+
+<ul class="grid group">
+	<li class="right-side-pictures">
+		<div class="details" class="more" >
+			<h3>Rest on exciting panorams</h3>
+		</div>
+		<a href="photo/rotator/houses.jpg" rel="lightbox-set" title="Rest on exciting panorams">
+			<img src="photo/rotator/houses.jpg"  width="250" height="158" alt="Rest on exciting panorams">
+		</a>
+	</li>
+</ul>
+
+<table class="simple-little-table villa-info-table add-info-table" align="center" cellspacing='0'>
 	<tr class='even'>
-		<th id="childth">
-			<b>1</b>
-		</th>
-		<td id="childtd" style="padding:5px 40px 5px 10px;">
-			&nbsp;&nbsp;Rent of bicycles at villa.
-		</td>
+		<th><b>1</b></th>
+		<td>minimum period of lease - 3 days;</td>
 	</tr>
 	<tr>
-		<th id="childth">
-			<b>2</b>
-		</th>
-		<td id="childtd" style="padding:5px 40x 5px 10px;">
-			&nbsp;&nbsp;Transportation from the Tivat airport.
-		</td>
+		<th><b>2</b></th>
+		<td>room reservation needs 30% prepayment;</td>
 	</tr>
-	<tr id="childtd" class='even'>
-		<th id="childth">
-			<b>3</b>
-		</th>
-		<td id="childtd" style="padding:5px 40px 5px 10px;">
-			&nbsp;&nbsp;<a href="http://www.agencyleonard.com/?lang=gb&amp;page=about-montenegro">Excursions through Montenegro.</a>
-		</td>
+	<tr class='even'>
+		<th><b>3</b></th>
+		<td>when reservation is done in advance a discount is given;</td>
+	</tr>
+	<tr>
+		<th><b>4</b></th>
+		<td>cleaning services and bed linen change every 5-7 days;</td>
+	</tr>
+	<tr class='even'>
+		<th><b>5</b></th>
+		<td>use of laundry machine for extra money;</td>
+	</tr>
+	<tr>
+		<th><b>6</b></th>
+		<td>an iron is available;</td>
+	</tr>
+	<tr class='even'>
+		<th><b>7</b></th><td>Outdoor facilities: free parking, charcoal barbecue, cosy pavilion.</td>
 	</tr>
 </table>
 
-
-<div>
-	<h2 style="margin-left: 150px; margin-top:250px;"> For more information go to&nbsp;&nbsp;
-		<a href="http://agencyleonard.com/?lang=gb&page=services-pricing" class="button"/>Pricing</a>
-	</h2>
+<div class="topbar orange">
+	<h1 class="grey-header">Additional services: </h1>
 </div>
+
+<table class="simple-little-table add-service-table" align="center" cellspacing='0'>
+	<tr class='even'>
+		<th><b>1</b></th>
+		<td>Rent of bicycles at villa</td>
+	</tr>
+	<tr>
+		<th><b>2</b></th>
+		<td>Transportation from the Tivat airport</td>
+	</tr>
+	<tr class='even'>
+		<th><b>3</b></th>
+		<td><a href="http://www.agencyleonard.com/?lang=gb&page=about-montenegro">Excursions through Montenegro</a></td>
+	</tr>
+</table>
+
+<div class="add-service-img">
+	<ul class="grid group">
+		<li>
+			<div class="details" class="more">
+				<h3>View from Lovchen mountain</h3>
+			</div> 
+			<a href="img/kraevud.jpg" rel="lightbox-set" title="Rest in Montenegro - View from Lovchen mountain">
+				<img src="img/kraevud.jpg" width="430" height="200" alt="Rest in Montenegro - View from Lovchen mountain">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<br>
+<h2 align="center">
+	For more information go to
+	<a href="http://agencyleonard.com/?lang=gb&?page=services-pricing" class="button"/>Pricing</a>
+</h2>
 
 <script type="text/javascript" src="scripts/thumbScroller.js"></script>
 

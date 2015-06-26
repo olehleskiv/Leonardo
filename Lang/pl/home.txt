@@ -110,19 +110,19 @@
 			<li>
 				<span>8</span>
 				<p>
-					<a href="http://www.agencyleonard.com/?lang=pl&amp;page=services-pricing#apartments">dwupokojowych 4-osobowych apartamentów</a>
+					<a href="http://www.agencyleonard.com/?lang=pl&page=services-pricing#apartments">dwupokojowych 4-osobowych apartamentów</a>
 				</p>
 			</li>
 			<li>
 				<span>3</span>
 				<p>
-					<a href="http://www.agencyleonard.com/?lang=pl&amp;page=services-pricing#tworoom">dwupokojowe 4-osobowe</a>
+					<a href="http://www.agencyleonard.com/?lang=pl&page=services-pricing#tworoom">dwupokojowe 4-osobowe</a>
 				</p>
 			</li>
 			<li>
 				<span>5</span>
 				<p>
-					<a href="http://www.agencyleonard.com/?lang=pl&amp;page=services-pricing#oneroom">jednopokojowych 2-osobowych bez kuchni</a>
+					<a href="http://www.agencyleonard.com/?lang=pl&page=services-pricing#oneroom">jednopokojowych 2-osobowych bez kuchni</a>
 				</p>
 			</li>
 		</ul>
@@ -261,7 +261,7 @@
 	</tr>
 	<tr class='even'>
 		<th><b>3</b></th>
-		<td><a href="http://www.agencyleonard.com/?lang=pl&amp;page=about-montenegro">Oferujemy wycieczki z przewodnikiem</a></td>
+		<td><a href="http://www.agencyleonard.com/?lang=pl&page=about-montenegro">Oferujemy wycieczki z przewodnikiem</a></td>
 	</tr>
 </table>
 
@@ -281,7 +281,7 @@
 <br>
 <h2 align="center">
 	Uzyskać więcej informacji, zobacz
-	<a href="http://agencyleonard.com/?page=services-pricing" class="button"/>Usługi</a>
+	<a href="http://agencyleonard.com/?lang=pl&page=services-pricing" class="button"/>Usługi</a>
 </h2>
 
 <script type="text/javascript" src="scripts/thumbScroller.js"></script>

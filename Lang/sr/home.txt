@@ -110,19 +110,19 @@
 			<li>
 				<span>8</span>
 				<p>
-					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#apartments">dvosobna apartmana</a>
+					<a href="http://www.agencyleonard.com/?lang=sr&page=services-pricing#apartments">dvosobna apartmana</a>
 				</p>
 			</li>
 			<li>
 				<span>3</span>
 				<p>
-					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#tworoom">četverokrevetne sobe</a>
+					<a href="http://www.agencyleonard.com/?lang=sr&page=services-pricing#tworoom">četverokrevetne sobe</a>
 				</p>
 			</li>
 			<li>
 				<span>5</span>
 				<p>
-					<a href="http://www.agencyleonard.com/?lang=uk&amp;page=services-pricing#oneroom">dvokrevetna soba s kuhinjom</a>
+					<a href="http://www.agencyleonard.com/?lang=sr&page=services-pricing#oneroom">dvokrevetna soba s kuhinjom</a>
 				</p>
 			</li>
 		</ul>
@@ -261,7 +261,7 @@
 	</tr>
 	<tr class='even'>
 		<th><b>3</b></th>
-		<td><a href="http://www.agencyleonard.com/?lang=sr&amp;page=about-montenegro">Nudimo ture u Crnoj Gori</a></td>
+		<td><a href="http://www.agencyleonard.com/?lang=sr&page=about-montenegro">Nudimo ture u Crnoj Gori</a></td>
 	</tr>
 </table>
 
