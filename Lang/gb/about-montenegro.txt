@@ -1,898 +1,546 @@
-<*title*> Montenegro Herceg Novi and <*/title*>
+<*title*>About Montenegro and Herceg Novi<*/title*>
 <*content*>
 
- <style>
-   h1 {
-margin-top:-20px;
-   }
-   
-    h3 {
-   margin-top: 50px;
-    margin-bottom: 20px;
-text-align: center;
-   }
-   
-   p {
-    text-indent: 40px;/*Otstup of the first term in pixels*/
-   }
-   
-   h2 {
-   margin-top: 50px;
-   margin-bottom: 20px;
-   text-align: center;
-   }
-  </style>
-  
-<a href="#" class="scrollup">Back to top</a>
-  
-<br>
-<h1 style="text-align:center"> Montenegro, Herceg Novi, Zelenika </h1>
-<br/>
+<link rel="stylesheet" href="services.css"/>
+<script type="text/javascript" src="scripts/rotator.js"></script>
+<link rel="stylesheet" href="css/about.css">
+<link rel="stylesheet" href="css/about-responsive.css">
 
-<!--
-<div id="thumbScroller">
-    <div class="container">
-        <div class="content">
-            <div> <a href="photo/43p.JPG" rel="lightbox-set" src="photo/43s.JPG"> <img src = "photo/43s.JPG" title = " Road " alt = " Road "class =" thumb "/> </a> </div>
-        </div>
-        <div class="content">
-            <div> <a href="photo/CIMG1397p.JPG" rel="lightbox-set" src="photo/CIMG1397s.JPG"> <img src = "photo/CIMG1397s.JPG" title = " Tsvetok " alt = " Tsvetok "class =" thumb "/> </a> </div>
-        </div>
-        <div class="content">
-            <div> <a href="photo/CIMG1407p.JPG" rel="lightbox-set" src="photo/CIMG1407s.JPG"> <img src = "photo/CIMG1407s.JPG" title = " Twilight " alt = " Twilight "class =" thumb "/> </a> </div>
-        </div>
-        <div class="content">
-            <div> <a href="#"> <img src="photo/CIMG1999s.JPG" title="Vodopad" alt="Vodopad" class="thumb"/> </a> </div>
-        </div>
-        <div class="content">
-            <div> <a href="#"> <img src="photo/CIMG1398s.JPG" title="Kanon" alt="Kanon" class="thumb"/> </a> </div>
-        </div>
-        <div class="content">
-            <div> <a href="#"> <img src="photo/43s.JPG" title="Doroha" alt="Doroha" class="thumb"/> </a> </div>
-        </div>
-        <div class="content">
-            <div> <a href="#"> <img src="photo/CIMG1397s.JPG" title="Les" alt="Les" class="thumb"/> </a> </div>
-        </div>
-        <div class="content">
-            <div> <a href="#"> <img src="photo/CIMG1407s.JPG" title="Dom" alt="Dom" class="thumb"/> </a> </div>
-        </div>
-        <div class="content">
-            <div> <a href="#"> <img src="photo/CIMG1999s.JPG" title="Ray" alt="Ray" class="thumb"/> </a> </div>
-        </div>
-        <div class="content">
-            <div> <a href="#"> <img src="photo/CIMG1398s.JPG" title="Derevya" alt="Derevya" class="thumb"/> </a> </div>
-        </div>
-        <div class="content">
-            <div> <a href="#"> <img src="photo/CIMG1999s.JPG" title="Lystya" alt="Lystya" class="thumb"/> </a> </div>
-        </div>
-    </div>
+<a href="#" class="scrollup">Back to top</a>
+<br>
+<header>
+	<h1>Montenegro, Herceg Novi, Zelenika</h1>
+</header>
+
+<blockquote>
+	<p>Lord George Byron had wrote about Montenegro:
+		<br>
+		<i>"At the time of the birth of our planet, the most beautiful of the meetings of land and sea was held <br>
+			in Montenegro ... When the pearls of nature were sworn, on this soil an overflowing handful was gathered
+		</i>
+		<br>
+	</p>
+</blockquote>
+
+<div id="rotator" class="rotator-container">
+	<ul>
+		<li class="show"><img class="box9" src="photo/bay/1.jpg" alt="pic1"></li>
+		<li><img class="box9" src="photo/bay/2.jpg" alt="pic2"></li>
+		<li><img class="box9" src="photo/bay/3.jpg" alt="pic3"></li>
+		<li><img class="box9" src="photo/bay/4.jpg" alt="pic4"></li>
+		<li><img class="box9" src="photo/bay/5.jpg" alt="pic5"></li>
+		<li><img class="box9" src="photo/bay/6.jpg" alt="pic6"></li>
+		<li><img class="box9" src="photo/bay/7.jpg" alt="pic7"></li>
+		<li><img class="box9" src="photo/bay/8.jpg" alt="pic8"></li>
+		<li><img class="box9" src="photo/bay/9.jpg" alt="pic9"></li>
+		<li><img class="box9" src="photo/bay/10.jpg" alt="pic10"></li>
+	</ul>
 </div>
 
-<script type="text/javascript" src="scripts/thumbScroller.js"> </script>
--->
-
-
-<p style="text-align:right"> Lord George Byron had wrote about Montenegro:
-<br> <i> "At the time of the birth of our planet, the most beautiful of the meetings of land and sea was held 
-<br> in Montenegro ... When the pearls of nature were sworn, on this soil an overflowing handful was gathered</i> </br> </p>
-
-
-
-<p>
-<ul>
-<li> <a href="#montenegro"> Montenegro </a> </li>
-<li> <a href="#hn"> Herceg Novi </a> </li>
-<li> <a href="#mimoza"> Mimosa Festival</a> </li>
-<li> <a href="#memory"> Sights of Herceg-Novi </a> </li>
-<li> <a href="#church"> Temples and Monasteries in Herceg Novi </a> </li>
-<li> <a href="#gargen"> The Wonderful botanical garden </a> </li>
-<li> <a href="#climate"> Climate of Herceg Novi </a> </li>
-<li> <a href="#beaches"> Beaches in Herceg Novi </a> </li>
-<li> <a href="#bluecave"> The Blue Cave </a> </li>
-<li> <a href="#center"> Montenegro Wellness Center - Institute of physiotherapy and rehabilitation behalf of Dr.Simo Miloševic </a> </li>
-<li> <a href="#fiveplaces"> Top 5 special places must visit in Montenegro</a> </li>
-</ul
-</p>
-
-		<p> <a name="montenegro"> </a> </p>
-					<h2> Montenegro </h2>
-
-<p><b> Montenegro </b> (<i> Serbian - Tsrna Gora, Crna Gora, Albanian - Mali i Zi, Croatian - Crna Gora </i>), the most commonly used is an italian manner
-(<i>Montenegro</i>) - a state in south-eastern Europe on the Adriatic coast of the Balkan peninsula.
-The name derives from the words "Black Mountain". Country is washed by <i>Adriatic</i> Sea and has land borders with <i>Croatia, Bosnia and Herzegovina, 
-Serbia, Kosovo </i>and<i> Albania</i>. </p>
-
-
-<p style = "float: right;
-margin-top: 10px;
-margin-left: 20px;
-margin-bottom: 5px; ">
-
-<a href = "photo/mont/monte_map.jpg"
-rel = "lightbox-set"
-title = "Map of Montenegro"
-alt = "Map of Montenegro">
-
-<img src = "photo/mont/monte_map.jpg"
-width = "340"
-height = "380"
-alt = "Map of Montenegro "> </p> </a>
-
-<p> <br> </br> </p>
-<p>
-The Capital is <b>Podgorica</b>, this city is a home for <i>170 thousand</i> people.
-By <i>June 2006</i> Montenegro was a part of confederal <i>State Union of Serbia and Montenegro</i>, taking up to 13.5% of its total area.
-Montenegro declared independence at <i>June 3, 2006 </i>. The country is divided into <i>21</i> Municipality .
-The population according to the census of 2011 is <i>626,000</i> man.
-</p>
+<nav>
+	<a href="#montenegro" class="button9">Montenegro</a><br>
+	<a href="#hn" class="button9">Herceg Novi</a><br>
+	<a href="#mimoza" class="button9">Mimosa Festival</a><br>
+	<a href="#memory" class="button9">Sights of Herceg-Novi</a><br>
+	<a href="#church" class="button9">Temples and Monasteries in Herceg Novi</a><br>
+	<a href="#gargen" class="button9">The Wonderful botanical garden</a><br>
+	<a href="#climate" class="button9">Climate of Herceg Novi</a><br>
+	<a href="#beaches" class="button9">Beaches in Herceg Novi</a><br>
+	<a href="#bluecave" class="button9">The Blue Cave</a><br>
+	<a href="#center" class="button9">Montenegro Wellness Center - Institute of physiotherapy and rehabilitation behalf of Dr.Simo Miloševic</a><br>
+	<a href="#fiveplaces" class="button9">Top 5 special places must visit in Montenegro</a><br>
+</nav>
 
 <p>
-The continental coastline of Montenegro has a length of about <i>300 km</i>.
-The length of the beaches of Montenegro - <i>73 miles</i>.
-Average temperature of the sea water for <b>seven</b> months range from <i>+12º</i> to <i>+26º C</i>,
-<b>Transparency of sea water in some places is more than <i>35m</i>. </b>
+	<a name="montenegro"></a>
 </p>
 
-<p><br></br><br></br></p>
-<!--
-<br style = "text-align: left;
- margin-top: 20px; ">
-<img src = "photo/mont/water.jpg"
-width = " 465"
-height = " 170"
-alt = " clear water "> </br>
--->
-
-<p> Montenegro's highest point - Mount </i>Durmitor (2522 m)</i>.
- The deepest in Europe and <b>the second in the world</b> after the Colorado River canyon <i>Tara</i> is in Montenegro.
-The canyon's <i>depth is about 1200 m</i>. It was declared like a natural heritage and it's under UNESCO protection.
-</p>
-
-<a href = "photo/mont/tara.jpg"
-rel = "lightbox-set"
-title = "Tara River Canyon"
-alt = "Tara River Canyon">
-
-<p style="text-align:center; margin-top: 20px;">
-<img src = "photo/mont/tara.jpg"
-alt = "Tara River Canyon"> </p></a>
-
-<p style="text-align:center"> <i> Tara River Canyon - the second deepest in the world</i> </p>
-
-
-
-			<p><a name="hn"></a></p>
-						<p>
-						<h2> Herceg - Novi </h2>
-						</p>
-
-<p> </p>
-
-
-<p style="margin-left:auto; margin-right:auto; text-align:center">
-
-<a href = "photo/CIMG1397p.JPG"
-rel = "lightbox-set"
-title = "The streets of Herceg-Novi"
-alt = "The streets of Herceg-Novi">
-
-<img src = "photo/CIMG1397p.JPG"
-width = "230"
-height = "150"
-alt = "The streets of Herceg-Novi "> </a>
-
-<a href = "photo/CIMG1407p.JPG"
-rel = "lightbox-set"
-title = "The streets of Herceg-Novi "
-alt = "The streets of Herceg-Novi ">
-
-<img src = "photo/CIMG1407p.JPG"
-width = "230"
-height = "150"
-alt = "The streets of Herceg-Novi"> </a>
-
-<a href = "photo/CIMG1398p.JPG"
-rel = "lightbox-set"
-title = "The streets of Herceg-Novi "
-alt = "The streets of Herceg-Novi">
-
-<img src = "photo/CIMG1398p.JPG"
-width = "230"
-height = "150"
-alt = "The streets of Herceg-Novi "> </p> </a>
-
-
-<p>
-Archaeological excavations indicate that the settlement in this area existed in ancient times.
-Herceg-Novi was founded in <i>1382</i> by the Bosnian King <i>Tvrtko I</i>. The fortress was called in another way - <i>Svity Stefan</i>, or
-in Venetian style, <i>San Stefano</i>. One hundred years after the formation of the city the Turks came and had controlled it until 1687.
-Then Herceg-Novi changed rulers several times and, ultimately, became a part of an independent Montenegro today.
-</p>
-
-<p style = "float: right;
-margin-top: 0px;
-margin-left: 10px;
-margin-bottom: 5px; ">
-
-<a href = "photo/mont/mimoza.jpg"
-rel = "lightbox-set"
-title = "Mimosa tree"
-alt = "Mimosa tree ">
-
-<img src = "photo/mont/mimoza.jpg"
-width = "500"
-height = "360"
-alt = "Mimosa"> </p> </a>
-
-<p>
-Mara walls of the fortress, the Citadel and the tower Kanila, which were build opposite the entrance to Boka Kotor Bay, 
-have protected the city of Herceg-Novi for six centuries.
-The city was built from the XIV to XVII century - the walls were covered with some exotic plants that local sailors brought from distant wanderings.
-Herceg-Novi - the city of sun and flowers. The diverse flora of the region rightly makes this town a botanical garden of whole Montenegro.
-</p>
-
-<p>
-With its favorable climate and abundance of sunshine, Herceg-Novi frequented at winter.
-Recently, more attention is drawn to the annual Mimosa Festival, held in early February for almost 40 years.</p>
-
-<p> </p>
-<p style="text-align:right">
-<i> Mimosa - a symbol of the winter festival in Herceg-Novi </i> </p>
-
-
-
-			<p> <a name="mimoza"> </a> </p>
-						<h3>Mimosa Festival</h3>
-<p>
-The holiday begins with a mimosa flower show, then procession and a brass band performance of cheerleaders are arranged.
-At the nearest villages - <i>Dzhenovichi, Baoshichi, Kumbor</i> fishermen organize a feast. Each year, the holiday is visited by <i>20,000 visitors</i>.
-The carnival begins in evening. Music, dancing and fun are continued for a month, and at the conclusion of the feast  the burning of a
-straw doll that symbolizes everything bad that happened in the past year and what people want to forget is arranged on the town's main square.
-</p>
-
-<p style="margin-left:auto; margin-right:auto; text-align:center">
-
-<a href = "photo/mont/day_mimoza_1.jpg"
-rel = "lightbox-set"
-title = "The festival of mimosa"
-alt = "The festival of mimosa">
-
-<img src = "photo/mont/day_mimoza_1.jpg"
-width = "230"
-height = "150"
-alt = "The festival of mimosa"> </a>
-
-<a href = "photo/mont/day_mimoza_2.jpg"
-rel = "lightbox-set"
-title = "Cheerleaders on the festival of mimosa "
-alt = " Cheerleaders on the festival of mimosa ">
-
-<img src = "photo/mont/day_mimoza_2.jpg"
-width = "230"
-height = "150"
-alt = "Cheerleaders on the festival of mimosa"> </a>
-
-<a href = "photo/mont/day_mimoza_3.jpg"
-rel = "lightbox-set"
-title = "Mimosa Festival"
-alt = "Mimosa Festival">
-
-<img src = "photo/mont/day_mimoza_3.jpg"
-width = " 230"
-height = " 150"
-alt = "Mimosa Festival"> </p></a>
-
-<p style="text-align:center"> <i> Mimosa Festival in Herceg Novi takes place in early February </i></p>
-
-<p> Since 1997 the Boka-Kotor Bay was officially adopted to the Association of
-<a href="http://www.world-bays.com/boka-kotorska-47-65.html">28 most beautiful bays in the world</a>.
-</p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/kotor2.jpg"
-rel = "lightbox-set"
-title = "Boka-Kotor Bay"
-alt = "Boka-Kotor Bay">
-
-<img src = "photo/mont/kotor2.jpg"
-alt = "Boka-Kotor Bay"> </p> </a>
-
-<p style="text-align:center"> <i>Boka-Kotor Bay</i></p>
-
-
-			<p><a name="memory"></a></p>
-
-						<h3> Sights of Herceg - Novi </h3>
-
-<p> Sights of the city are a real reflection of its history. Austrians erected a watch tower here, and the Venetians built a defensive bastion
-which was intended to protect the village on the side of the sea. This sea fortress called Forte Mare and watch tower have been kept in Herceg Novi until today.
-The Spanish built a fortress Shpanola, and under the rule of the Turks in the sixteenth century, the city has another citadel - Kanli Kula - or "Bloody Tower".
-Equally ominous name of the structure is due to the fact that in the old days it was a prison, where unfortunate prisoners served their sentences for many years.
-Kanli Kula, has a completely different purpose today. Theatrical performances and movies are shown at the open area of the fortress. </P>
-
-
-<p style="margin-left:auto; margin-right:auto; text-align:center">
-
-<a href = "photo/mont/history1.jpg"
-rel = "lightbox-set"
-title = "Forte Mare"
-alt = "Forte Mare">
-
-<img src = "photo/mont/history1.jpg"
-width = "400"
-height = "270"
-alt = "Forte Mare"> </a>
-
-<a href = "photo/mont/history2.jpg"
-rel = "lightbox-set"
-title = "Kanli Kula"
-alt = "Kanli Kula">
-
-<img src = "photo/mont/history2.jpg"
-width = "400"
-height = "270"
-alt = "Kanli Kula"> </p> </a>
-
-<p style="text-align:center"> <i> Kanli Kula - or "Bloody Tower" was once a prison, now its the venue of the film festival</i> </p>
-
-<p> You can also climb the walls, and enjoy panoramic views of the open sea or the largest fjord of the Mediterranean - a truly impressive sight. </p>
-<p style="margin-left:auto; margin-right:auto; text-align:center">
-
-<a href = "photo/mont/fiort1.JPG"
-rel = "lightbox-set"
-title = "Fjord in Herceg-Novi"
-alt = "Fjord in Herceg-Novi">
-
-<img src = "photo/mont/fiort1.JPG"
-width = "400"
-height = "270"
-alt = "Fjord in Herceg-Novi"> </a>
-
-<a href = "photo/mont/fiort2.JPG"
-rel = "lightbox-set"
-title = "View from the fortress walls"
-alt = "View from the fortress walls">
-
-<img src = "photo/mont/fiort2.JPG"
-width = "400"
-height = "270"
-alt = "View from the fortress walls"> </a>
-
-<p style="text-align:center"> <i> View of the Bay </i> </p>
-
-
-			<p><a name="church"> </a> </p>
-					<h3> Temples and Monasteries of Herceg-Novi </h3>
-
-<p>There are <b>eighty-nine churches and monasteries</b> at the territory of Herceg-Novi and on the surrounding areas.
-The most notable of them - monastery complex of Sava, founded in XI century. Monastery named in honor of the first Serbian archbishop.
-
-<p> It is located in a large forest on east of Herceg Novi. It was built back in 1030 and was renovated in the XV century.
-The monastery keeps many relics such as crystal cross canted with silver that by the legend belonged to St. Sava. </P>
-
-<p> The complex consists of three churches - the buildings of XI - XVIII centuries. The Church of Saint Sava was built in the XIII century,
-the great temple of the Assumption of the Blessed Virgin - in XVIII. It remains a miraculous icon of the Mother of God, brought here from the Holy Mount Athos.
-According to legend, an icon saved the monastery from shelling  by Venetians. </P>
-
-<p> More than 5000 rare manuscripts are hold in the library of the monastery, among its exhibits - <b>unique manuscript Gospel of 1375 </b>. </p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px;">
-
-<a href = "photo/mont/church.jpg"
-rel = "lightbox-set"
-title = "Sava Monastery "
-alt = "Sava Monastery ">
-
-<img src = "photo/mont/church.jpg"
-alt = "Sava Monastery"> </p> </a>
-
-<p style="text-align:center"> <i> <b> Monastery is also known fot that, that in 2005 Đurđevdan (Saint George Daz) 
-famous Serbian film director Emir Kusturica was baptized in it. </b> </i> </p>
-
-
-
-			<p><a name="gargen"> </a> </p>
-						<h3>  The Wonderful Botanical Garden </h3>
-<p>
-There is a wonderful botanical garden besides the old hotel "Boka", which appeared in the thirties of XX century.
-This Garden has about eighty species of exotic plants which were brought here from all over the world by sailors. Among them - a lot of mimosa trees.
-The colorful city festival that lasts a month is dedicated to these beautiful flowers. Celebration is held in late February and is called "Mimosa festival».
-</p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/garden.jpg"
-rel = "lightbox-set"
-title = "Botanical Garden"
-alt = "Botanical Gardens">
-
-<img src = "photo/mont/garden.jpg"
-alt = "<Botanical Garden"> </p> </a>
-
-<p style="text-align:center"> <i> Botanical Garden has about eighty species of exotic plants </i></p>
-
-
-
-			<p><a name="climate"></a></p>
-						<h3>The Climate of Herceg-Novi</h3>
-<p> The climate in the area of Herceg-Novi is Mediterranean, with warm dry summers and mild wet winters. The average temperature at January - about 10º C,
-at July - 26º C. The swimming season runs from early May to late September. Temperature of the sea water during this period - from 22º C to 26º C. </p>
-
-			<p><a name="beaches"></a></p>
-						<h3> Beaches of Herceg - Novi </h3>
-
-<p>
-Beaches in Herceg Novi are very various. You can see a pebble beaches, artificial sandy beaches and platform beaches.
-The Riviera of Herceg-Novi, which includes the small islands and resort towns, stretches for twenty-five miles . 
-</p>
-
-<p style="margin-left:auto; margin-right:auto; text-align:center">
-
-<a href = "photo/mont/beach1.JPG"
-rel = "lightbox-set"
-title = "Beaches in Herceg-Novi"
-alt = "Beaches in Herceg-Novi">
-
-<img src = "photo/mont/beach1.JPG"
-width = "400"
-height = "270"
-alt = "Beaches in Herceg-Novi"> </a>
-
-<a href = "photo/mont/beach2.JPG"
-rel = "lightbox-set"
-title = "Beaches in Herceg-Novi"
-alt = "Beaches in Herceg-Novi">
-
-<img src = "photo/mont/beach2.JPG"
-width = "400"
-height = "270"
-alt = "Beaches in Herceg-Novi"> </a>
-
-<p style="text-align:center"> <i>Beaches in Herceg - Novi</i></p>
-
-<p>
-One of the most popular beaches of the Riviera is a grand beach, located 6 kilometers from the city, in the Miriste valley.
-It is covered with white pebbles and surrounded by lush olive groves.There are a lot of comfortable bars and restaurants in the shades of trees.
-</p>
-
-<p>
-Public Beach Miriste Valley is on a cape called Arzano. It is a concrete slab covered with fine sand.
-Dense forest that fills the air with freshness grows near the beach.
-</p>
-
-<p> There is the island of Mamula not far from the beach, which can be reached by boat.</p>
-
-<p style="margin-left:auto; margin-right:auto; text-align:center">
-
-<a href = "photo/mont/miriste.jpg"
-rel = "lightbox-set"
-title = "Miriste Beach"
-alt = "Miriste Beach">
-
-<img src = "photo/mont/miriste.jpg"
-width = "400"
-height = "270"
-alt = "Miriste Beach"> </a>
-
-<a href = "photo/mont/mamula.jpg"
-rel = "lightbox-set"
-title = "Mamula Island"
-alt = "Mamula Island">
-
-<img src = "photo/mont/mamula.jpg"
-width = "400"
-height = "270"
-alt = "Mamula Island"> </a>
-
-<p style="text-align:center"> <i> Miriste Beach and the island of Mamula</i> </p>
-
-<p> 
-The island has an Austro-Hungarian fortress that was once a prison. It was built in the XIX century. Construction was led by the Austrian general Lazar Mamula,
- after whom the island is named. He is now settled, and the fortress, surrounded by trees, looks romantic and carefree.
- There is a very popular beach with pebbles called Zhanits - one of the best beaches in Boka bay on the island.
-</p>
-
-
-
-			<p><a name="bluecave"> </a> </p>
-						<h3> The Blue Cave </h3>
-
- <p>
-Another local oddity is located between the Golden Port Bay and  Wet Mountain Cape, its called - <b>Blue Cave</b>.
-The height of the wonders of nature - nine meters, depth - about four meters. It can freely get by a small powerboat.</p>
-<p>
-
-<p style="margin-left:auto; margin-right:auto; text-align:center">
-
-<a href = "photo/mont/bluecave1.jpg"
-rel = "lightbox-set"
-title = "Blue Cave"
-alt = "Blue Cave">
-
-<img src = "photo/mont/bluecave1.jpg"
-width = "400"
-height = "270"
-alt = "Blue Cave"> </a>
-
-<a href = "photo/mont/bluecave2.jpg"
-rel = "lightbox-set"
-title = " Blue Cave "
-alt = " Blue Cave ">
-
-<img src = "photo/mont/bluecave2.jpg"
-width = "400"
-height = "270"
-alt = "Blue Cave"> </a>
-
-<p style="text-align:center"> <i> Blue Cave </i> </p>
-
-<p>
-The town <i>Rose</i> is another great beach, covered with small pebbles. The zone of Rose has been closed for shipping for a long time 
-so the sea water in these places,and with it the coast are very clean. Exceptional clarity of seawater in Rose enlists many lovers of 
-<i> diving, underwater hunting and fishing</i>.
-</p>
-
-<p style="margin-left:auto; margin-right:auto; text-align:center">
-
-<a href = "photo/mont/rosibeach1.jpg"
-rel = "lightbox-set"
-title = "Beach of Rose"
-alt = "The beach of Rose" >
-
-<img src = "photo/mont/rosibeach1.jpg"
-width = "400"
-height = "270"
-alt = "Beach of Rose"> </a>
-
-<a href = "photo/mont/rosibeach2.jpg"
-rel = "lightbox-set"
-title = "Beach of Rose"
-alt = "The beach of Rose" >
-
-<img src = "photo/mont/rosibeach2.jpg"
-width = "400"
-height = "270"
-alt = "Beach of Rose"> </a>
-
-<p style="text-align:center"> <i>Beach of Rose </i> </p>
-
-
-<p>The city of Rose is located on the tip of the <i>Lushitsa</i> peninsula.  There are many examples of unique architecture, 
-and luxurious forests are around Rose, where you can find quite a rare species of plants. 
-There is the town Nyvytsi, once a fishing village at seven kilometers from Herceg Novi.
-Today it is a famous resort with a long sandy beach, pebble, equipped in accordance with all the requirements of Superior.
-</p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/lusticamap.jpg"
-rel = "lightbox-set"
-title = "Map of the Lushitsa peninsula "
-alt = "Map of the Lushitsa peninsula ">
-
-<img src = "photo/mont/lusticamap.jpg"
-alt = " Map of the peninsula Lushitsa "> </p> </a>
-
-<p style="text-align:center"> <i> Lushtitsa Island, Blue Cave, Mamula Island </i> </p>
-
-
-
-			<p> <a name="center"> </a> </p>
-						<h3> Wellness Center of Montenegro -
-						Institute of Physiotherapy and Rehabilitation
-						named by Dr. Simo Miloševic </h3>
-
-
-<p>
-Beach of the famous <b> medical and health center Montenegro, Igalo </b>, - it's a wonderful place to relax.
-It extends from the river Sutorina to local restaurant called "Ghaleb". Some part of the beach is covered with sand, and some with concrete slabs .
-Restaurants, bars and cafes are built along the beach. Igalo is a popular physiotherapy  center, the largest in the entire Mediterranean basin.
-There are medical and mud "Ihalsko blat" resort and "Ihalske Slatina" spa near it. 
-</p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/center.jpg"
-rel = "lightbox-set"
-title = "Beach of medical and health center"
-alt = "Beach of medical and health center">
-
-<img src = "photo/mont/center.jpg"
-alt = "Beach of medical and health center "> </p> </a>
-
-<p style="text-align:center"> <i> The Beach of therapeutic and wellness center </i> </p>
-
-<p>
-The tourist complex has a variety of sports grounds and recreational areas on its territory, and you can find a cozy restaurant in every corner of it.
-The famous <b>Institute of Physiotherapy and Rehabilitation named Dr. Simo Miloševic</b>, 
-which experts have successfully treated many diseases functions in Igalo.  
-Radon mineral water "Ihalka" that deliver here from local sources is using for therapeutic baths with cold water.
-</p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/prgnobeach.jpg"
-rel = "lightbox-set"
-title = "Przno Beach, Lushtitsa"
-alt = "Przno Beach, Lushtitsa">
-
-<img src = "photo/mont/prgnobeach.jpg"
-alt = "Przno Beach, Lushtitsa"> </p> </a>
-
-<p style="text-align:center"> <i> Przno Beach, Lushtitsa </i> </p>
-
-
-<p> <i>
-Small, clean and very quiet private beaches are located around the coast of Herceg Novi. 
-They are covered with small coves and docks, including olive, orange and tangerine groves.
-All these natural delights, along with ancient monuments, give this area special and incomparable charm.
-</i> </p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/bluegorbeaches.jpg"
-rel = "lightbox-set"
-title = "Plav Horizons Beach"
-alt = "Plav Horizons Beach">
-
-<img src = "photo/mont/bluegorbeaches.jpg"
-alt = "Plav Horizons Beach"> </p> </a>
-
-<p style="text-align:center"> <i>Plav Horizons Beach (Blue Horizons Beach) </i> </p>
-
-
-<p> <br> </br> <br> </br> <p>
-
-
-
-
-			<p> <a name="fiveplaces"> </a> </p>
-						<h2 style="text-align:center;"> Top 5 special places must visit in Montenegro</h2>
-
-							<h3> 1.Park Durmitor. Tara River Canyon </h3>
-
-<p style = "float: right;
-margin-top: 20px;
-margin-left: 20px; ">
-
-<a href = "photo/mont/dyrmitor.jpg"
-rel = "lightbox-set"
-title = "Tara River Canyon "
-alt = "Tara River Canyon">
-
-<img src = "photo/mont/dyrmitor.jpg"
-width = "500"
-height = "360"
-alt = "Tara River Canyon"> </p> </a>
-
-<p> <br> </br> <br> </br> <br> </br> </p>
-<p>
-The part of the Durmitor park - Tara River Canyon, which
-is the deepest in Europe (second in the world after the Grand Canyon ) -
-included to the UNESCO World Heritage List.
-</p>
-
-<p> <br> </br> <br> </br> <br> </br> <br> </br> </p>
-
-<p style = "float: right;
-margin-top: 20px;
-margin-left: 20px; ">
-
-<a href = "photo/mont/splav.jpg"
-rel = "lightbox-set"
-title = "River Rafting"
-alt = "River Rafting">
-
-<img src = "photo/mont/splav.jpg"
-width = "500"
-height = "360"
-alt = "River Rafting"> </p> </a>
-
-<p> <br> </br> <br> </br> <br> </br> </p>
-
-Location: <p> Tara Canyon is located on the north of the country.
-Nearest cities with easy access to the canyon - Zabljak, Plevlya and Mojkovac .
-By the way, Zabljak is a famous mountain ski resort of Montenegro, which is worth to be visited in winter.
-</p>
-
-<p>
-<i> This place will be loved by fans of extreme and rafting. </i>
-</p>
-
-<p> <br> </br> <br> </br> <br> </br> </p>
-
-						<h3> 2. Skadar lake </h3>
-						
-<p>Its an Incredibly lovely pond with enormous size (about 390 sq.km.),
-which is home for pelicans and other birds.
-</p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/skadarlake.jpg"
-rel = "lightbox-set"
-title = "Skadar Lake"
-alt = "Skadar Lake">
-
-<img src = "photo/mont/skadarlake.jpg"
-alt = "Skadar Lake"> </p> </a>
-
-<p>
-<b>Location:</b><i> the largest lake of Balkans is located on the border of Montenegro and Albania.
-2/3 of the lake belongs to Montenegro. Town Virpazar is located in the western part of the lake from the bank of Montenegro 
- and the city of Shkoder is on the southeast edge of the lake form the Albanian bank</i>.
-</p>
-
-						<h3> 3. Lovcen National Park, Kotor </h3>
-<p>
-Mount Lovcen is  the Montenegro's national attraction, located in the homonymous
-National Park. It a top, which offers incredible scenery.
-It is said that from there you can see the entire Montenegro, Bosnia and Herzegovina, Croatia and
-even sometimes Italy. Along the way to the top, you can also admire the magnificent view of Boka Bay.
-</p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/lovchen1.jpg"
-rel = "lightbox-set"
-title = "Mount Lovcen"
-alt = "Mount Lovcen">
-
-<img src = "photo/mont/lovchen1.jpg"
-alt = "Mount Lovcen"> </p> </a>
-
-<p> <i> A viewing platform which offers incredible scenery is near the memorial complex.</i></p>
-
-<p>
-Lovcen has two peaks: Ezersky cattle (1,657 m) and Shtyrovnik (1,749 m).
-One of them is the mausoleum of king Peter II Petrovic Njegos - national hero.
-This place was chosen by the king for his burial and the modest chapel was built there when he was still alive.
-To get into the mausoleum you should overcome the so-called "Stairway to Heaven" - 461 step.
-</p>
-
-<p>
-Tourists are able to get only to the one of the peaks - Ezersky, because another top Shtyrovnik has
-a telecommunication tower on it and the entrance there is forbidden.
-</p>
-
-<p>
-<b>Location</b>: <i> on the southwest of the country near the town of Kotor.</i>
-</p>
-
-<h3> 4. Ostrog Monastery</h3>
-<p>
-Its a place of pilgrimage and the largest shrine and tourist attraction of Montenegro.
-It is carved into the rock in the mountains. Monastery was Founded in the XVII century.
- The relics of St. Vasil of Ostrog are stored here.
-</p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/ostrog1.jpg"
-rel = "lightbox-set"
-title = "Ostrog Monastery "
-alt = "Ostrog Monastery">
-
-<img src = "photo/mont/ostrog1.jpg"
-alt = "Ostrog Monastery"> </p> </a>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/ostrog2.jpg"
-rel = "lightbox-set"
-title = "Icon in the rock"
-alt = "Icon in the rock">
-
-<img src = "photo/mont/ostrog2.jpg"
-alt = "Icon in the rock"> </p> </a>
-
-<p>
-<b>Location</b>: <i> Ostrog Monastery is located in the mountains on an altitude of 900 meters above sea level, 15 km from Danilovgrad town.</i>
-</p>
-
-						<h3> 5. The beach Plavi Horizont (Blue Horizons Beach) of the Lushtitsa peninsula</h3>
-
-<p> This beach was awarded with a
-<a href="http://www.blueflag.org/menu/awarded-sites/2013/northern-hemisphere/montenegro/montenegro/plavi-horizonti"><i>Blue Flag</i></a>.
-Its equipped due to all the standards for high comfort.
-There are changing cabins, toilets, showers. You can rent umbrellas and sunbeds,
-but it is also free to use our own blankets.
-You could also use the parking lot, playground, have a snack or cool drink in the cafe.
-Your pleasant stay is guarding all the time  by brigade of lifeguards.
-</p>
-
-<p>
-The sandy beach is very clean. It is surrounded by picturesque rocks and pine and olive trees.
-In addition, it is an ideal place for families with children, because the shore is quite flat.
-Interestingly, this beach is one of the record-holders by the number of hours of sunshine by the year.
-</p>
-
-<p>
-The length of the beach - 320 meters. Area - 8,500 sq.m.
-</p>
-
-<p style="margin-left:auto; margin-right:auto; text-align:center">
-
-<a href = "photo/mont/plavigorizont1.jpg"
-rel = "lightbox-set"
-title = "Plavi Horizont Beach"
-alt = "Plavi Horizont Beach">
-
-<img src = "photo/mont/plavigorizont1.jpg"
-width = "400"
-height = "270"
-alt = "Plavi Horizont Beach"> </a>
-
-<a href = "photo/mont/plavigorizont2.jpg"
-rel = "lightbox-set"
-title = "Rocks"
-alt = "Rocks">
-
-<img src = "photo/mont/plavigorizont2.jpg"
-width = "400"
-height = "270"
-alt = "Rocks"> </a>
-
-<p style="text-align:center"> <i> Plavi Horizont Beach. You can walk through the pine park from main beach and reach the rocky shore </i>
-</p>
-
-<p>
-<b>Location</b>: <i>Przno, Lushtitsa Peninsula</i>
-</p>
-
-<p>
-There are a lot of beaches of this type all around of coast in Montenegro.
-For example, you can also visit the  Jaz beach, located on the same promontory close to Budva.
-</p>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/jaz1.jpg"
-rel = "lightbox-set"
-title = "Jaz Beach"
-alt = "Jaz Beach">
-
-<img src = "photo/mont/jaz1.jpg"
-alt = "Jaz Beach"> </p> </a>
-
-<p style = "text-align: center;
-margin-top: 20px;
-margin-left: 0px; ">
-
-<a href = "photo/mont/jaz2.jpg"
-rel = "lightbox-set"
-title = "Jaz Beach"
-alt = "Jaz Beach">
-
-<img src = "photo/mont/jaz2.jpg"
-alt = "Jaz Beach"> </p> </a>
-
-<p> <i>*Recall, that if you want, we can organize a private tour through above-mentioned and other interesting corners of Montenegro. </i></p>
+<article>
+	<h2>Montenegro</h2>
+
+	<p>
+		<strong>ЧMontenegro </strong>(<i> Serbian - Tsrna Gora, Crna Gora, Albanian - Mali i Zi, Croatian - Crna Gora </i>), the most commonly used is an italian manner (<i>Montenegro</i>) - a state in south-eastern Europe on the Adriatic coast of the Balkan peninsula. The name derives from the words "Black Mountain". Country is washed by <i>Adriatic</i> Sea and has land borders with <i>Croatia, Bosnia and Herzegovina, Serbia, Kosovo </i>and<i> Albania</i>.
+	</p>
+
+	<div class="montenegro-map-container">
+		<a href="photo/mont/monte_map.jpg" rel="lightbox-set" title="Map of Montenegro">
+			<img src="photo/mont/monte_map.jpg" alt="Map of Montenegro"> 
+		</a>
+	</div>
+
+	<div class="montenegro-text-container">
+		<br><br><br>
+		<p>
+			The Capital is <b>Podgorica</b>, this city is a home for <i>170 thousand</i> people. By <i>June 2006</i> Montenegro was a part of confederal <i>State Union of Serbia and Montenegro</i>, taking up to 13.5% of its total area. Montenegro declared independence at <i>June 3, 2006 </i>. The country is divided into <i>21</i> Municipality. The population according to the census of 2011 is <i>626,000</i> man.
+		</p>
+		<p>
+			The continental coastline of Montenegro has a length of about <i>300 km</i>. The length of the beaches of Montenegro - <i>73 miles</i>. Average temperature of the sea water for <b>seven</b> months range from <i>+12º</i> to <i>+26º C</i>, <b>Transparency of sea water in some places is more than <i>35m</i>.</b>
+		</p>
+	</div>
+
+	<p>
+		Montenegro's highest point - Mount </i>Durmitor (2522 m)</i>. The deepest in Europe and <b>the second in the world</b> after the Colorado River canyon <i>Tara</i> is in Montenegro. The canyon's <i>depth is about 1200 m</i>. It was declared like a natural heritage and it's under UNESCO protection.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/tara.jpg" rel="lightbox-set" title="Tara River Canyon">
+			<img src="photo/mont/tara.jpg" alt="Tara River Canyon">
+		</a>
+	</div>
+	<h4 style="text-align:center"><i>Tara River Canyon - the second deepest in the world</i></h4>
+
+	<p>
+		<a name="hn"></a>
+	</p>
+	<h2>Herceg - Novi </h2>
+
+	<div class="centred-photo">
+		<a href="photo/CIMG1397p.JPG" rel="lightbox-set" title="The streets of Herceg-Novi">
+			<img src="photo/CIMG1397p.JPG"  width="230" height="150" alt="The streets of Herceg-Novi">
+		</a> 
+		<a href="photo/CIMG1407p.JPG" rel="lightbox-set" title="The streets of Herceg-Novi">
+			<img src="photo/CIMG1407p.JPG"  width="230" height="150" alt="The streets of Herceg-Novi">
+		</a> 
+		<a href="photo/CIMG1398p.JPG" rel="lightbox-set" title="The streets of Herceg-Novi">
+			<img src="photo/CIMG1398p.JPG"  width="230" height="150" alt="The streets of Herceg-Novi">
+		</a>
+	</div>
+
+	<p>
+		Archaeological excavations indicate that the settlement in this area existed in ancient times. Herceg-Novi was founded in <i>1382</i> by the Bosnian King <i>Tvrtko I</i>. The fortress was called in another way - <i>Svity Stefan</i>, or in Venetian style, <i>San Stefano</i>. One hundred years after the formation of the city the Turks came and had controlled it until 1687. Then Herceg-Novi changed rulers several times and, ultimately, became a part of an independent Montenegro today.
+	</p>
+
+	<div class="mimoza-pic-container">
+		<a href="photo/mont/mimoza.jpg" rel="lightbox-set" title="Mimosa tree">
+			<img src="photo/mont/mimoza.jpg" width="500" alt="Mimosa tree">
+		</a>
+	</div>
+
+	<p>
+		Mara walls of the fortress, the Citadel and the tower Kanila, which were build opposite the entrance to Boka Kotor Bay, have protected the city of Herceg-Novi for six centuries. The city was built from the XIV to XVII century - the walls were covered with some exotic plants that local sailors brought from distant wanderings. Herceg-Novi - the city of sun and flowers. The diverse flora of the region rightly makes this town a botanical garden of whole Montenegro.
+	</p>
+
+	<p>
+		With its favorable climate and abundance of sunshine, Herceg-Novi frequented at winter. Recently, more attention is drawn to the annual <i>Mimosa Festival</i>, held in early February for almost 40 years.
+	</p>
+	<br>
+
+	<h4 class="caption-right">
+		<i>Mimosa - a symbol of the winter festival in Herceg-Novi</i>
+	</h4>
+
+	<p>
+		<a name="mimoza"></a>
+	</p> 
+	<h3>Mimosa Festival</h3>
+	<p>
+		The holiday begins with a mimosa flower show, then procession and a brass band performance of cheerleaders are arranged. At the nearest villages - <i>Dzhenovichi, Baoshichi, Kumbor</i> fishermen organize a feast. Each year, the holiday is visited by <i>20,000 visitors</i>. The carnival begins in evening. Music, dancing and fun are continued for a month, and at the conclusion of the feast  the burning of a straw doll that symbolizes everything bad that happened in the past year and what people want to forget is arranged on the town's main square.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/day_mimoza_1.jpg" rel="lightbox-set" title="The festival of mimosa">
+			<img src="photo/mont/day_mimoza_1.jpg"  width="230" height="150" alt="The festival of mimosa">
+		</a> 
+		<a href="photo/mont/day_mimoza_2.jpg" rel="lightbox-set" title="Cheerleaders on the festival of mimosa">
+			<img src="photo/mont/day_mimoza_2.jpg"  width="230" height="150" alt="Cheerleaders on the festival of mimosa">
+		</a> 
+		<a href="photo/mont/day_mimoza_3.jpg" rel="lightbox-set" title="The festival of mimosa">
+			<img src="photo/mont/day_mimoza_3.jpg"  width="230" height="150" alt="The festival of mimosa">
+		</a>
+	</div>
+
+	<h4>
+		<i>Mimosa Festival in Herceg Novi takes place in early February</i>
+	</h4>
+
+	<p>
+		Since 1997 the Boka-Kotor Bay was officially adopted to the Association of <a href="http://world-bays.com/boka-kotorska">28 most beautiful bays in the world</a>.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/kotor2.jpg" rel="lightbox-set" title="Boka-Kotor Bay">
+			<img src="photo/mont/kotor2.jpg" alt="Boka-Kotor Bay">
+		</a>
+	</div>
+
+	<h4>
+		<i>Boka-Kotor Bay</i>
+	</h4>
+
+	<p>
+		<a name="memory"></a>
+	</p> 
+	<h3>Sights of Herceg - Novi</h3>
+
+	<p>
+		Sights of the city are a real reflection of its history. Austrians erected a watch tower here, and the Venetians built a defensive bastion which was intended to protect the village on the side of the sea. This sea fortress called <i>Forte Mare</i> and watch tower have been kept in Herceg Novi until today. The Spanish built a fortress <i>Shpanola</i>, and under the rule of the Turks in the sixteenth century, the city has another citadel - <i>Kanli Kula - or "Bloody Tower"</i>. Equally ominous name of the structure is due to the fact that in the old days it was a prison, where unfortunate prisoners served their sentences for many years. Kanli Kula, has a completely different purpose today. Theatrical performances and movies are shown at the open area of the fortress.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/history1.jpg" rel="lightbox-set" title="Forte Mare">
+			<img src="photo/mont/history1.jpg"  width="400" height="270" alt="Forte Mare">
+		</a>
+		<a href="photo/mont/history2.jpg" rel="lightbox-set" title="Kanli Kula">
+			<img src="photo/mont/history2.jpg"  width="400" height="270" alt="Kanli Kula">
+		</a>
+	</div>
+
+	<h4>
+		<i>Kanli Kula - or "Bloody Tower" was once a prison, now its the venue of the film festival</i>
+	</h4>
+
+	<p>
+		You can also climb the walls, and enjoy panoramic views of the open sea or the largest fjord of the Mediterranean - a truly impressive sight.
+	</p>
+	<div class="centred-photo">
+		<a href="photo/mont/fiort1.JPG" rel="lightbox-set" title="Fjord in Herceg-Novi">
+			<img src="photo/mont/fiort1.JPG"  width="400" height="270" alt="Fjord in Herceg-Novi">
+		</a>
+		<a href="photo/mont/fiort2.JPG" rel="lightbox-set" title="View from the fortress walls">
+			<img src="photo/mont/fiort2.JPG"  width="400" height="270" alt="View from the fortress walls">
+		</a>
+	</div>
+
+	<h4>
+		<i>View of the Bay</i>
+	</h4>
+
+	<p>
+		<a name="church"></a>
+	</p> 
+	<h3>Temples and Monasteries of Herceg-Novi</h3>
+
+	<p>
+		There are <b>eighty-nine churches and monasteries</b> at the territory of Herceg-Novi and on the surrounding areas. The most notable of them - monastery complex of <i>Sava</i>, founded in <i>XI</i> century. Monastery named in honor of the first Serbian archbishop.
+	</p>
+
+	<p>
+		It is located in a large forest on east of Herceg Novi. It was built back in 1030 and was renovated in the XV century. The monastery keeps many relics such as crystal cross canted with silver that by the legend belonged to St. Sava.
+	</p>
+
+	<p>
+		The complex consists of three churches - the buildings of XI - XVIII centuries. The Church of Saint Sava was built in the XIII century, the great temple of the Assumption of the Blessed Virgin - in XVIII. It remains a miraculous icon of the Mother of God, brought here from the <i>Holy Mount Athos</i>. According to legend, an icon saved the monastery from shelling  by Venetians.
+	</p>
+
+	<p>
+		More than 5000 rare manuscripts are hold in the library of the monastery, among its exhibits - <b>unique manuscript Gospel of 1375 </b>.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/church.jpg" rel="lightbox-set" title="Sava Monastery">
+			<img src="photo/mont/church.jpg" alt="Sava Monastery">
+		</a>
+	</div>
+
+	<h4>
+		<i>Monastery is also known fot that, that in 2005 Đurđevdan (Saint George Daz) famous Serbian film director Emir Kusturica was baptized in it.</i>
+	</h4>
+
+	<p>
+		<a name="gargen"></a>
+	</p> 
+	<h3>The Wonderful Botanical Garden</h3>
+
+	<p>
+		There is a wonderful botanical garden besides the old hotel "Boka", which appeared in the thirties of XX century. This Garden has about <i>eighty</i> species of exotic plants which were brought here from all over the world by sailors. Among them - a lot of mimosa trees. The colorful city festival that lasts a month is dedicated to these beautiful flowers. Celebration is held in late February and is called "Mimosa festival».
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/garden.jpg" rel="lightbox-set" title="Botanical Garden">
+			<img src="photo/mont/garden.jpg" alt="Botanical Garden">
+		</a>
+	</div>
+
+	<h4>
+		<i>Botanical Garden has about eighty species of exotic plants</i>
+	</h4>
+
+	<p>
+		<a name="climate"></a>
+	</p> 
+	<h3>The Climate of Herceg-Novi</h3>
+
+	<p>
+		The climate in the area of Herceg-Novi is Mediterranean, with warm dry summers and mild wet winters. The average temperature at January - about 10º C, at July - 26º C. The swimming season runs from <i>early May to late September</i>. Temperature of the sea water during this period - from <i>22º C</i> to <i>26º C</i>.
+	</p>
+
+	<p>
+		<a name="beaches"></a>
+	</p> 
+	<h3> Beaches of Herceg - Novi </h3>
+
+	<p>
+		Beaches in Herceg Novi are very various. You can see a pebble beaches, artificial sandy beaches and platform beaches. The Riviera of Herceg-Novi, which includes the small islands and resort towns, stretches for twenty-five miles.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/beach1.JPG" rel="lightbox-set" title="Beaches in Herceg-Novi">
+			<img src="photo/mont/beach1.JPG"  width="400" height="270" alt="Beaches in Herceg-Novi">
+		</a> 
+		<a href="photo/mont/beach2.JPG" rel="lightbox-set" title="Beaches in Herceg-Novi">
+			<img src="photo/mont/beach2.JPG"  width="400" height="270" alt="Beaches in Herceg-Novi">
+		</a>
+	</div>
+
+	<h4>
+		<i>Beaches in Herceg-Novi</i>
+	</h4>
+
+	<p>
+		One of the most popular beaches of the Riviera is a grand beach, located 6 kilometers from the city, in the <i>Miriste</i> valley. It is covered with white pebbles and surrounded by lush olive groves.There are a lot of comfortable bars and restaurants in the shades of trees.
+	</p>
+
+	<p>
+		Public Beach Miriste Valley is on a cape called Arzano. It is a concrete slab covered with fine sand. Dense forest that fills the air with freshness grows near the beach.
+	</p>
+
+	<p>
+		There is the island of <i>Mamula</i> not far from the beach, which can be reached by boat.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/miriste.jpg" rel="lightbox-set" title="Miriste Beach">
+			<img src="photo/mont/miriste.jpg"  width="400" height="270" alt="Miriste Beach">
+		</a>
+		<a href="photo/mont/mamula.jpg" rel="lightbox-set" title="Mamula Island">
+			<img src="photo/mont/mamula.jpg"  width="400" height="270" alt="Mamula Island">
+		</a>
+	</div>
+
+	<h4>
+		<i>Miriste Beach and the island of Mamula</i>
+	</h4>
+
+	<p>
+		The island has an <i>Austro-Hungarian fortress</i> that was once a prison. It was built in the XIX century. Construction was led by the Austrian general Lazar Mamula, after whom the island is named. He is now settled, and the fortress, surrounded by trees, looks romantic and carefree. There is a very popular beach with pebbles called <i>Zhanits</i> - one of the best beaches in Boka bay on the island.
+	</p>
+
+	<p>
+		<a name="bluecave"></a>
+	</p>
+	<h3>The Blue Cave</h3>
+
+	<p>
+		Another local oddity is located between <i>the Golden Port Bay and  Wet Mountain Cape</i>, its called - <b>Blue Cave</b>. The height of the wonders of nature - nine meters, depth - about four meters. It can freely get by a small powerboat.</p>
+	<p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/bluecave1.jpg" rel="lightbox-set" title="Blue Cave">
+			<img src="photo/mont/bluecave1.jpg" width="400" height="270" alt="Blue Cave">
+		</a> 
+		<a href="photo/mont/bluecave2.jpg" rel="lightbox-set" title="Blue Cave">
+			<img src="photo/mont/bluecave2.jpg" width="400" height="270" alt="Blue Cave">
+		</a>
+	</div>
+
+	<h4>
+		<i>Blue Cave</i>
+	</h4>
+
+	<p>
+		The town <i>Rose</i> is another great beach, covered with small pebbles. The zone of Rose has been closed for shipping for a long time so the sea water in these places,and with it the coast are very clean. Exceptional clarity of seawater in Rose enlists many lovers of <i> diving, underwater hunting and fishing</i>.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/rosibeach1.jpg" rel="lightbox-set" title="Beach of Rose">
+			<img src="photo/mont/rosibeach1.jpg"  width="400" height="270" alt="Beach of Rose">
+		</a>
+		<a href="photo/mont/rosibeach2.jpg" rel="lightbox-set" title="Beach of Rose">
+			<img src="photo/mont/rosibeach2.jpg"  width="400" height="270" alt="Beach of Rose">
+		</a>
+	</div>
+
+	<h4>
+		<i>Beach of Rose</i>
+	</h4>
+
+	<p>
+		The city of Rose is located on the tip of the <i>Lushitsa</i> peninsula.  There are many examples of unique architecture, and luxurious forests are around Rose, where you can find quite a rare species of plants. There is the town <i>Nyvytsi</i>, once a fishing village at seven kilometers from Herceg Novi. Today it is a famous resort with a long sandy beach, pebble, equipped in accordance with all the requirements of Superior.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/lusticamap.jpg" rel="lightbox-set" title="Карта півострова Лушіца">
+			<img src="photo/mont/lusticamap.jpg" alt="Карта півострова Лушіца">
+		</a>
+	</div>
+
+	<h4>
+		<i>Lushtitsa Island, Blue Cave, Mamula Island</i>
+	</h4>
+
+	<p><a name="center"></a></p> 
+	<h3>Wellness Center of Montenegro - Institute of Physiotherapy and Rehabilitation named by Dr. Simo Miloševic</h3>
+
+	<p>
+		Beach of the famous <b> medical and health center Montenegro, Igalo </b>, - it's a wonderful place to relax. It extends from the river Sutorina to local restaurant called "Ghaleb". Some part of the beach is covered with sand, and some with concrete slabs. Restaurants, bars and cafes are built along the beach. Igalo is a popular physiotherapy  center, the largest in the entire Mediterranean basin. There are medical and mud "Ihalsko blat" resort and "Ihalske Slatina" spa near it.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/center.jpg" rel="lightbox-set" title="Beach of medical and health center">
+			<img src="photo/mont/center.jpg" alt="Beach of medical and health center">
+		</a>
+	</div>
+
+	<h4><i>Beach of medical and health center</i></h4>
+
+	<p>
+		The tourist complex has a variety of sports grounds and recreational areas on its territory, and you can find a cozy restaurant in every corner of it.The famous <b>Institute of Physiotherapy and Rehabilitation named Dr. Simo Miloševic</b>, which experts have successfully treated many diseases functions in Igalo. Radon mineral water <i>"Ihalka"</i> that deliver here from local sources is using for therapeutic baths with cold water.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/prgnobeach.jpg" rel="lightbox-set" title="Przno Beach, Lushtitsa">
+			<img src="photo/mont/prgnobeach.jpg" alt="Przno Beach, Lushtitsa"> 
+		</a>
+	</div>
+
+	<h4><i>Przno Beach, Lushtitsa</i></h4>
+
+	<p>
+		<i>Small, clean and very quiet private beaches are located around the coast of Herceg Novi. They are covered with small coves and docks, including olive, orange and tangerine groves. All these natural delights, along with ancient monuments, give this area special and incomparable charm.</i>
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/bluegorbeaches.jpg" rel="lightbox-set" title="Plav Horizons Beach">
+			<img src="photo/mont/bluegorbeaches.jpg" alt="Plav Horizons Beach">
+		</a>
+	</div>
+
+	<h4>
+		<i>Plav Horizons Beach (Blue Horizons Beach)</i>
+	</h4>
+
+	<p>
+		<a name="fiveplaces"></a>
+	</p> 
+	<h2>Top 5 special places must visit in Montenegro</h2>
+
+	<h3>1.Park Durmitor. Tara River Canyon</h3>
+
+	<p>
+		The part of the Durmitor park - Tara River Canyon, which is the deepest in Europe (second in the world after the Grand Canyon ) - included to the UNESCO World Heritage List.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/splav.jpg" rel="lightbox-set" title="River Rafting">
+			<img src="photo/mont/splav.jpg"  width="400" height="270" alt="River Rafting">
+		</a>
+		<a href="photo/mont/dyrmitor.jpg" rel="lightbox-set" title="Tara River Canyon">
+			<img src="photo/mont/dyrmitor.jpg"  width="400" height="270" alt="Tara River Canyon">
+		</a>
+	</div>
+
+	<p>
+		<b>Location</b> - Tara Canyon is located on the north of the country. Nearest cities with easy access to the canyon - Zabljak, Plevlya and Mojkovac. By the way, <i>Zabljak</i> is a famous mountain ski resort of Montenegro, which is worth to be visited in winter.
+	</p>
+
+	<p>
+		<i>This place will be loved by fans of extreme and rafting.</i>
+	</p>
+
+	<h3>2. Skadar lake</h3>
+	<p>
+		Its an Incredibly lovely pond with enormous size (about 390 sq.km.), which is home for pelicans and other birds.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/skadarlake.jpg" rel="lightbox-set" title="Skadar Lake">
+			<img src="photo/mont/skadarlake.jpg" alt="Skadar Lake">
+		</a>
+	</div>
+
+	<p>
+		<b>Location</b> - <i>the largest lake of Balkans is located on the border of Montenegro and Albania. 2/3 of the lake belongs to Montenegro. Town Virpazar is located in the western part of the lake from the bank of Montenegro and the city of Shkoder is on the southeast edge of the lake form the Albanian bank</i>.
+	</p>
+
+	<h3>3. Lovcen National Park, Kotor</h3>
+	<p>
+		<i>ount Lovcen</i> – is the Montenegro's national attraction, located in the homonymous National Park. It a top, which offers incredible scenery. It is said that from there you can see the entire Montenegro, Bosnia and Herzegovina, Croatia and even sometimes Italy. Along the way to the top, you can also admire the magnificent view of Boka Bay.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/lovchen1.jpg" rel="lightbox-set" title="Mount Lovcen">
+			<img src="photo/mont/lovchen1.jpg" alt="Mount Lovcen">
+		</a>
+	</div>
+
+	<h4>
+		<i>A viewing platform which offers incredible scenery is near the memorial complex.</i>
+	</h4>
+
+	<p>
+		Lovcen has two peaks: <i>Ezersky cattle (1,657 m) and Shtyrovnik (1,749 m)</i>. One of them is the mausoleum of king Peter II Petrovic Njegos - national hero. This place was chosen by the king for his burial and the modest chapel was built there when he was still alive. To get into the mausoleum you should overcome the so-called "Stairway to Heaven" - 461 step.
+	</p>
+	<p>
+		Tourists are able to get only to the one of the peaks - Ezersky, because another top Shtyrovnik has a telecommunication tower on it and the entrance there is forbidden.
+	</p>
+	<p>
+		<b>Location</b>: <i>on the southwest of the country near the town of Kotor.</i>
+	</p>
+
+	<h3>4. Ostrog Monastery</h3>
+	<p>
+		Its a place of pilgrimage and the largest shrine and tourist attraction of Montenegro. It is carved into the rock in the mountains. Monastery was Founded in the XVII century. The relics of St. Vasil of Ostrog are stored here.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/ostrog1.jpg" rel="lightbox-set" title="Ostrog Monastery">
+			<img src="photo/mont/ostrog1.jpg" width="400" height="270" alt="Ostrog Monastery">
+		</a>
+		<a href="photo/mont/ostrog2.jpg" rel="lightbox-set" title="Icon in the rock">
+			<img src="photo/mont/ostrog2.jpg" width="400" height="270" alt="Icon in the rock">
+		</a>
+	</div>
+
+	<p>
+		<b>Location</b>: <i>Ostrog Monastery is located in the mountains on an altitude of 900 meters above sea level, 15 km from Danilovgrad town.</i>
+	</p>
+
+	<h3>5. The beach Plavi Horizont (Blue Horizons Beach) of the Lushtitsa peninsula</h3>
+
+	<p>
+		This beach was awarded with a <a href="http://www.blueflag.org/menu/awarded-sites/2013/northern-hemisphere/montenegro/montenegro/plavi-horizonti"><i>Blue Flag</i></a>. Its equipped due to all the standards for high comfort. There are changing cabins, toilets, showers. You can rent umbrellas and sunbeds, but it is also free to use our own blankets. You could also use the parking lot, playground, have a snack or cool drink in the cafe. Your pleasant stay is guarding all the time  by brigade of lifeguards.
+	</p>
+	<p>
+		The sandy beach is very clean. It is surrounded by picturesque rocks and pine and olive trees. In addition, it is an ideal place for families with children, because the shore is quite flat. Interestingly, this beach is one of the record-holders by the number of hours of sunshine by the year.
+	</p>
+	<p>
+		The length of the beach - 320 meters. Area - 8,500 sq.m.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/plavigorizont1.jpg" rel="lightbox-set" title="Plavi Horizont Beach">
+			<img src="photo/mont/plavigorizont1.jpg"  width="400" height="270" alt="Plavi Horizont Beach">
+		</a>
+		<a href="photo/mont/plavigorizont2.jpg" rel="lightbox-set" title="Rocks">
+			<img src="photo/mont/plavigorizont2.jpg"  width="400" height="270" alt="Rocks">
+		</a>
+	</div>
+
+	<h4>
+		<i>Plavi Horizont Beach. You can walk through the pine park from main beach and reach the rocky shore</i>
+	</h4>
+
+	<p>
+		<b>Location<</b>: <i>Przno, Lushtitsa Peninsula</i>
+	</p>
+
+	<p>
+		There are a lot of beaches of this type all around of coast in Montenegro.For example, you can also visit the <i>Jaz beach</i>, located on the same promontory close to Budva.
+	</p>
+
+	<div class="centred-photo">
+		<a href="photo/mont/jaz1.jpg" rel="lightbox-set" title="Jaz Beach">
+			<img src="photo/mont/jaz1.jpg"  width="400" height="270" alt="Jaz Beach">
+		</a>
+		<a href="photo/mont/jaz2.jpg" rel="lightbox-set" title="Jaz Beach">
+			<img src="photo/mont/jaz2.jpg"  width="400" height="270" alt="Jaz Beach">
+		</a>
+	</div>
+
+	<p>
+		<i>*Recall, that if you want, we can organize a private tour through above-mentioned and other interesting corners of Montenegro.</i>
+	</p>
+</article>
 
 <*/content*>
 <*keywords*> history, temples ,monasteries ,beaches ,climate <*/keywords*>
