@@ -135,3 +135,7 @@ p {text-indent: 40px;}
 	width: 250px;
 	height: 160px;
 }
+
+.simple-little-table.text-left{
+	margin-bottom: 50px;
+}

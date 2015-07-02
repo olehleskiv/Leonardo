@@ -562,11 +562,11 @@
 
 <table class="simple-little-table text-left" cellspacing='0'>
 	<tr>
-		<th><b>Informacja dodatkowa/b></th>
+		<th><b>Informacja dodatkowa</b></th>
 	</tr>
 	<tr class='even'>
 		<td>
-			<span>Dodatkowe łóżko -  za dodatkową opłatą.</span>
+			<span>Dodatkowe łóżko - za dodatkową opłatą.</span>
 		</td>
 	</tr>
 	<tr class='even'>
@@ -622,6 +622,7 @@
 	</tr>
 	
 </table>
+
 
 	
 <!--  Put this script tag to the <head> of your page  -->

@@ -21,11 +21,27 @@ and (max-width : 480px) {
 	#nav-menu li a{
 		width: 100%;
 	}
+	#nav-menu li a {
+		background-image: none;
+		background: #D2E9AE;
+		background: -webkit-gradient(linear, left top, left bottom, from(#D2E9AE), to(#E7F3D4));
+		opacity: 0.9;
+		border-bottom: 2px solid #bfbcb9;
+		color: #a5a4a4;
+		font-weight: bold;
+	}
 	#nav-menu li a:hover{
-		color: #000;
-		background-image: url(../img/menu_front.png);
-		background-repeat: repeat-x;
 		width: 100%;
+		background-image: none;
+		color: #a5a4a4;
+		height: 38px;
+	}
+	#current_page{
+		background-image: none !important;
+		background-color: #FFFFFF !important;
+		opacity: 0.8 !important;
+		color: #000000 !important;
+		font-weight: bold;
 	}
 	li.seperator{
 		display: none;

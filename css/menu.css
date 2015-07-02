@@ -99,3 +99,29 @@ li.seperator
 	width: 1px;
 	margin: 0px 0px 0px 0px;
 }
+
+@media only screen 
+and (min-width : 320px) 
+and (max-width : 480px) {
+	#nav-menu li a {
+		background-image: none;
+		background-color: #D2E9AE;
+		opacity: 0.9;
+		border-bottom: 2px solid #bfbcb9;
+		color: #FFFFFF;
+		font-weight: bold;
+	}
+	#nav-menu li a:hover{
+		background: #D2E9AE;
+		background-image: none;
+		color: #FFFFFF;
+	}
+
+	#current_page{
+		background-image: none !important;
+		background-color: #FFFFFF !important;
+		opacity: 0.8 !important;
+		color: #000000 !important;
+		font-weight: bold;
+	}
+}
