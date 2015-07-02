@@ -34,7 +34,7 @@
 			<li><b>Skype:</b></li>
 			<li>
 				<ul>
-					<li><a href="skype:agencyleonard?chat">jagencyleonard</a></li>
+					<li><a href="skype:agencyleonard?chat">agencyleonard</a></li>
 				</ul>
 			</li>
 		</ul>
