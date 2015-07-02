@@ -1,938 +1,649 @@
-﻿<*title*>Услуги и Цены<*/title*>
+<*title*>Usluge i cijene<*/title*>
 <*content*>
 
-<link rel="stylesheet" href="css3_3d.css" media="screen" />
-<link rel="stylesheet" href="services.css"/>
-<link rel="stylesheet" href="list.css" />
+<link rel="stylesheet" href="css3_3d.css">
+<link rel="stylesheet" href="services.css">
+<link rel="stylesheet" href="list.css">
+<link rel="stylesheet" href="css/prices.css">
+<link rel="stylesheet" href="css/prices-responsive.css">
+<script type="text/javascript" src="scripts/rotator.js"></script>
 
-<a href="#" class="scrollup">Вгору</a>
+<a href="#" class="scrollup">Na Vrh</a>
 <br>
 
-<p>
-<h1 style="text-align:center">U ponudi su:</h1>
-</p>
-
-<script type="text/javascript" src="scripts/rotator.js"></script>
-<!-- Автор Dylan Wagstaff, http://www.alohatechsupport.net -->
-
-<style>
-#rotator {
-position:relative;
-margin-left: 300px;
-}
-h1 {
-	margin-top: -20px;
-   }
-h2 {
-   margin-top: 100px;
-   margin-bottom: 20px;
-   text-align:center;
-}
-h3 {
-   margin-top: 50px; 
-    margin-bottom: 20px; 
-	text-align:center;
-   }
-p {
-    text-indent: 40px;
-   }
-
-</style> 
-
-<div id="rotator" style="float: center;>
-margin-top: 0px; 
-margin-left: 380px;
-margin-bottom: 5px;">
-
-
-  <ul>
-    <li class="show"><img class="box9" src="photo/rotator/dom_b.jpg" width="420" height="290" alt="pic1" /></a></li>
-    <li><img class="box9" src="photo/rotator/outside_b.jpg" width="420" height="290" alt="pic2" ></a></li>
-	<li><img class="box9" src="photo/rotator/interirer_b.jpg" width="420" height="290" alt="pic4"  /></a></li>
-	<li><img class="box9" src="photo/rotator/altanka_b.jpg" width="420" height="290" alt="pic5"/></a></li>
-	<li><img class="box9" src="photo/rotator/divan.jpg" width="420" height="290" alt="pic6"  /></a></li>
-	<li><img class="box9" src="photo/rotator/kitchen_new.jpg" width="420" height="290" alt="pic7"/></a></li>
-	<li><img class="box9" src="photo/rotator/stairs_b.jpg" width="420" height="290" alt="pic9"/></a></li>	
-	<li><img class="box9" src="photo/rotator/corridor.jpg" width="420" height="290" alt="pic10"/></a></li>
-	<li><img class="box9" src="photo/rotator/kovka.jpg" width="420" height="290" alt="pic11"/></a></li>
-	<li><img class="box9" src="photo/rotator/plants.jpg" width="420" height="290" alt="pic12"/></a></li>
-	<li><img class="box9" src="photo/rotator/villa_new.jpg" width="420" height="290" alt="pic13"/></a></li>
-  </ul>
-</div>
+<h1>U ponudi su:</h1>
 
 <div class="buttonblock">
-<!--
-<div style="margin-left:0px; margin-right:auto; padding-right:12px; text-align:left; margin-top:-155px; clear:both">
- <div>
- </BR></BR> -->
-<a href="#oneroom" STYLE="width:375px;margin:-3px 0px 0px -4px;" class="button9">   Jednosobna dvokrevetna apartmana      </a></br>
-<a href="#tworoom" STYLE="width:375px;margin:-3px 0px 0px -4px" class="button9">   Dvosobna apartmana (3-4 mjesta)   </a></br>
-<a href="#apartments" STYLE="width:375px;margin:-3px 0px 0px -4px;" class="button9">Dvosobna  apartmana s kuhinjom </a></br>
-
-<a href="#adds"  class="button9" STYLE= "color: #191970;width:375px;margin:-3px 0px 0px -4px">Dodatne informacije</a></br>
-<!--
-</div></div>
--->
+	<a href="#oneroom" class="button9 nav-button">Jednosobna dvokrevetna apartmana</a>
+	</br>
+	<a href="#tworoom" class="button9 nav-button">Dvosobna apartmana (3-4 mjesta)</a>
+	</br>
+	<a href="#apartments" class="button9 nav-button">Dvosobna  apartmana s kuhinjom</a>
+	</br>
+	<a href="#adds" class="button9 nav-button">Dodatne informacije</a>
+	</br>
 </div>
 
-			<p><a name="oneroom"></a></p>
-						<h2 style="margin-top:250px;">Jednosobna dvokrevetna apartmana (2-3 mjesta)</h2>
+<div id="rotator" class="rotator-container">
+	<ul>
+		<li class="show"><img class="box9" src="photo/rotator/dom_b.jpg" alt="pic1"></li>
+		<li><img class="box9" src="photo/rotator/outside_b.jpg" alt="pic2"></li>
+		<li><img class="box9" src="photo/rotator/interirer_b.jpg" alt="pic4"></li>
+		<li><img class="box9" src="photo/rotator/altanka_b.jpg" alt="pic5"></li>
+		<li><img class="box9" src="photo/rotator/divan.jpg" alt="pic6"></li>
+		<li><img class="box9" src="photo/rotator/kitchen_new.jpg" alt="pic7"></li>
+		<li><img class="box9" src="photo/rotator/stairs_b.jpg" alt="pic9"></li>
+		<li><img class="box9" src="photo/rotator/corridor.jpg" alt="pic10"></li>
+		<li><img class="box9" src="photo/rotator/kovka.jpg" alt="pic11"></li>
+		<li><img class="box9" src="photo/rotator/plants.jpg" alt="pic12"></li>
+		<li><img class="box9" src="photo/rotator/villa_new.jpg" alt="pic13"></li>
+	</ul>
+</div>
 
-<table class="simple-little-table" align="center" cellspacing='0'		
+<p>
+	<a name="oneroom"></a>
+</p>
+
+<h2>Jednosobna dvokrevetna apartmana (2-3 mjesta)</h2>
+
+<table class="simple-little-table" cellspacing='0'>
 	<tr>
-		<td colspan="6" 
-		style="text-align: center;">
-		<b>Cijene su u eurima po sobe po 1 noći</b></td>
+		<td colspan="6" class="caption">
+			<b>Jednosobna dvokrevetna apartmana (2-3 mjesta)</b>
+		</td>
 	</tr>
 	<tr>
 		<th><b>Tip Apartmana</b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
 	</tr>
 	<tr>
 		<th><b>Jednosobna (2 mjesta)</b></th><td>15</td><td>18</td><td>24</td><td>18</td><td>16</td>
-	</tr>		
+	</tr>
 	<tr>
 		<th><b>Jednosobna (3 mjesta)</b></th><td>18</td><td>22</td><td>28</td><td>22</td><td>20</td>
-	</tr>	
-</table>	
+	</tr>
+</table>
 
-		<h3>Apartman №1</h3>
+<h3>Apartman №1</h3>
 
-<div style="align:center; text-align:center; margin-top:20px; clear:both">
-
- <ul id="grid" class="group">
- <li>
-  <div class="details" class="more" ><h3>2 jednoosobni kreveti</h3></div> 
-	<a href="photo/oneroom/1.jpg" 
-	rel="lightbox-set" 
-	title="Jednosobna dvokrevetna apartmana (2-3 mjesta)"
-	alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
- 
- 
-<img src="photo/oneroom/1.jpg" 
-width="250"
-height="160"
-alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)"></a> 
-</li>
-
-
-
-<li>
-<div class="details"><h3>Balkon
-Francuski ležaj</h3></div>
-	<a href="photo/oneroom/2.jpg" 
-	rel="lightbox-set" 
-	title="Jednosobna dvokrevetna apartmana (2-3 mjesta)"
-	alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
-
-<img src="photo/oneroom/2.jpg" 
-width="250"
-height="160"
-alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Balkon
-Francuski ležaj</h3></div> 
-	<a href="photo/oneroom/3.jpg" 
-	rel="lightbox-set" 
-	title="Jednosobna dvokrevetna apartmana (2-3 mjesta)"
-	alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
-
-<img src="photo/oneroom/3.jpg" 
-width="250"
-height="160"
-alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)"></a> 
-</li>
-</ul>
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>2 jednoosobni kreveti</h3>
+			</div> 
+			<a href="photo/oneroom/1.jpg" rel="lightbox-set" title="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+				<img src="photo/oneroom/1.jpg" alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+			</a> 
+		</li>
+		<li>
+			<div class="details">
+				<h3>Balkon</h3>
+			</div>
+			<a href="photo/oneroom/2.jpg" rel="lightbox-set" title="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+				<img src="photo/oneroom/2.jpg" alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+			</a> 
+		</li>
+		<li>
+			<div class="details" class="more">
+				<h3>Francuski ležaj</h3>
+			</div> 
+			<a href="photo/oneroom/3.jpg" rel="lightbox-set" title="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+				<img src="photo/oneroom/3.jpg" alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+			</a>
+		</li>
+	</ul>
 </div>
 
-<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Kupatilo</h3></div> 
-	<a href="photo/oneroom/4.jpg" 
-	rel="lightbox-set" 
-	title="Jednosobna dvokrevetna apartmana (2-3 mjesta)"
-	alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
-
-<img src="photo/oneroom/4.jpg" 
-width="250"
-height="160"
-alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Kupatilo</h3></div> 
-	<a href="photo/oneroom/5.jpg" 
-	rel="lightbox-set" 
-	title="Jednosobna dvokrevetna apartmana (2-3 mjesta)"
-	alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
-
-<img src="photo/oneroom/5.jpg" 
-width="250"
-height="160"
-alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)"></a> 
-</li>
-</ul>
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Kupatilo</h3>
+			</div> 
+			<a href="photo/oneroom/4.jpg" rel="lightbox-set" title="Jednosobna dvokrevetna apartmana (2-3 mjesta) - Kupatilo">
+				<img src="photo/oneroom/4.jpg" alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+			</a> 
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Kupatilo</h3>
+			</div>
+			<a href="photo/oneroom/5.jpg" rel="lightbox-set" title="Jednosobna dvokrevetna apartmana (2-3 mjesta) - Kupatilo">
+				<img src="photo/oneroom/5.jpg" alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+			</a> 
+		</li>
+	</ul>
 </div>
 
 
-<h3 style="clear:left;">Apartman №2</h3>
+<h3>Apartman №2</h3>
 
 
-<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Balkon</h3></div> 
-	<a href="photo/oneroom/6.jpg" 
-	rel="lightbox-set" 
-	title="Jednosobna dvokrevetna apartmana (2-3 mjesta)"
-	alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
-
-<img src="photo/oneroom/6.jpg" 
-width="250"
-height="160"
-alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Francuski ležaj</h3></div> 
-	<a href="photo/oneroom/7.jpg" 
-	rel="lightbox-set" 
-	title="Jednosobna dvokrevetna apartmana (2-3 mjesta)"
-	alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
-
-<img src="photo/oneroom/7.jpg" 
-width="250"
-height="160"
-alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)"></a> 
-</li>
-</ul>
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Balkon</h3>
+			</div> 
+			<a href="photo/oneroom/6.jpg" rel="lightbox-set" title="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+				<img src="photo/oneroom/6.jpg" alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Francuski ležaj</h3>
+			</div> 
+			<a href="photo/oneroom/7.jpg" rel="lightbox-set" title="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+				<img src="photo/oneroom/7.jpg" alt="Jednosobna dvokrevetna apartmana (2-3 mjesta)">
+			</a>
+		</li>
+	</ul>
 </div>
 
-			<p><a name="tworoom"></a></p>
-						<h2 style="clear:left; margin-top:300px;">Dvosobna ćetverokrevetna apartmana (3-4 mjesta)</h2>
+<p>
+	<a name="tworoom"></a>
+</p>
+<h2>Dvosobna ćetverokrevetna apartmana (3-4 mjesta)</h2>
 
-<table class="simple-little-table" align="center" cellspacing='0'>		
+<table class="simple-little-table" cellspacing='0'>
 	<tr>
-		<td colspan="6" 
-		style="text-align: center;">
-		<b>Cijene su u eurima po sobe po 1 noći</b></td>
+		<td colspan="6" class="caption">
+			<b>Cijene su u eurima po sobe po 1 noći</b>
+		</td>
 	</tr>
 	<tr>
 		<th><b>Tip Apartmana</b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
-	</tr>	
+	</tr>
 	<tr>
 		<tr>
-	<tb>		</tb> </tr>
-<th><b>Dvosobna (3-4 mjesto)</b></th><td>21</td><td>28</td><td>38</td><td>32</td><td>24</td>
-	</tr>	
-</table>
-
-			<h3>Apartman №1</h3>
-
-
-<div style="margin:auto;text-align:left; clear:both;">
-<ul id="grid" class="group">
- <li>
- <div class="details" class="more" ><h3>Sto</h3></div> 
-	<a href="photo/tworoom/1/11.jpg" 
-	rel="lightbox-set" 
-	title="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/1/11.jpg" 
-width="250"
-height="160"
-alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Spavača soba (balkon)</h3></div> 
-	<a href="photo/tworoom/1/12.jpg" 
-	rel="lightbox-set" 
-	title="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/1/12.jpg" 
-width="250"
-height="160"
-alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Spavača soba (balkon)</h3></div> 
-	<a href="photo/tworoom/1/13.jpg" 
-	rel="lightbox-set" 
-	title="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/1/13.jpg" 
-width="250"
-height="160"
-alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-</ul>
-</div>
-
-<div style="margin: auto auto auto 130px; text-align:left; clear:both;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Dryga spavača soba</h3></div> 
-	<a href="photo/tworoom/1/14.jpg" 
-	rel="lightbox-set" 
-	title="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/1/14.jpg" 
-width="250"
-height="160"
-alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Kupatilo</h3></div> 
-	<a href="photo/tworoom/1/15.jpg" 
-	rel="lightbox-set" 
-	title="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/1/15.jpg" 
-width="250"
-height="160"
-alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-</ul>
-</div>
-	
-	         	<h3 style="clear:left;">Apartman №2</h3>
-<div style="align:center; margin: auto auto auto 50px;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Spavača soba (balkon)</h3></div> 
-	<a href="photo/tworoom/2/21.jpg" 
-	rel="lightbox-set" 
-	title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/2/21.jpg" 
-width="250"
-height="160"
-alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-
-<!--
-<li>
-	<a href="photo/tworoom/2/22.jpg" 
-	rel="lightbox-set" 
-	title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/2/22.jpg" 
-width="250"
-height="160"
-alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
--->
-
-<li>
-<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Sto za ručak</h3></div> 
-	<a href="photo/tworoom/2/23.jpg" 
-	rel="lightbox-set" 
-	title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/2/23.jpg" 
-width="125"
-height="160"
-alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Dryga spavača soba</h3></div> 
-	<a href="photo/tworoom/2/24.JPG" 
-	rel="lightbox-set" 
-	title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/2/24.JPG" 
-width="250"
-height="160"
-alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-
-</ul>
-</div>
-
-<div style="margin: auto auto auto 130px; text-align:center; clear:both">
-<ul id="grid" class="group">
-
-
-<li>
-<div class="details" class="more" ><h3>Sto</h3></div> 
-	<a href="photo/tworoom/2/25.jpg" 
-	rel="lightbox-set" 
-	title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/2/25.jpg" 
-width="250"
-height="160"
-alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Kupatilo</h3></div> 
-	<a href="photo/tworoom/2/26.jpg" 
-	rel="lightbox-set" 
-	title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/2/26.jpg" 
-width="250"
-height="160"
-alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-</ul>
-</div>
-
-
-				<h3 style="clear:left;">Apartman №3</h3>
-
-<div style="margin:auto;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Spavača soba (balkon)</h3></div> 
-	<a href="photo/tworoom/3/31.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/3/31.jpg" 
-width="250"
-height="160"
-alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Spavača soba (balkon)</h3></div> 
-	<a href="photo/tworoom/3/32.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/3/32.jpg" 
-width="250"
-height="160"
-alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Dryga spavača soba (Sto za ručak)</h3></div> 
-	<a href="photo/tworoom/3/33.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/3/33.jpg" 
-width="250"
-height="160"
-alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a> 
-</li>
-</ul>
-</div>
-
-<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Dryga spavača soba</h3></div> 
-	<a href="photo/tworoom/3/34.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/3/34.jpg" 
-width="250"
-height="160"
-
-alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Dryga spavača soba</h3></div> 
-	<a href="photo/tworoom/3/34a.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/3/34a.jpg" 
-width="250"
-height="160"
-
-alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-</ul>
-</div>
-
-<div style="margin: auto auto auto 180px; text-align:center; clear:both;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Kupatilo</h3></div> 
-	<a href="photo/tworoom/3/35.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/3/35.jpg" 
-width="125"
-height="160"
-alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Kupatilo</h3></div> 
-	<a href="photo/tworoom/3/36.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/3/36.jpg" 
-width="125"
-height="160"
-alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Kupatilo</h3></div> 
-	<a href="photo/tworoom/3/37.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/tworoom/3/37.jpg" 
-width="125"
-height="160"
-alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-</ul>
-</div>
-
-
-
-<div><br></br><br></br><br></br><br></br>
-			<p><a name="apartments"></a></p>
-						<h2  style="clear:left;">Dvosobna ćetverokrevetna apartmana s kuhinjom (3-4 mjesta)</h2>
-						
-<table class="simple-little-table" align="center" cellspacing='0'>		
-
-<tr>
-		<td colspan="6" style="text-align: center;">Cijena smještaja za apartman po noći:</td>
-</tr>
-
-<tr>
-		<th style="text-align: center;"><b>Datum</b></th> <th colspan="3" style="text-align: center;"><b>Cijena</b></th> </tr>
-<tr>
- <td></td>
-<td>3-7 dan </td><td>8-15 dan </td>	</tr>
-<tr class='even'><th>01 maj - 31 maj</th><td>25</td><td>22</td>	</tr>
-<tr><th>01 jun - 30 jun</th><td>38</td><td>35</td>	</tr>	
-<tr class='even'><th>01 jul - 14 jul</th><td>45</td><td>40</td>	</tr>	
-<tr><th>15 jul - 14 august</th><td>50</td><td>46</td>	</tr>	
-<tr class='even'><th>15 august - 31 august</th><td>45</td><td>40</td>	</tr>	
-<tr><th>1 septembar - 14 oktobar</th><td>35</td><td>32</td>	</tr>	
-<tr class='even'><th>15 oktobar – 31 decembar</th><td>25</td><td>20</td>	</tr>	
-</table>
-
-<h3 style="clear:left;">Apartman №1</h3>
-<div style="margin-left:-15px; margin-right:auto; padding-right:12px; text-align:center; margin-top:20px; clear:both">
-<ul id="grid" class="group">
-<li>	
-<div class="details" class="more" ><h3>Sobe ima balkon i kuhinju</h3></div> 
-	<a href="photo/apartment/1-41.jpg" 
-	rel="lightbox-set" 
-	title="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="1 Apartman-Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/1-41.jpg" 
-width="250"
-height="160"
-alt="1 Apartman-Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Sobe ima balkon i kuhinju</h3></div> 
-	<a href="photo/apartment/1-42.jpg" 
-	rel="lightbox-set" 
-	title="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/1-42.jpg" 
-width="250"
-height="160"
-alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Sobe ima balkon i kuhinju</h3></div> 
-	<a href="photo/apartment/1-43.jpg" 
-	rel="lightbox-set" 
-	title="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/1-43.jpg" 
-width="250"
-height="160"
-alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-</ul>
-</div>
-
-<div style="margin: auto auto auto 130px; text-align:center; clear:both">
-<ul id="grid" class="group">	
-<li>
-<div class="details" class="more" ><h3>Kupatilo</h3></div> 
-	<a href="photo/apartment/1-44.jpg" 
-	rel="lightbox-set" 
-	title="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/1-44.jpg" 
-width="250"
-height="160"
-alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Balkon</h3></div> 
-	<a href="photo/apartment/1-45.jpg" 
-	rel="lightbox-set" 
-	title="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/1-45.jpg" 
-width="250"
-height="160"
-alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-</ul>
-</div>
-
-<h3 style="clear:left;">Apartman №2</h3>
-
-<div style="margin-left:-15px; text-align:center;  clear:both">
-<ul id="grid" class="group">	
-<li>
-<div class="details" class="more" ><h3>Prva soba (sto)</h3></div> 
-	<a href="photo/apartment/2-46.jpg" 
-	rel="lightbox-set" 
-	title="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="2 Apartman-  Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/2-46.jpg" 
-width="250"
-height="160"
-alt="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-<li>
-<div class="details" class="more" ><h3>Prva soba (kuhinja)</h3></div> 
-	<a href="photo/apartment/2-47.jpg" 
-	rel="lightbox-set" 
-	title="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/2-47.jpg" 
-width="250"
-height="160"
-alt="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Prva soba (kauč)</h3></div> 
-	<a href="photo/apartment/2-48.jpg" 
-	rel="lightbox-set" 
-	title="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/2-48.jpg" 
-width="250"
-height="160"
-alt="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-</ul>
-</div>
-
-<div style="margin-left:-15px; text-align:center;  clear:both">
-<ul id="grid" class="group">	
-<li>
-<div class="details" class="more" ><h3>Prolaz u sobu</h3></div> 
-	<a href="photo/apartment/2-49.jpg" 
-	rel="lightbox-set" 
-	title="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="2 Apartman-  Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/2-49.jpg" 
-width="250"
-height="160"
-alt="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-<li>
-<div class="details" class="more" ><h3>Dryga spavača soba</h3></div> 
-	<a href="photo/apartment/2-50.jpg" 
-	rel="lightbox-set" 
-	title="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/2-50.jpg" 
-width="250"
-height="160"
-alt="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Prolaz u sobu (ormar)</h3></div> 
-	<a href="photo/apartment/2-51.jpg" 
-	rel="lightbox-set" 
-	title="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/2-51.jpg" 
-width="250"
-height="160"
-alt="2 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-</ul>
-</div>
-
-
-<div style="margin: auto auto auto 130px; text-align:center; clear:both">
-<ul id="grid" class="group">	
-<li>
-<div class="details" class="more" ><h3>Prva soba (balkon)</h3></div> 
-	<a href="photo/apartment/2-52.jpg" 
-	rel="lightbox-set" 
-	title="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/2-52.jpg" 
-width="250"
-height="160"
-alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Kupatilo</h3></div> 
-	<a href="photo/apartment/2-53.jpg" 
-	rel="lightbox-set" 
-	title="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"
-	alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
-
-<img src="photo/apartment/2-53.jpg" 
-width="250"
-height="160"
-alt="1 Apartman- Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
-</li>
-</ul>
-</div>
-</div>
-
-<!--------------------------------------------------->			 
-
-	<br></br><br></br><br></br><br></br>
-			<p><a name="adds"></a></p>
-			<div class="topbar orange" 
-			style="width:815px; margin:80px auto -30px auto; background: #D2E9AE;
-    background: -webkit-gradient(linear, left top, left bottom, from(#D2E9AE), to(#E7F3D4));
-    background: -moz-linear-gradient(top,  #D2E9AE,  #D2E9AE);">
-		<h1 style="color:grey;">Dodatne informacije</h1>
-	</div>
-	<br></br>
-						
-
-<div style="float: right; margin-left: 0px; margin-top:-15px; margin-right:-10px; clear: right;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Willa</h3></div> 
-	<a href="photo/rotator/outside_b.jpg" 
-	rel="lightbox-set" 
-	title="Willa u Crnoj Gori - Willa"
-	alt="Willa u Crnoj Gori - Willa">
-
-<img src="photo/rotator/outside_b.jpg" 
-width="250"
-height="160"
-alt="Willa u Crnoj Gori - Willa"></a>
-</li>
-</ul>
-</div>
-
-<div style="float: right;margin-left: 0px; margin-top:-50px; margin-right:-10px; clear: right;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Zajednićka kuhinja</h3></div> 
-	<a href="photo/rotator/kitchen.jpg" 
-	rel="lightbox-set" 
-	title="Willa u Crnoj Gori - Zajednićka kuhinja"
-	alt="Willa u Crnoj Gori - Zajednićka kuhinja">
-
-<img src="photo/rotator/kitchen.jpg" 
-width="250"
-height="160"
-alt="Willa u Crnoj Gori - Zajednićka kuhinja"></a>
-</li>
-</ul>
-</div>
-
-<div style="float: right;margin-left: 0px; margin-top:-50px; margin-right:-10px;clear: right;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Hodnik</h3></div> 
-	<a href="photo/rotator/interirer_b.jpg" 
-	rel="lightbox-set" 
-	title="Willa u Crnoj Gori - Hodnik"
-	alt="Willa u Crnoj Gori - Hodnik">
-
-<img src="photo/rotator/interirer_b.jpg" 
-width="250"
-height="160"
-alt="Willa u Crnoj Gori - Hodnik"></a>
-</li>
-</ul>
-</div>
-
-
-
-<table class="simple-little-table" align="center" cellspacing='0' style="font-size:16px;  margin-left: 15px; ">		
-	<tr>
-		<th style="text-align: center; margin:0px 0px;">
-		<b>Dodatne informacije</b></th>
-	</tr>
-<tr class='even'>
-<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-Zajednićka kuhinja se nalazi na spratu.</td>
-</tr>
-	<tr class='even'>
-	<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-	Snabdevanje vodom je neprekidno, jer posedujemo sopstveni rezervuar.</td> 
-	</tr>
-	  <tr class='even'>
-      <td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-	  U četverokrevetne sobe može primiti peta osoba uz naplatu.</td>
-	  </tr>
-		<tr class='even' style=>
-		<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-		Cijena smještaja, bez boravišne takse.</td> 
+			<tb></tb>
 		</tr>
-			<tr class='even'>
-			<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-			U slućaju otkazivanja rezervacije, 30% depozit je nepovratan.</td> 
-			</tr>
-				<tr class='even'>
-				<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-				30% od rezervacije potrebno poslati bankovim transferom za potvrdu rezervacije ,ostatak se plaća na dan dolaska.</td> 
-				</tr>
-					<tr class='even'>
-					<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-					Kada se stavi na 1 do 3 dan stopa povećava se za 20%.</td> 
-					</tr>
-						<tr class='even'>
-						<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-						Za boravak duži od 14 dana, kao i kolektivnih naloga, postoji popust.</td> 
-						</tr>
+		<th><b>Dvosobna (3-4 mjesto)</b></th><td>21</td><td>28</td><td>38</td><td>32</td><td>24</td>
+	</tr>
 </table>
 
-<table class="simple-little-table" align="center" cellspacing='0' style="font-size:16px;  margin-left: 15px; ">		
+<h3>Apartman №1</h3>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Sto</h3>
+			</div>
+			<a href="photo/tworoom/1/11.jpg" rel="lightbox-set" title="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/1/11.jpg"  alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Spavača soba (balkon)</h3>
+			</div>
+			<a href="photo/tworoom/1/12.jpg" rel="lightbox-set" title="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/1/12.jpg"  alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Spavača soba (balkon)</h3>
+			</div>
+			<a href="photo/tworoom/1/13.jpg" rel="lightbox-set" title="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/1/13.jpg"  alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" ><h3>Dryga spavača soba</h3></div> 
+			<a href="photo/tworoom/1/14.jpg" rel="lightbox-set" title="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/1/14.jpg"  alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+
+		<li>
+			<div class="details" class="more" ><h3>Kupatilo</h3></div> 
+			<a href="photo/tworoom/1/15.jpg" rel="lightbox-set" title="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/1/15.jpg"  alt="№1 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<h3>Apartman №2</h3>
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Spavača soba (balkon)</h3>
+			</div>
+			<a href="photo/tworoom/2/21.jpg" rel="lightbox-set" title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/2/21.jpg" alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more">
+				<h3 class="vertical-caption">Sto za ručak</h3>
+			</div> 
+			<a href="photo/tworoom/2/23.jpg" rel="lightbox-set" title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/2/23.jpg" class="vertical" alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Dryga spavača soba</h3>
+			</div>
+			<a href="photo/tworoom/2/24.JPG" rel="lightbox-set" title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/2/24.JPG" alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Sto</h3>
+			</div> 
+			<a href="photo/tworoom/2/25.jpg" rel="lightbox-set" title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/2/25.jpg"  alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Kupatilo</h3>
+			</div> 
+			<a href="photo/tworoom/2/26.jpg" rel="lightbox-set" title="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/2/26.jpg"  alt="№2 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)"></a>
+		</li>
+	</ul>
+</div>
+
+
+<h3>Apartman №3</h3>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Spavača soba (balkon)</h3>
+			</div> 
+			<a href="photo/tworoom/3/31.jpg" rel="lightbox-set" title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/3/31.jpg"  alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Spavača soba (balkon)</h3>
+			</div> 
+			<a href="photo/tworoom/3/32.jpg" rel="lightbox-set" title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/3/32.jpg"  alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Dryga spavača soba (обідній столик)</h3>
+			</div> 
+			<a href="photo/tworoom/3/33.jpg" rel="lightbox-set" title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/3/33.jpg"  alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Dryga spavača soba</h3>
+			</div> 
+			<a href="photo/tworoom/3/34.jpg" rel="lightbox-set" title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/3/34.jpg"  alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Dryga spavača soba</h3>
+			</div> 
+			<a href="photo/tworoom/3/34a.jpg" rel="lightbox-set" title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/3/34a.jpg"  alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3 class="vertical-caption">Kupatilo</h3>
+			</div> 
+			<a href="photo/tworoom/3/35.jpg" rel="lightbox-set" title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/3/35.jpg" class="vertical" alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3 class="vertical-caption">Kupatilo</h3>
+			</div> 
+			<a href="photo/tworoom/3/36.jpg" rel="lightbox-set" title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/3/36.jpg" class="vertical" alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3 class="vertical-caption">Kupatilo</h3>
+			</div> 
+			<a href="photo/tworoom/3/37.jpg" rel="lightbox-set" title="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/tworoom/3/37.jpg" class="vertical" alt="№3 - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<p>
+	<a name="apartments"></a>
+</p>
+<h2>Dvosobna ćetverokrevetna apartmana s kuhinjom (3-4 mjesta)</h2>
+
+<table class="simple-little-table" cellspacing='0'>
 	<tr>
-		<th style="text-align: center; margin:0px auto;">
-		<b>Ostale usluge:</b></th>
+		<td colspan="6" class="caption">Cijena smještaja za apartman po noći:</td>
 	</tr>
-	
+	<tr>
+		<th><b>Datum</b></th><th colspan="3"><b>Cijena</b></th>
+	</tr>
+	<tr>
+		<td></td>
+		<td>3-7 dan </td><td>8-15 dan </td>
+	</tr>
 	<tr class='even'>
-    <td style="padding:3px 120px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-	Pruži se usluga prevoza od aerodroma Tivat - 30 euro;</td>
+		<th>01 maj - 31 maj</th><td>25</td><td>22</td>
 	</tr>
-		<tr class='even' style=>
-		<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-		Budva - residence - 35 euro;</td> 
-		</tr>
-			<tr class='even'>
-			<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-			Iznajmljivanje planinskih bicikala - 5 €\dan</td> 
-			</tr>
-				<tr class='even'>
-				<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-				Nudimo izleti kolima</td> 
-				</tr>
-					<tr class='even'>
-					<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-					Plaćanje primiti moguće koristiti perilicu rublja.</td> 
-					</tr>
+	<tr>
+		<th>01 jun - 30 jun</th><td>38</td><td>35</td>
+	</tr>
+	<tr class='even'>
+		<th>01 jul - 14 jul</th><td>45</td><td>40</td>
+	</tr>
+	<tr
+		><th>15 jul - 14 august</th><td>50</td><td>46</td>
+	</tr>
+	<tr class='even'>
+		<th>15 august - 31 august</th><td>45</td><td>40</td>
+	</tr>
+	<tr>
+		<th>1 septembar - 14 oktobar</th><td>35</td><td>32</td>
+	</tr>
+	<tr class='even'>
+		<th>15 oktobar – 31 decembar</th><td>25</td><td>20</td>
+	</tr>
+</table>
+
+<h3>Apartman №1</h3>
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Sobe ima balkon i kuhinju</h3>
+			</div> 
+			<a href="photo/apartment/1-41.jpg" rel="lightbox-set" title="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/apartment/1-41.jpg"  alt="1 Apartman -Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Sobe ima balkon i kuhinju</h3>
+			</div> 
+			<a href="photo/apartment/1-42.jpg" rel="lightbox-set" title="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/apartment/1-42.jpg"  alt="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Sobe ima balkon i kuhinju</h3>
+			</div> 
+			<a href="photo/apartment/1-43.jpg" rel="lightbox-set" title="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/apartment/1-43.jpg"  alt="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Kupatilo</h3>
+			</div> 
+			<a href="photo/apartment/1-44.jpg" rel="lightbox-set" title="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/apartment/1-44.jpg"  alt="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Balkon</h3>
+			</div> 
+			<a href="photo/apartment/1-45.jpg" rel="lightbox-set" title="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/apartment/1-45.jpg"  alt="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<h3>Apartman №2</h3>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Prva soba (sto)</h3>
+			</div> 
+			<a href="photo/apartment/2-46.jpg" rel="lightbox-set" title="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/apartment/2-46.jpg"  alt="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Prva soba (kuhinja)</h3>
+			</div> 
+			<a href="photo/apartment/2-47.jpg" rel="lightbox-set" title="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/apartment/2-47.jpg"  alt="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Prva soba (kauč)</h3>
+			</div> 
+			<a href="photo/apartment/2-48.jpg" rel="lightbox-set" title="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/apartment/2-48.jpg"  alt="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Prolaz u sobu</h3>
+			</div> 
+			<a href="photo/apartment/2-49.jpg" rel="lightbox-set" title="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			<img src="photo/apartment/2-49.jpg" alt="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Dryga spavača soba</h3>
+			</div> 
+			<a href="photo/apartment/2-50.jpg" rel="lightbox-set" title="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			<img src="photo/apartment/2-50.jpg"  alt="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	<li>
+			<div class="details" class="more" >
+				<h3>Prolaz u sobu (ormar)</h3>
+			</div> 
+			<a href="photo/apartment/2-51.jpg" rel="lightbox-set" title="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			<img src="photo/apartment/2-51.jpg"  alt="2 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Prva soba (Balkon)</h3>
+			</div> 
+			<a href="photo/apartment/2-52.jpg" rel="lightbox-set" title="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/apartment/2-52.jpg"  alt="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Kupatilo</h3>
+			</div> 
+			<a href="photo/apartment/2-53.jpg" rel="lightbox-set" title="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+				<img src="photo/apartment/2-53.jpg"  alt="1 Apartman - Dvosobna ćetverokrevetna apartmana (3-4 mjesta)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<p>
+	<a name="adds"></a>
+</p>
+<div class="topbar topbar-table">
+	<h4>Dodatne informacije</h4>
+</div>
+
+<div class="img-right">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more">
+				<h3>Willa</h3>
+			</div> 
+			<a href="photo/rotator/outside_b.jpg" rel="lightbox-set" title="Willa">
+				<img src="photo/rotator/outside_b.jpg" alt="Willa">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="img-right">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Zajednićka kuhinja</h3>
+			</div> 
+			<a href="photo/rotator/kitchen_new.jpg" rel="lightbox-set" title="Zajednićka kuhinja">
+				<img src="photo/rotator/kitchen_new.jpg" alt="Zajednićka kuhinja">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="img-right">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Hodnik</h3>
+			</div> 
+			<a href="photo/rotator/interirer_b.jpg" rel="lightbox-set" title="Hodnik">
+				<img src="photo/rotator/interirer_b.jpg" alt="Hodnik">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<table class="simple-little-table text-left" cellspacing='0'>
+	<tr>
+		<th><b>Dodatne informacije</b></th>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>U četverokrevetne sobe može primiti peta osoba uz naplatu.</span>
+		</td>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Cijena smještaja, bez boravišne takse.</span>
+		</td>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>U slućaju otkazivanja rezervacije, 30% depozit je nepovratan.</span>
+		</td> 
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Kada se stavi na 1 do 3 dan stopa povećava se za 20%.</span>
+		</td> 
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Za boravak duži od 14 dana, kao i kolektivnih naloga, postoji popust.</span>
+		</td>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Snabdevanje vodom je neprekidno, jer posedujemo sopstveni rezervuar.</span>
+		</td>
+	</tr>
+</table>
+
+<table class="simple-little-table text-left" cellspacing='0'>
+	<tr>
+		<th><b>Ostale usluge:</b></th>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Pruži se usluga prevoza od aerodroma Tivat - 30 euro;</span>
+		</td>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Budva - residence - 35 euro;</span>
+		</td> 
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Iznajmljivanje planinskih bicikala - 5 €\dan</span>
+		</td> 
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Nudimo izleti kolima</span>
+		</td> 
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Laćanje primiti moguće koristiti perilicu rublja.</span>
+		</td> 
+	</tr>
 	
 </table>
 
-<!--
-<h3>Додаткові послуги:</h3>
-<ul>
-	<li>Трансфер а\п Тіват-місце проживання- 30 євро;</li>
-	<li>Будва-місце проживання - 35 євро;</li>
-	<li>Прокат гірського велосипеда – 5 євро\доба</li>
-	<li>Можливість користування пральною машинкою надається за окрему плату .</li>
-</ul>
- -->
 	
-<!-- Put this script tag to the <head> of your page 
-<script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+<!--  Put this script tag to the <head> of your page  -->
+<!-- <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
 
 <script type="text/javascript">
   VK.init({apiId: 4160494, onlyWidgets: true});
 </script>
--->
-<!-- Put this div tag to the place, where the Comments block will be 
+
+ Put this div tag to the place, where the Comments block will be 
 <div id="vk_comments"></div>
 <script type="text/javascript">
 VK.Widgets.Comments("vk_comments", {limit: 10, width: "496", attach: "*"});
 </script>
--->
+ -->
 
-
-<!--
-<div style="margin-left:auto; margin-right:auto; padding-right:12px; text-align:center; margin-top:20px; clear:both">
-<a href="photo/karfagen1p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen1s.jpg" /></a>
-<a href="photo/karfagen3p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen3s.jpg" /></a>
-<a href="photo/DSCN0428_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0428_s.jpg" /></a>
-<a href="photo/karfagen5p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen5s.jpg" /></a>
-<a href="photo/DSCN0633_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0633_s.jpg" /></a>
-<a href="photo/DSCN0717_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0717_s.jpg" /></a>
-<a href="photo/DSCN0719_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0719_s.jpg" /></a>
-<a href="photo/DSCN0699_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0699_s.jpg" /></a>
-<a href="photo/karfagen6p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen6s.jpg" /></a>
-<a href="photo/karfagen2p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen2s.jpg" /></a>
-<a href="photo/DSCN0637_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0637_s.jpg" /></a>
-<a href="photo/IMG332_B.jpg" rel="lightbox-set" title=""><img alt="" src="photo/IMG332_s.jpg" /></a>
-<a href="photo/IMG337_B.jpg" rel="lightbox-set" title=""><img alt="" src="photo/IMG337_s.jpg" /></a>
-<a href="photo/88.jpg" rel="lightbox-set" title=""><img alt="" src="photo/88s.jpg" /></a>
-<a href="photo/33.jpg" rel="lightbox-set" title=""><img alt="" src="photo/33s.jpg" /></a>
-<a href="photo/stairs_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/stairs_s.jpg" /></a>
-<a href="photo/CIMG4628p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG4628s.JPG" /></a>		
-<a href="photo/CIMG3852p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG3852s.JPG" /></a>
-<a href="photo/CIMG3850p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG3850s.JPG" /></a>
-<a href="photo/123.jpg" rel="lightbox-set" title=""><img alt="" src="photo/123s.jpg" /></a>
-<a href="photo/CIMG5566p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5566s.JPG" /></a>	
-<a href="photo/CIMG5343p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5343s.JPG" /></a>
-<a href="photo/stb.jpg" rel="lightbox-set" title=""><img alt="" src="photo/sts.jpg" /></a>	
-<a href="photo/11b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/11s.jpg" /></a>	
-<a href="photo/CIMG5709.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5709s.jpg" /></a>
-<a href="photo/CIMG5791.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5791s.jpg" /></a>
-<a href="photo/CIMG5795.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5795s.jpg" /></a>
-<a href="photo/DSCN0431_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0431_s.jpg" /></a>
-<a href="photo/DSCN0448_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0448_s.jpg" /></a>
-<a href="photo/CIMG5712.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5712s.jpg" /></a>
-<a href="photo/CIMG5715.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5715s.jpg" /></a> 
-</div>
--->
-
-<br>
 
 <*/content*>
-<*description*>Однокомнатные ( 2-х местные ) и двухкомнатные ( 4-х местные ) номера, Apartmanлюкс(холодильник, фен, большая терраса(10м кв.)), кондиционер. Номера имеют: удобства(ТУД), телевизор(SAT-TV), Balkon. Имеется место для парковки.<*/description*>
-<*keywords*>услуги, цены<*/keywords*>
+<*description*>Jedna spavaća soba (2 dvokrevetne) i parovima (4-krevetne) soba, suite (hladnjak, sušilo za kosu, velike terase (10m kvadratnih.)), Klima uređaj. Sobe imaju sadržaje (TUD), TV (SAT-TV), balkon. Tu je parkirno mjesto.<*/description*>
+<*keywords*>usluge, cijene<*/keywords*>
