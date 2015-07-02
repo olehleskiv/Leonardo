@@ -1,8 +1,12 @@
 <*title*>Карта Черногории<*/title*>
 <*content*>
-<br/><div style="text-align:center;">
-	<p><b>Расположение</b>: г.Зеленика,Герцег-Нови,500 м к морю, 5 мин ходьбы </p>
-	<div id="map_canvas" style="margin: 0 auto; width: 570px; height: 430px"></div>
+<link rel="stylesheet" href="css/map.css">
+<br>
+<div class="map-block">
+	<p>
+		<b>Расположение</b>: г.Зеленика,Герцег-Нови,500 м к морю, 5 мин ходьбы
+	</p>
+	<div id="map_canvas"></div>
 </div>
 <*/content*>
 <*description*>Интерактивная карта Черногории с указанным местом нахождения отеля.<*/description*>

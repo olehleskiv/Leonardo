@@ -1,20 +1,13 @@
-﻿<*title*>Montenegro map<*/title*>
-
+<*title*>Montenegro map<*/title*>
 <*content*>
-<br/>
-<div style="text-align:center;">
+<link rel="stylesheet" href="css/map.css">
+<br>
+<div class="map-block">
 	<p>
-<b>Location</b>: t.Zelenika, Herceg Novi, 500 m to the sea, 5 minutes walk away</p>
-	
-<div id="map_canvas" 
-style="margin: 0 auto; 
-width: 570px; 
-height: 430px">
+		<b>Location</b>: t.Zelenika, Herceg Novi, 500 m to the sea, 5 minutes walk away
+	</p>
+	<div id="map_canvas"></div>
 </div>
-</div>
-
 <*/content*>
-
-<*description*>Interactive map of Montenegro to the specified location of the hotel.<*/description*>
-
 <*keywords*>interactive map, the location of the hotel Leonardo, Zelenika map<*/keywords*>
+<*description*>Interactive map of Montenegro to the specified location of the hotel.<*/description*>

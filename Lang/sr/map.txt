@@ -1,9 +1,13 @@
-﻿<*title*>Карта Черногории<*/title*>
+<*title*>Karta Crne Gore<*/title*>
 <*content*>
-<br/><div style="text-align:center;">
-	<p><b>Lokacija</b>: Zelenika,Herceg-Novi, udaljenost od plaže - 500 m, 5 min peški </p>
-	<div id="map_canvas" style="margin: 0 auto; width: 570px; height: 430px"></div>
+<link rel="stylesheet" href="css/map.css">
+<br>
+<div class="map-block">
+	<p>
+		<b>Lokacija</b>: Zelenіka, Herceg Novi, 500 m od mora, 5 min hoda
+	</p>
+	<div id="map_canvas"></div>
 </div>
 <*/content*>
-<*description*>Интерактивная карта Черногории с указанным местом нахождения отеля.<*/description*>
-<*keywords*>интерактивная карта, место нахождения<*/keywords*>
+<*keywords*>іnteraktivna kartica, Lokacija <*/keywords*>
+<*description*>Interaktivna karta Crne Gore sa određenom mjestu hotela.<*/description*>
