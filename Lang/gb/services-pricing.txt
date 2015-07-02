@@ -1,964 +1,644 @@
-﻿<*title*>Services and Pricing<*/title*>
+<*title*>Services and Pricing<*/title*>
 <*content*>
-<link rel="stylesheet" href="css3_3d.css" media="screen" />
-<link rel="stylesheet" href="services.css"/>
-<link rel="stylesheet" href="list.css" />
+
+<link rel="stylesheet" href="css3_3d.css">
+<link rel="stylesheet" href="services.css">
+<link rel="stylesheet" href="list.css">
+<link rel="stylesheet" href="css/prices.css">
+<link rel="stylesheet" href="css/prices-responsive.css">
+<script type="text/javascript" src="scripts/rotator.js"></script>
 
 <a href="#" class="scrollup">Up</a>
 <br>
 
-<p>
-	<h1 style="text-align:center">At your service we offer: </h1>
-</p>
-
-<script type="text/javascript" src="scripts/rotator.js"></script>
-
-<style>
-#rotator {
-position:relative;
-margin-left: 300px;
-}
-h1 {
-	margin-top: -20px;
-   }
-   
-   h2 {
-   margin-top: 100px;
-   margin-bottom: 20px;
-   text-align:center;
-}
-   
-    h3 {
-   margin-top: 50px; 
-    margin-bottom: 20px; 
-	text-align:center;
-   }
-   
-   p {
-    text-indent: 40px;
-   }
-
-</style> 
-
-<div id="rotator" style="float: center; margin-top: 0px; margin-left: 380px; margin-bottom: 5px;">
-	<ul>
-		<li class="show">
-			<img class="box9" src="photo/rotator/dom_b.jpg" width="420" height="290" alt="pic1" />
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/outside_b.jpg" width="420" height="290" alt="pic2" >
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/interirer_b.jpg" width="420" height="290" alt="pic4"  />
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/altanka_b.jpg" width="420" height="290" alt="pic5"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/divan.jpg" width="420" height="290" alt="pic6"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/kitchen_new.jpg" width="420" height="290" alt="pic7"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/stairs_b.jpg" width="420" height="290" alt="pic9"/>
-		</li>	
-		<li>
-			<img class="box9" src="photo/rotator/corridor.jpg" width="420" height="290" alt="pic10"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/kovka.jpg" width="420" height="290" alt="pic11"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/plants.jpg" width="420" height="290" alt="pic12"/>
-		</li>
-		<li>
-			<img class="box9" src="photo/rotator/villa_new.jpg" width="420" height="290" alt="pic13"/>
-		</li>
-  </ul>
-</div>
+<h1>At your service we offer:</h1>
 
 <div class="buttonblock">
-<!--
-<div style="margin-left:0px; margin-right:auto; padding-right:12px; text-align:left; margin-top:-155px; clear:both">
- <div>
- </BR></BR> -->
-<a href="#oneroom" STYLE="width:375px;margin:-3px 0px 0px -4px;" class="button9">  1 Bedroom suite (2-3 persons) </a></br>
-<a href="#tworoom" STYLE="width:375px;margin:-3px 0px 0px -4px" class="button9">   2 Bedroom suite (3-4 persons)   </a></br>
-<a href="#apartments" STYLE="width:375px; margin:-3px 0px 0px -4px;" class="button9">2 Bedroom apartment with kitchen</a></br>
-
-<a href="#adds"  class="button9" STYLE= "color: #191970;width:375px;margin:-3px 0px 0px -4px">Additional information</a></br>
-
-<!--
-</div></div>
--->
-
+	<a href="#oneroom" class="button9 nav-button">1 Bedroom suite (2-3 persons)</a>
+	</br>
+	<a href="#tworoom" class="button9 nav-button">2 Bedroom suite (3-4 persons)</a>
+	</br>
+	<a href="#apartments" class="button9 nav-button">2 Bedroom apartment with kitchen</a>
+	</br>
+	<a href="#adds" class="button9 nav-button">Additional information</a>
+	</br>
 </div>
 
+<div id="rotator" class="rotator-container">
+	<ul>
+		<li class="show"><img class="box9" src="photo/rotator/dom_b.jpg" alt="pic1"></li>
+		<li><img class="box9" src="photo/rotator/outside_b.jpg" alt="pic2"></li>
+		<li><img class="box9" src="photo/rotator/interirer_b.jpg" alt="pic4"></li>
+		<li><img class="box9" src="photo/rotator/altanka_b.jpg" alt="pic5"></li>
+		<li><img class="box9" src="photo/rotator/divan.jpg" alt="pic6"></li>
+		<li><img class="box9" src="photo/rotator/kitchen_new.jpg" alt="pic7"></li>
+		<li><img class="box9" src="photo/rotator/stairs_b.jpg" alt="pic9"></li>
+		<li><img class="box9" src="photo/rotator/corridor.jpg" alt="pic10"></li>
+		<li><img class="box9" src="photo/rotator/kovka.jpg" alt="pic11"></li>
+		<li><img class="box9" src="photo/rotator/plants.jpg" alt="pic12"></li>
+		<li><img class="box9" src="photo/rotator/villa_new.jpg" alt="pic13"></li>
+	</ul>
+</div>
 
-	
-	
+<p>
+	<a name="oneroom"></a>
+</p>
 
-			<p><a name="oneroom"></a></p>
-						<h2 style="margin-top:250px;">1 Bedroom suite (2-3 persons)</h2>
+<h2>1 Bedroom suite (2-3 persons)</h2>
 
-<table class="simple-little-table" align="center" cellspacing='0'		
+<table class="simple-little-table" cellspacing='0'>
 	<tr>
-		<td colspan="6" 
-		style="text-align: center;">
-		<b>All prices are given in Euro per apartment per night</b></td>
+		<td colspan="6" class="caption">
+			<b>All prices are given in Euro per apartment per night</b>
+		</td>
 	</tr>
 	<tr>
 		<th><b>Suite type/Date</b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
 	</tr>
 	<tr>
-		<th><b style="margin:-10px;">1 Bedroom suite (2 persons)</b></th><td>15</td><td>18</td><td>24</td><td>18</td><td>16</td>
-	</tr>		
+		<th><b>1 Bedroom suite (2 persons)</b></th><td>15</td><td>18</td><td>24</td><td>18</td><td>16</td>
+	</tr>
 	<tr>
-		<th><b style="margin:-10px;">1 Bedroom suite (3 persons)</b></th><td>18</td><td>22</td><td>28</td><td>22</td><td>20</td>
-	</tr>	
-</table>	
-	
-			<h3>Suite №1</h3>
+		<th><b>1 Bedroom suite (3 persons)</b></th><td>18</td><td>22</td><td>28</td><td>22</td><td>20</td>
+	</tr>
+</table>
 
-<div style="align:center; text-align:center; margin-top:20px; clear:both">
+<h3>Suite №1</h3>
 
- <ul id="grid" class="group">
- <li>
-  <div class="details" class="more" ><h3>2 single beds</h3></div> 
-	<a href="photo/oneroom/1.jpg" 
-	rel="lightbox-set" 
-	title="One Bedroom suite (2-3 persons)"
-	alt="One Bedroom suite (2-3 persons)">
- 
- 
-<img src="photo/oneroom/1.jpg" 
-width="250"
-height="160"
-alt="One Bedroom suite (2-3 persons)"></a> 
-</li>
-
-
-
-<li>
-<div class="details"><h3>Balcony</h3></div>
-	<a href="photo/oneroom/2.jpg" 
-	rel="lightbox-set" 
-	title="One Bedroom suite (2-3 persons)"
-	alt="One Bedroom suite (2-3 persons)">
-
-<img src="photo/oneroom/2.jpg" 
-width="250"
-height="160"
-alt="One Bedroom suite (2-3 persons)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>King bed</h3></div> 
-	<a href="photo/oneroom/3.jpg" 
-	rel="lightbox-set" 
-	title="One Bedroom suite (2-3 persons)"
-	alt="One Bedroom suite (2-3 persons)">
-
-<img src="photo/oneroom/3.jpg" 
-width="250"
-height="160"
-alt="One Bedroom suite (2-3 persons)"></a> 
-</li>
-</ul>
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>2 single beds</h3>
+			</div> 
+			<a href="photo/oneroom/1.jpg" rel="lightbox-set" title="One Bedroom suite (2-3 persons)">
+				<img src="photo/oneroom/1.jpg" alt="One Bedroom suite (2-3 persons)">
+			</a> 
+		</li>
+		<li>
+			<div class="details">
+				<h3>Balcony</h3>
+			</div>
+			<a href="photo/oneroom/2.jpg" rel="lightbox-set" title="One Bedroom suite (2-3 persons)">
+				<img src="photo/oneroom/2.jpg" alt="One Bedroom suite (2-3 persons)">
+			</a> 
+		</li>
+		<li>
+			<div class="details" class="more">
+				<h3>King bed</h3>
+			</div> 
+			<a href="photo/oneroom/3.jpg" rel="lightbox-set" title="One Bedroom suite (2-3 persons)">
+				<img src="photo/oneroom/3.jpg" alt="One Bedroom suite (2-3 persons)">
+			</a>
+		</li>
+	</ul>
 </div>
 
-<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Bathroom</h3></div> 
-	<a href="photo/oneroom/4.jpg" 
-	rel="lightbox-set" 
-	title="One Bedroom suite (2-3 persons)"
-	alt="One Bedroom suite (2-3 persons)">
-
-<img src="photo/oneroom/4.jpg" 
-width="250"
-height="160"
-alt="One Bedroom suite (2-3 persons)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Bathroom</h3></div> 
-	<a href="photo/oneroom/5.jpg" 
-	rel="lightbox-set" 
-	title="One Bedroom suite (2-3 persons)"
-	alt="One Bedroom suite (2-3 persons)">
-
-<img src="photo/oneroom/5.jpg" 
-width="250"
-height="160"
-alt="One Bedroom suite (2-3 persons)"></a> 
-</li>
-</ul>
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Bathroom</h3>
+			</div> 
+			<a href="photo/oneroom/4.jpg" rel="lightbox-set" title="One Bedroom suite (2-3 persons) - Bathroom">
+				<img src="photo/oneroom/4.jpg" alt="One Bedroom suite (2-3 persons)">
+			</a> 
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Bathroom</h3>
+			</div>
+			<a href="photo/oneroom/5.jpg" rel="lightbox-set" title="One Bedroom suite (2-3 persons) - Bathroom">
+				<img src="photo/oneroom/5.jpg" alt="One Bedroom suite (2-3 persons)">
+			</a> 
+		</li>
+	</ul>
 </div>
 
 
+<h3>Suite №2</h3>
 
 
-
-<h3 style="clear:left;">Suite №2</h3>
-
-
-<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Balcony</h3></div> 
-	<a href="photo/oneroom/6.jpg" 
-	rel="lightbox-set" 
-	title="One Bedroom suite (2-3 persons)"
-	alt="One Bedroom suite (2-3 persons)">
-
-<img src="photo/oneroom/6.jpg" 
-width="250"
-height="160"
-alt="One Bedroom suite (2-3 persons)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>King bed</h3></div> 
-	<a href="photo/oneroom/7.jpg" 
-	rel="lightbox-set" 
-	title="One Bedroom suite (2-3 persons)"
-	alt="One Bedroom suite (2-3 persons)">
-
-<img src="photo/oneroom/7.jpg" 
-width="250"
-height="160"
-alt="One Bedroom suite (2-3 persons)"></a> 
-</li>
-</ul>
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Balcony</h3>
+			</div> 
+			<a href="photo/oneroom/6.jpg" rel="lightbox-set" title="One Bedroom suite (2-3 persons)">
+				<img src="photo/oneroom/6.jpg" alt="One Bedroom suite (2-3 persons)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>King bed</h3>
+			</div> 
+			<a href="photo/oneroom/7.jpg" rel="lightbox-set" title="One Bedroom suite (2-3 persons)">
+				<img src="photo/oneroom/7.jpg" alt="One Bedroom suite (2-3 persons)">
+			</a>
+		</li>
+	</ul>
 </div>
-	
-	
-	
 
-			<p><a name="tworoom"></a></p>
-						<h2 style="clear:left; margin-top:300px;">2 Bedroom suite (3-4 persons)</h2>
+<p>
+	<a name="tworoom"></a>
+</p>
+<h2>2 Bedroom suite (3-4 persons)</h2>
 
-
-
-<table class="simple-little-table" align="center" cellspacing='0'>		
+<table class="simple-little-table" cellspacing='0'>
 	<tr>
-		<td colspan="6" 
-		style="text-align: center;">
-		<b>All prices are given in Euro per apartment per night</b></td>
+		<td colspan="6" class="caption">
+			<b>All prices are given in Euro per apartment per night</b>
+		</td>
 	</tr>
 	<tr>
 		<th><b>Apartment type/Date</b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
-	</tr>	
+	</tr>
 	<tr>
 		<tr>
-	<tb>		</tb> </tr>
-<th><b style="margin:-20px;">2 Bedroom suite</b></th><td>21</td><td>28</td><td>38</td><td>32</td><td>24</td>
-	</tr>
-	
-</table>
-
-
-
-			<h3>Suite №1</h3>
-
-
-<div style="margin:auto;text-align:left; clear:both;">
-<ul id="grid" class="group">
- <li>
- <div class="details" class="more" ><h3>Work space</h3></div> 
-	<a href="photo/tworoom/1/11.jpg" 
-	rel="lightbox-set" 
-	title="№1 - Two Bedroom suite (3-4 persons)"
-	alt="№1 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/1/11.jpg" 
-width="250"
-height="160"
-alt="№1 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>First bedroom (with balcony)</h3></div> 
-	<a href="photo/tworoom/1/12.jpg" 
-	rel="lightbox-set" 
-	title="№1 - Two Bedroom suite (3-4 persons)"
-	alt="№1 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/1/12.jpg" 
-width="250"
-height="160"
-alt="№1 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>First bedroom (with balcony)</h3></div> 
-	<a href="photo/tworoom/1/13.jpg" 
-	rel="lightbox-set" 
-	title="№1 - Two Bedroom suite (3-4 persons)"
-	alt="№1 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/1/13.jpg" 
-width="250"
-height="160"
-alt="№1 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-</ul>
-</div>
-
-<div style="margin: auto auto auto 130px; text-align:left; clear:both;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Second bedroom</h3></div> 
-	<a href="photo/tworoom/1/14.jpg" 
-	rel="lightbox-set" 
-	title="№1 - Two Bedroom suite (3-4 persons)"
-	alt="№1 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/1/14.jpg" 
-width="250"
-height="160"
-alt="№1 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Bathroom</h3></div> 
-	<a href="photo/tworoom/1/15.jpg" 
-	rel="lightbox-set" 
-	title="№1 - Two Bedroom suite (3-4 persons)"
-	alt="№1 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/1/15.jpg" 
-width="250"
-height="160"
-alt="№1 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-</ul>
-</div>
-	
-	         	<h3 style="clear:left;">Suite №2</h3>
-<div style="align:center; margin: auto auto auto 50px;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>First bedroom (with balcony)</h3></div> 
-	<a href="photo/tworoom/2/21.jpg" 
-	rel="lightbox-set" 
-	title="№2 - Two Bedroom suite (3-4 persons)"
-	alt="№2 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/2/21.jpg" 
-width="250"
-height="160"
-alt="№2 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-
-<!--
-<li>
-	<a href="photo/tworoom/2/22.jpg" 
-	rel="lightbox-set" 
-	title="№2 - Two Bedroom suite (3-4 persons)"
-	alt="№2 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/2/22.jpg" 
-width="250"
-height="160"
-alt="№2 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
--->
-
-<li>
-<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Dinning table</h3></div> 
-	<a href="photo/tworoom/2/23.jpg" 
-	rel="lightbox-set" 
-	title="№2 - Two Bedroom suite (3-4 persons)"
-	alt="№2 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/2/23.jpg" 
-width="125"
-height="160"
-alt="№2 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Second bedroom</h3></div> 
-	<a href="photo/tworoom/2/24.JPG" 
-	rel="lightbox-set" 
-	title="№2 - Two Bedroom suite (3-4 persons)"
-	alt="№2 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/2/24.JPG" 
-width="250"
-height="160"
-alt="№2 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-
-</ul>
-</div>
-
-<div style="margin: auto auto auto 130px; text-align:center; clear:both">
-<ul id="grid" class="group">
-
-
-<li>
-<div class="details" class="more" ><h3>Work space</h3></div> 
-	<a href="photo/tworoom/2/25.jpg" 
-	rel="lightbox-set" 
-	title="№2 - Two Bedroom suite (3-4 persons)"
-	alt="№2 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/2/25.jpg" 
-width="250"
-height="160"
-alt="№2 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Bathroom</h3></div> 
-	<a href="photo/tworoom/2/26.jpg" 
-	rel="lightbox-set" 
-	title="№2 - Two Bedroom suite (3-4 persons)"
-	alt="№2 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/2/26.jpg" 
-width="250"
-height="160"
-alt="№2 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-</ul>
-</div>
-
-
-				<h3 style="clear:left;">Suite №3</h3>
-
-<div style="margin:auto;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>First bedroom (with balcony)</h3></div> 
-	<a href="photo/tworoom/3/31.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Two Bedroom suite (3-4 persons)"
-	alt="№3 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/3/31.jpg" 
-width="250"
-height="160"
-alt="№3 - Two Bedroom suite (3-4 persons)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>First bedroom (with balcony)</h3></div> 
-	<a href="photo/tworoom/3/32.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Two Bedroom suite (3-4 persons)"
-	alt="№3 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/3/32.jpg" 
-width="250"
-height="160"
-alt="№3 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Second bedroom (table)</h3></div> 
-	<a href="photo/tworoom/3/33.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Two Bedroom suite (3-4 persons)"
-	alt="№3 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/3/33.jpg" 
-width="250"
-height="160"
-alt="№3 - Two Bedroom suite (3-4 persons)"></a> 
-</li>
-</ul>
-</div>
-
-<div style="margin: auto auto auto 130px; text-align:center; clear:both;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Second bedroom</h3></div> 
-	<a href="photo/tworoom/3/34.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Two Bedroom suite (3-4 persons)"
-	alt="№3 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/3/34.jpg" 
-width="250"
-height="160"
-
-alt="№3 - Two Bedroom suite (3-4 persons)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Second bedroom</h3></div> 
-	<a href="photo/tworoom/3/34a.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Two Bedroom suite (3-4 persons)"
-	alt="№3 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/3/34a.jpg" 
-width="250"
-height="160"
-
-alt="№3 - Two Bedroom suite (3-4 persons)"></a>
-</li>
-</ul>
-</div>
-
-<div style="margin: auto auto auto 180px; text-align:center; clear:both;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Bathroom</h3></div> 
-	<a href="photo/tworoom/3/35.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Two Bedroom suite (3-4 persons)"
-	alt="№3 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/3/35.jpg" 
-width="125"
-height="160"
-alt="№3 - Two Bedroom suite (3-4 persons)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Bathroom</h3></div> 
-	<a href="photo/tworoom/3/36.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Two Bedroom suite (3-4 persons)"
-	alt="№3 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/3/36.jpg" 
-width="125"
-height="160"
-alt="№3 - Two Bedroom suite (3-4 persons)"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3 style="text-align:left; margin-left:5px; font-size: 18px;">Shower cabin</h3></div> 
-	<a href="photo/tworoom/3/37.jpg" 
-	rel="lightbox-set" 
-	title="№3 - Two Bedroom suite (3-4 persons)"
-	alt="№3 - Two Bedroom suite (3-4 persons)">
-
-<img src="photo/tworoom/3/37.jpg" 
-width="125"
-height="160"
-alt="№3 - Two Bedroom suite (3-4 persons)"></a>
-</li>
-</ul>
-</div>
-
-
-
-<div><br></br><br></br><br></br><br></br>
-			<p><a name="apartments"></a></p>
-						<h2  style="clear:left;">2 Bedroom apartments (with kitchen) for 3-4 persons</h2>
-						
-<table class="simple-little-table" align="center" cellspacing='0'>		
-
-<tr>
-		<td colspan="6" style="text-align: center;">Accommodation cost per night for the apartment:(in Euro) </td>
-</tr>
-
-<tr>
-		<th style="text-align: center;"><b>Date</b></th> <th colspan="2" style="text-align: center;"><b>Price</b></th> </tr>
-<tr>
- <td></td>
-<td>3-7 days </td><td>8-15 days </td></tr>
-<tr class='even'><th>01 may- 31 may</th><td>25</td><td>22</td>	</tr>
-<tr><th>01 june - 30 june</th><td>38</td><td>35</td>	</tr>	
-<tr class='even'><th>01 july - 14 july</th><td>45</td><td>40</td>	</tr>	
-<tr><th>15 july - 14 august</th><td>50</td><td>46</td>	</tr>	
-<tr class='even'><th>15 august - 31 august</th><td>45</td><td>40</td>	</tr>	
-<tr><th>1 september - 14 october</th><td>35</td><td>32</td>	</tr>	
-<tr class='even'><th>15 october – 31 december</th><td>25</td><td>20</td>	</tr>	
-
-</table>
-
-<h3 style="clear:left;">Apartment №1</h3>
-<div style="margin-left:-15px; margin-right:auto; padding-right:12px; text-align:center; margin-top:20px; clear:both">
-<ul id="grid" class="group">
-<li>	
-<div class="details" class="more" ><h3>Room with kitchen and balcony</h3></div> 
-	<a href="photo/apartment/1-41.jpg" 
-	rel="lightbox-set" 
-	title="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"
-	alt="1 номер -Two Bedroom apartments (with kitchen) for 3-4 persons :">
-
-<img src="photo/apartment/1-41.jpg" 
-width="250"
-height="160"
-alt="1 номер -Two Bedroom apartments (with kitchen) for 3-4 persons :"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Room with kitchen and balcony</h3></div> 
-	<a href="photo/apartment/1-42.jpg" 
-	rel="lightbox-set" 
-	title="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"
-	alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :">
-
-<img src="photo/apartment/1-42.jpg" 
-width="250"
-height="160"
-alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Room with kitchen and balcony</h3></div> 
-	<a href="photo/apartment/1-43.jpg" 
-	rel="lightbox-set" 
-	title="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"
-	alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :">
-
-<img src="photo/apartment/1-43.jpg" 
-width="250"
-height="160"
-alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"></a>
-</li>
-</ul>
-</div>
-
-<div style="margin: auto auto auto 130px; text-align:center; clear:both">
-<ul id="grid" class="group">	
-<li>
-<div class="details" class="more" ><h3>Bathroom</h3></div> 
-	<a href="photo/apartment/1-44.jpg" 
-	rel="lightbox-set" 
-	title="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"
-	alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :">
-
-<img src="photo/apartment/1-44.jpg" 
-width="250"
-height="160"
-alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Balcony</h3></div> 
-	<a href="photo/apartment/1-45.jpg" 
-	rel="lightbox-set" 
-	title="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"
-	alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :">
-
-<img src="photo/apartment/1-45.jpg" 
-width="250"
-height="160"
-alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"></a>
-</li>
-
-</ul>
-</div>
-
-<h3 style="clear:left;">Apartment №2</h3>
-
-<div style="margin-left:-15px; text-align:center;  clear:both">
-<ul id="grid" class="group">	
-<li>
-<div class="details" class="more" ><h3>First room (table)</h3></div> 
-	<a href="photo/apartment/2-46.jpg" 
-	rel="lightbox-set" 
-	title="Rest in Montenegro"
-	alt="2 номер -  Two Bedroom apartments (with kitchen) for 3-4 persons :">
-
-<img src="photo/apartment/2-46.jpg" 
-width="250"
-height="160"
-alt="Rest in Montenegro"></a>
-</li>
-<li>
-<div class="details" class="more" ><h3>First room (kitchen)</h3></div> 
-	<a href="photo/apartment/2-47.jpg" 
-	rel="lightbox-set" 
-	title="Rest in Montenegro"
-	alt="Rest in Montenegro">
-
-<img src="photo/apartment/2-47.jpg" 
-width="250"
-height="160"
-alt="Rest in Montenegro"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>First room (sofa)</h3></div> 
-	<a href="photo/apartment/2-48.jpg" 
-	rel="lightbox-set" 
-	title="Rest in Montenegro"
-	alt="Rest in Montenegro">
-
-<img src="photo/apartment/2-48.jpg" 
-width="250"
-height="160"
-alt="Rest in Montenegro"></a>
-</li>
-</ul>
-</div>
-
-<div style="margin-left:-15px; text-align:center;  clear:both">
-<ul id="grid" class="group">	
-<li>
-<div class="details" class="more" ><h3>Crossing into second bedroom</h3></div> 
-	<a href="photo/apartment/2-49.jpg" 
-	rel="lightbox-set" 
-	title="Rest in Montenegro"
-	alt="2 номер -  Two Bedroom apartments (with kitchen) for 3-4 persons :">
-
-<img src="photo/apartment/2-49.jpg" 
-width="250"
-height="160"
-alt="Rest in Montenegro"></a>
-</li>
-<li>
-<div class="details" class="more" ><h3>Second bedroom</h3></div> 
-	<a href="photo/apartment/2-50.jpg" 
-	rel="lightbox-set" 
-	title="Rest in Montenegro"
-	alt="Rest in Montenegro">
-
-<img src="photo/apartment/2-50.jpg" 
-width="250"
-height="160"
-alt="Rest in Montenegro"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Crossing into second bedroom</h3></div> 
-	<a href="photo/apartment/2-51.jpg" 
-	rel="lightbox-set" 
-	title="Rest in Montenegro"
-	alt="Rest in Montenegro">
-
-<img src="photo/apartment/2-51.jpg" 
-width="250"
-height="160"
-alt="Rest in Montenegro"></a>
-</li>
-</ul>
-</div>
-
-
-<div style="margin: auto auto auto 130px; text-align:center; clear:both">
-<ul id="grid" class="group">	
-<li>
-<div class="details" class="more" ><h3>First room (balcony)</h3></div> 
-	<a href="photo/apartment/2-52.jpg" 
-	rel="lightbox-set" 
-	title="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"
-	alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :">
-
-<img src="photo/apartment/2-52.jpg" 
-width="250"
-height="160"
-alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"></a>
-</li>
-
-<li>
-<div class="details" class="more" ><h3>Bathroom</h3></div> 
-	<a href="photo/apartment/2-53.jpg" 
-	rel="lightbox-set" 
-	title="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"
-	alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :">
-
-<img src="photo/apartment/2-53.jpg" 
-width="250"
-height="160"
-alt="1 номер - Two Bedroom apartments (with kitchen) for 3-4 persons :"></a>
-</li>
-</ul>
-</div>
-</div>
-
-<!--------------------------------------------------->			 
-
-	<br></br><br></br><br></br><br></br>
-			<p><a name="adds"></a></p>
-			<div class="topbar orange" 
-			style="width:815px; margin:80px auto -30px auto; background: #D2E9AE;
-    background: -webkit-gradient(linear, left top, left bottom, from(#D2E9AE), to(#E7F3D4));
-    background: -moz-linear-gradient(top,  #D2E9AE,  #D2E9AE);">
-		<h1 style="color:grey;">Additional information</h1>
-	</div>
-	<br></br>
-						
-
-<div style="float: right; margin-left: 10px; margin-top:0px; margin-right:-10px; clear: right;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Villa</h3></div> 
-	<a href="photo/rotator/outside_b.jpg" 
-	rel="lightbox-set" 
-	title="Rest in Montenegro - Villa"
-	alt="Rest in Montenegro - Villa">
-
-<img src="photo/rotator/outside_b.jpg" 
-width="250"
-height="160"
-alt="Rest in Montenegro - Villa"></a>
-</li>
-</ul>
-</div>
-
-<div style="float: right;margin-left: 10px; margin-top:-50px; margin-right:-10px; clear: right;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>General kitchen</h3></div> 
-	<a href="photo/rotator/kitchen.jpg" 
-	rel="lightbox-set" 
-	title="Rest in Montenegro - General kitchen"
-	alt="Rest in Montenegro - General kitchen">
-
-<img src="photo/rotator/kitchen.jpg" 
-width="250"
-height="160"
-alt="Rest in Montenegro - General kitchen"></a>
-</li>
-</ul>
-</div>
-
-<div style="float: right;margin-left: 10px; margin-top:-50px; margin-right:-10px;clear: right;">
-<ul id="grid" class="group">
-<li>
-<div class="details" class="more" ><h3>Hall</h3></div> 
-	<a href="photo/rotator/interirer_b.jpg" 
-	rel="lightbox-set" 
-	title="Rest in Montenegro - Hall"
-	alt="Rest in Montenegro - Hall">
-
-<img src="photo/rotator/interirer_b.jpg" 
-width="250"
-height="160"
-alt="Rest in Montenegro - Holl"></a>
-</li>
-</ul>
-</div>
-
-
-
-<table class="simple-little-table" align="center" cellspacing='0' style="font-size:16px;  margin-left: 15px; ">		
-	<tr>
-		<th style="text-align: center; margin:0px auto;">
-		<b>Additional information</b></th>
-	</tr>
-<tr class='even'>
-<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-General kitchen is situated on the first floor.</td>
-</tr>
-	<tr class='even'>
-    <td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-	Extra bed is available for extra payment.</td>
-	</tr>
-		<tr class='even' style=>
-		<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-		The pricelist does not include tourist tax.</td> 
+			<tb></tb>
 		</tr>
-			<tr class='even'>
-			<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-			In case of reservation cancellation the 30% deposit is <b><i>NON-</i></b> refundable. </td>.</td> 
-			</tr>
-				<tr class='even'>
-				<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-				Up to 1-3 days price increases by 20% </td> 
-				</tr>
-					<tr class='even'>
-					<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-					For stays longer than 14 days, and collective orders - discounts</td> 
-					</tr>
+		<th><b>2 Bedroom suite</b></th><td>21</td><td>28</td><td>38</td><td>32</td><td>24</td>
+	</tr>
+</table>
 
-<!--
-<p><b>Додатково:</b> 2-разове харчування(сніданок+обід) – 10 євро з особи</p>
-В чотирьохмісних номерах можливе разміщення  п`ятої людини за додаткову плату. <br/>
-* Ціни  на проживання  вказані без врахування  туристичного  збору.<br/> 
-* При резервуванні необхідна 30% передоплата. <br/> 
-* У разі відмови від резервування 30% передоплата НЕ повертається.<br/> 
-* При розміщенні  на 1-3 дня вартість  проживания збільшується на 20%.<br/> 
-* При проживанні більше 14 діб ,а також колективних замовленнях – можлива знижка.</p>
-<br/>
--->
-<table class="simple-little-table" align="center" cellspacing='0' style="font-size:16px;  margin-left: 15px; ">		
+<h3>Suite №1</h3>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Work space</h3>
+			</div>
+			<a href="photo/tworoom/1/11.jpg" rel="lightbox-set" title="№1 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/1/11.jpg"  alt="№1 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>First bedroom (with balcony)</h3>
+			</div>
+			<a href="photo/tworoom/1/12.jpg" rel="lightbox-set" title="№1 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/1/12.jpg"  alt="№1 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>First bedroom (with balcony)</h3>
+			</div>
+			<a href="photo/tworoom/1/13.jpg" rel="lightbox-set" title="№1 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/1/13.jpg"  alt="№1 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" ><h3>Second bedroom</h3></div> 
+			<a href="photo/tworoom/1/14.jpg" rel="lightbox-set" title="№1 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/1/14.jpg"  alt="№1 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+
+		<li>
+			<div class="details" class="more" ><h3>Bathroom</h3></div> 
+			<a href="photo/tworoom/1/15.jpg" rel="lightbox-set" title="№1 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/1/15.jpg"  alt="№1 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<h3>Suite №2</h3>
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>First bedroom (with balcony)</h3>
+			</div>
+			<a href="photo/tworoom/2/21.jpg" rel="lightbox-set" title="№2 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/2/21.jpg" alt="№2 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more">
+				<h3 class="vertical-caption">Dinning table</h3>
+			</div> 
+			<a href="photo/tworoom/2/23.jpg" rel="lightbox-set" title="№2 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/2/23.jpg" class="vertical" alt="№2 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Second bedroom</h3>
+			</div>
+			<a href="photo/tworoom/2/24.JPG" rel="lightbox-set" title="№2 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/2/24.JPG" alt="№2 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Work space</h3>
+			</div> 
+			<a href="photo/tworoom/2/25.jpg" rel="lightbox-set" title="№2 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/2/25.jpg"  alt="№2 - Two Bedroom suite (3-4 persons)"></a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Bathroom</h3>
+			</div> 
+			<a href="photo/tworoom/2/26.jpg" rel="lightbox-set" title="№2 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/2/26.jpg"  alt="№2 - Two Bedroom suite (3-4 persons)"></a>
+		</li>
+	</ul>
+</div>
+
+
+<h3>Suite №3</h3>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>First bedroom (with balcony)</h3>
+			</div> 
+			<a href="photo/tworoom/3/31.jpg" rel="lightbox-set" title="№3 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/3/31.jpg"  alt="№3 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>First bedroom (with balcony)</h3>
+			</div> 
+			<a href="photo/tworoom/3/32.jpg" rel="lightbox-set" title="№3 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/3/32.jpg"  alt="№3 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Second bedroom (table)</h3>
+			</div> 
+			<a href="photo/tworoom/3/33.jpg" rel="lightbox-set" title="№3 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/3/33.jpg"  alt="№3 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Second bedroom</h3>
+			</div> 
+			<a href="photo/tworoom/3/34.jpg" rel="lightbox-set" title="№3 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/3/34.jpg"  alt="№3 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Second bedroom</h3>
+			</div> 
+			<a href="photo/tworoom/3/34a.jpg" rel="lightbox-set" title="№3 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/3/34a.jpg"  alt="№3 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3 class="vertical-caption">Bathroom</h3>
+			</div> 
+			<a href="photo/tworoom/3/35.jpg" rel="lightbox-set" title="№3 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/3/35.jpg" class="vertical" alt="№3 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3 class="vertical-caption">Bathroom</h3>
+			</div> 
+			<a href="photo/tworoom/3/36.jpg" rel="lightbox-set" title="№3 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/3/36.jpg" class="vertical" alt="№3 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3 class="vertical-caption">Shower cabin</h3>
+			</div> 
+			<a href="photo/tworoom/3/37.jpg" rel="lightbox-set" title="№3 - Two Bedroom suite (3-4 persons)">
+				<img src="photo/tworoom/3/37.jpg" class="vertical" alt="№3 - Two Bedroom suite (3-4 persons)">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<p>
+	<a name="apartments"></a>
+</p>
+<h2>2 Bedroom apartments (with kitchen) for 3-4 persons</h2>
+
+<table class="simple-little-table" cellspacing='0'>
 	<tr>
-		<th style="text-align: center; margin:0px auto;">
-		<b>Additional services:</b></th>
+		<td colspan="6" class="caption">Accommodation cost per night for the apartment:(in Euro) </td>
 	</tr>
-	
+	<tr>
+		<th><b>Date</b></th><th colspan="3"><b>Price</b></th>
+	</tr>
+	<tr>
+		<td></td>
+		<td>3-7 days </td><td>8-15 days </td>
+	</tr>
 	<tr class='even'>
-    <td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-	Transfer from airport Tivat to residence - 30 euro;</td>
+		<th>01 may- 31 may</th><td>25</td><td>22</td>
 	</tr>
-		<tr class='even' style=>
-		<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-		Transfer from Budva – residence - 35 euro;</td> 
-		</tr>
-			<tr class='even'>
-			<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-			Rent a mountain bike - 5 euro/day</td> 
-			</tr>
-				<tr class='even'>
-				<td style="padding:3px 3px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-				We offer tours through Montenegro on our own car</td> 
-				</tr>
-					<tr class='even'>
-					<td style="padding:3px 15px 3px 10px;"><img src="img/list2.png" width="20" height="20">
-					The ability of using a washing machine is available for additional cost</td> 
-					</tr>
+	<tr>
+		<th>01 june - 30 june</th><td>38</td><td>35</td>
+	</tr>
+	<tr class='even'>
+		<th>01 july - 14 july</th><td>45</td><td>40</td>
+	</tr>
+	<tr
+		><th>15 july - 14 august</th><td>50</td><td>46</td>
+	</tr>
+	<tr class='even'>
+		<th>15 august - 31 august</th><td>45</td><td>40</td>
+	</tr>
+	<tr>
+		<th>1 september - 14 october</th><td>35</td><td>32</td>
+	</tr>
+	<tr class='even'>
+		<th>15 october – 31 december</th><td>25</td><td>20</td>
+	</tr>
+</table>
+
+<h3>Apartment №1</h3>
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Room with kitchen and balcony</h3>
+			</div> 
+			<a href="photo/apartment/1-41.jpg" rel="lightbox-set" title="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+				<img src="photo/apartment/1-41.jpg"  alt="1 Suite -Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Room with kitchen and balcony</h3>
+			</div> 
+			<a href="photo/apartment/1-42.jpg" rel="lightbox-set" title="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+				<img src="photo/apartment/1-42.jpg"  alt="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Room with kitchen and balcony</h3>
+			</div> 
+			<a href="photo/apartment/1-43.jpg" rel="lightbox-set" title="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+				<img src="photo/apartment/1-43.jpg"  alt="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Bathroom</h3>
+			</div> 
+			<a href="photo/apartment/1-44.jpg" rel="lightbox-set" title="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+				<img src="photo/apartment/1-44.jpg"  alt="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Balcony</h3>
+			</div> 
+			<a href="photo/apartment/1-45.jpg" rel="lightbox-set" title="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+				<img src="photo/apartment/1-45.jpg"  alt="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<h3>Apartment №2</h3>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>First room (table)</h3>
+			</div> 
+			<a href="photo/apartment/2-46.jpg" rel="lightbox-set" title="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+				<img src="photo/apartment/2-46.jpg"  alt="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>First room (kitchen)</h3>
+			</div> 
+			<a href="photo/apartment/2-47.jpg" rel="lightbox-set" title="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+				<img src="photo/apartment/2-47.jpg"  alt="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>First room (sofa)</h3>
+			</div> 
+			<a href="photo/apartment/2-48.jpg" rel="lightbox-set" title="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+				<img src="photo/apartment/2-48.jpg"  alt="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>First room (sofa)</h3>
+			</div> 
+			<a href="photo/apartment/2-49.jpg" rel="lightbox-set" title="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			<img src="photo/apartment/2-49.jpg" alt="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Second bedroom</h3>
+			</div> 
+			<a href="photo/apartment/2-50.jpg" rel="lightbox-set" title="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			<img src="photo/apartment/2-50.jpg"  alt="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+	<li>
+			<div class="details" class="more" >
+				<h3>Crossing into second bedroom</h3>
+			</div> 
+			<a href="photo/apartment/2-51.jpg" rel="lightbox-set" title="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			<img src="photo/apartment/2-51.jpg"  alt="2 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+	</ul>
+</div>
+
+
+<div class="centred-img">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>First room (balcony)</h3>
+			</div> 
+			<a href="photo/apartment/2-52.jpg" rel="lightbox-set" title="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+				<img src="photo/apartment/2-52.jpg"  alt="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+		<li>
+			<div class="details" class="more" >
+				<h3>Bathroom</h3>
+			</div> 
+			<a href="photo/apartment/2-53.jpg" rel="lightbox-set" title="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+				<img src="photo/apartment/2-53.jpg"  alt="1 Suite - Two Bedroom apartments (with kitchen) for 3-4 persons">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<p>
+	<a name="adds"></a>
+</p>
+<div class="topbar topbar-table">
+	<h4>Additional information</h4>
+</div>
+
+<div class="img-right">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more">
+				<h3>Villa</h3>
+			</div> 
+			<a href="photo/rotator/outside_b.jpg" rel="lightbox-set" title="Villa">
+				<img src="photo/rotator/outside_b.jpg" alt="Villa">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="img-right">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Загальна кухня</h3>
+			</div> 
+			<a href="photo/rotator/kitchen_new.jpg" rel="lightbox-set" title="General kitchen">
+				<img src="photo/rotator/kitchen_new.jpg" alt="General kitchen">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<div class="img-right">
+	<ul class="grid" class="group">
+		<li>
+			<div class="details" class="more" >
+				<h3>Hall</h3>
+			</div> 
+			<a href="photo/rotator/interirer_b.jpg" rel="lightbox-set" title="Hall">
+				<img src="photo/rotator/interirer_b.jpg" alt="Hall">
+			</a>
+		</li>
+	</ul>
+</div>
+
+<table class="simple-little-table text-left" cellspacing='0'>
+	<tr>
+		<th><b>Additional information</b></th>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Extra bed is available for extra payment</span>
+		</td>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>The pricelist does not include tourist tax.</span>
+		</td>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>In case of reservation cancellation the 30% deposit is <b><i>NON-</i></b> refundable.</span>
+		</td> 
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Up to 1-3 days price increases by 20% </span>
+		</td> 
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>For stays longer than 14 days, and collective orders - discounts</span>
+		</td>
+	</tr>
+</table>
+
+<table class="simple-little-table text-left" cellspacing='0'>
+	<tr>
+		<th><b>Additional services:</b></th>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Transfer from airport Tivat to residence - 30 euro;</span>
+		</td>
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Transfer from Budva – residence - 35 euro;</span>
+		</td> 
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>Rent a mountain bike - 5 euro/day</span>
+		</td> 
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>We offer tours through Montenegro on our own car</span>
+		</td> 
+	</tr>
+	<tr class='even'>
+		<td>
+			<span>The ability of using a washing machine is available for additional cost</span>
+		</td> 
+	</tr>
 	
 </table>
 
-<!-- Put this script tag to the <head> of your page 
-<script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+	
+<!--  Put this script tag to the <head> of your page  -->
+<!-- <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
 
 <script type="text/javascript">
   VK.init({apiId: 4160494, onlyWidgets: true});
 </script>
--->
-<!-- Put this div tag to the place, where the Comments block will be 
+
+ Put this div tag to the place, where the Comments block will be 
 <div id="vk_comments"></div>
 <script type="text/javascript">
 VK.Widgets.Comments("vk_comments", {limit: 10, width: "496", attach: "*"});
 </script>
--->
+ -->
 
-
-<!--
-<div style="margin-left:auto; margin-right:auto; padding-right:12px; text-align:center; margin-top:20px; clear:both">
-<a href="photo/karfagen1p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen1s.jpg" /></a>
-<a href="photo/karfagen3p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen3s.jpg" /></a>
-<a href="photo/DSCN0428_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0428_s.jpg" /></a>
-<a href="photo/karfagen5p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen5s.jpg" /></a>
-<a href="photo/DSCN0633_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0633_s.jpg" /></a>
-<a href="photo/DSCN0717_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0717_s.jpg" /></a>
-<a href="photo/DSCN0719_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0719_s.jpg" /></a>
-<a href="photo/DSCN0699_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0699_s.jpg" /></a>
-<a href="photo/karfagen6p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen6s.jpg" /></a>
-<a href="photo/karfagen2p.jpg" rel="lightbox-set" title=""><img alt="" src="photo/karfagen2s.jpg" /></a>
-<a href="photo/DSCN0637_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0637_s.jpg" /></a>
-<a href="photo/IMG332_B.jpg" rel="lightbox-set" title=""><img alt="" src="photo/IMG332_s.jpg" /></a>
-<a href="photo/IMG337_B.jpg" rel="lightbox-set" title=""><img alt="" src="photo/IMG337_s.jpg" /></a>
-<a href="photo/88.jpg" rel="lightbox-set" title=""><img alt="" src="photo/88s.jpg" /></a>
-<a href="photo/33.jpg" rel="lightbox-set" title=""><img alt="" src="photo/33s.jpg" /></a>
-<a href="photo/stairs_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/stairs_s.jpg" /></a>
-<a href="photo/CIMG4628p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG4628s.JPG" /></a>		
-<a href="photo/CIMG3852p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG3852s.JPG" /></a>
-<a href="photo/CIMG3850p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG3850s.JPG" /></a>
-<a href="photo/123.jpg" rel="lightbox-set" title=""><img alt="" src="photo/123s.jpg" /></a>
-<a href="photo/CIMG5566p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5566s.JPG" /></a>	
-<a href="photo/CIMG5343p.JPG" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5343s.JPG" /></a>
-<a href="photo/stb.jpg" rel="lightbox-set" title=""><img alt="" src="photo/sts.jpg" /></a>	
-<a href="photo/11b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/11s.jpg" /></a>	
-<a href="photo/CIMG5709.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5709s.jpg" /></a>
-<a href="photo/CIMG5791.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5791s.jpg" /></a>
-<a href="photo/CIMG5795.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5795s.jpg" /></a>
-<a href="photo/DSCN0431_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0431_s.jpg" /></a>
-<a href="photo/DSCN0448_b.jpg" rel="lightbox-set" title=""><img alt="" src="photo/DSCN0448_s.jpg" /></a>
-<a href="photo/CIMG5712.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5712s.jpg" /></a>
-<a href="photo/CIMG5715.jpg" rel="lightbox-set" title=""><img alt="" src="photo/CIMG5715s.jpg" /></a> 
-</div>
--->
-
-
-<br>
 
 <*/content*>
-<*description*>Jednopokojowe (na 2 osoby) i dwupokojowe (na 4 osoby) numery, numer luksus(lodówka, taras(10m kw), klimatyzator). W numerze: korzyści(WC, natrysk, umywalka), telewizor(SAT-TV), balkon. Nadaje się miejsce dla parkingu.<*/description*>
-<*keywords*>usługi, ceny<*/keywords*>
+<*description*>One-bedroom (2 persons) and doubles (4-persons) rooms, suite (refrigerator, hair dryer, large terrace (10m sq.)), Air Conditioning. The rooms have amenities (TUD), TV (SAT-TV), balcony. There is parking space.<*/description*>
+<*keywords*>services, prices<*/keywords*>
