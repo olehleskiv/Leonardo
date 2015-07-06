@@ -7,10 +7,27 @@
 
             // route for the home page
             .when('/', {
-                templateUrl : 'pages/home.html',
+                templateUrl : 'dashboard.html',
                 controller  : 'mainController'
             })
 
+            .when('/ui', {
+                templateUrl : 'ui.html',
+                controller  : 'contactController'
+            })
+
+            .when('/tab-panel', {
+                templateUrl : 'tab-panel.html',
+                controller  : 'contactController'
+            })
+
+            .when('/chart', {
+                templateUrl : 'chart.html',
+                controller  : 'contactController'
+            })
+
+             
+             
             // route for the about page
             .when('/prices', {
                 templateUrl : 'prices.html',
@@ -27,6 +44,23 @@
                 template : '<iframe src="https://www.holidaylettings.co.uk/content/dashboard" frameborder="0"></iframe>',
                 controller  : 'contactController'
             })
+
+            .when('/visitors', {
+                template : '<iframe src="http://s07.flagcounter.com/more30/tgoy/" frameborder="0"></iframe>',
+                controller  : 'contactController'
+            })
+
+            .when('/club', {
+                template : '<iframe src="http://www.chernogoriya-club.ru/chastniy-sector/4369/" frameborder="0"></iframe>',
+                controller  : 'contactController'
+            })
+
+            .when('/wakacyjnywynajem', {
+                template : '<iframe src="http://www.wakacyjnywynajem.pl/noclegi/9206-apartament-w-willi--leonardo-zelenika/szczegoly" frameborder="0"></iframe>',
+                controller  : 'contactController'
+            })
+
+
             ;
             
     });
