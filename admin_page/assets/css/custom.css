@@ -68,23 +68,26 @@ iframe{
     =============================================*/
 .panel-back {
     background-color:#F8F8F8;
+}
+.panel-back:hover {
+    background-color:#d6d6d6;
 
 }
-   .noti-box {
-min-height: 100px;
-padding: 20px;
-cursor: pointer;
+.noti-box {
+    min-height: 100px;
+    padding: 20px;
+    cursor: pointer;
 }
 
-    .noti-box .icon-box {
-display: block;
-float: left;
-margin: 0 15px 10px 0;
-width: 70px;
-height: 70px;
-line-height: 75px;
-vertical-align: middle;
-text-align: center;
+.noti-box .icon-box {
+    display: block;
+    float: left;
+    margin: 0 15px 10px 0;
+    width: 70px;
+    height: 70px;
+    line-height: 75px;
+    vertical-align: middle;
+    text-align: center;
 font-size: 40px;
 }
 .text-box p{
@@ -136,9 +139,10 @@ color: #FFFFFF;
 font-size: 16px;
 font-weight: 300;
 text-align: center;
+cursor: pointer;
 }
  .main-temp-back .text-temp {
-font-size: 40px;
+font-size: 30px;
 }
 .back-dash {
     padding:20px;
