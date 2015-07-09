@@ -27,12 +27,12 @@
                 <a class="navbar-brand" href="http://www.agencyleonard.com">Villa Leonardo</a> 
             </div>
             <ul class="nav navbar-nav">
-                <li><a href="https://www.facebook.com/agency.leonardo"><img src="images/facebook.png" alt=""> Facebook</a></li>
-                <li><a href="http://www.tripadvisor.com/VacationRentalReview-g304080-d8287023-Villa_Leonardo-Herceg_Novi_Herceg_Novi_Municipality.html"><img src="images/tripadvisor.jpg" alt=""> Tripadvisor</a></li>
-                <li><a href="https://plus.google.com/u/0/101630119550525288050/posts"><img src="images/google.png" alt=""> Plus</a></li>
-                <li><a href="https://twitter.com/AgencyLeonardo"><img src="images/twitter.png" alt=""> Twitter</a></li>
-                <li><a href="https://mail.google.com/mail/#inbox"><img src="images/gmail.png" alt=""> Gmail</a></li>
-                <li><a href="https://www.mail.lviv.ua/"><img src="images/mail.png" alt=""> Mail</a></li>
+                <li><a href="https://www.facebook.com/agency.leonardo" title="Facebook"><img src="images/facebook.png" alt=""></a></li>
+                <li><a href="http://www.tripadvisor.com/VacationRentalReview-g304080-d8287023-Villa_Leonardo-Herceg_Novi_Herceg_Novi_Municipality.html" title="Tripadvisor"><img src="images/tripadvisor.jpg" alt=""></a></li>
+                <li><a href="https://plus.google.com/u/0/101630119550525288050/posts" title="Google+"><img src="images/google.png" alt=""></a></li>
+                <li><a href="https://twitter.com/AgencyLeonardo" title="Twitter"><img src="images/twitter.png" alt=""></a></li>
+                <li><a href="https://mail.google.com/mail/#inbox" title="Gmail"><img src="images/gmail.png" alt=""></a></li>
+                <li><a href="https://www.mail.lviv.ua/" title="Пошта"><img src="images/mail.png" alt=""></a></li>
            </ul>
             <div style="color: white; padding: 15px 15px 5px 5px; float: right; font-size: 16px;"><a href="?logout=true" class="btn btn-danger square-btn-adjust">Logout</a> </div>
         </nav>   

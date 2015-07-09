@@ -14,7 +14,7 @@
     =============================================*/
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #202020;
+    /*background-color: #202020;*/
 }
 
  #wrapper {
@@ -63,6 +63,7 @@ p {
 iframe{
     min-width: 80%;
     min-height: 90vh;
+    max-width: 100%;
 }
 /*==============================================
    DASHBOARD STYLES    
