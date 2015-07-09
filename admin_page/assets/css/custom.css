@@ -14,6 +14,7 @@
     =============================================*/
 body {
     font-family: 'Open Sans', sans-serif;
+    background-color: #202020;
 }
 
  #wrapper {
@@ -59,27 +60,35 @@ p {
     line-height:25px;
     padding-top:20px;
 }
+iframe{
+    min-width: 80%;
+    min-height: 90vh;
+}
 /*==============================================
    DASHBOARD STYLES    
     =============================================*/
 .panel-back {
     background-color:#F8F8F8;
+}
+.panel-back:hover {
+    background-color:#d6d6d6;
 
 }
-   .noti-box {
-min-height: 100px;
-padding: 20px;
+.noti-box {
+    min-height: 100px;
+    padding: 20px;
+    cursor: pointer;
 }
 
-    .noti-box .icon-box {
-display: block;
-float: left;
-margin: 0 15px 10px 0;
-width: 70px;
-height: 70px;
-line-height: 75px;
-vertical-align: middle;
-text-align: center;
+.noti-box .icon-box {
+    display: block;
+    float: left;
+    margin: 0 15px 10px 0;
+    width: 70px;
+    height: 70px;
+    line-height: 75px;
+    vertical-align: middle;
+    text-align: center;
 font-size: 40px;
 }
 .text-box p{
@@ -131,9 +140,10 @@ color: #FFFFFF;
 font-size: 16px;
 font-weight: 300;
 text-align: center;
+cursor: pointer;
 }
  .main-temp-back .text-temp {
-font-size: 40px;
+font-size: 30px;
 }
 .back-dash {
     padding:20px;
@@ -210,9 +220,11 @@ max-width:170px;
 background: #C90000;
 width: 260px;
 text-align: center;
-height: 60px;
+height: 70px;
+line-height: 70px;
 font-size: 30px;
 font-weight: 700;
+padding: 0;
 }
 .active-menu {
     background-color:#C90000!important;
@@ -263,9 +275,12 @@ font-weight: 700;
 }
 .sidebar-collapse .nav > li > a:hover,
 .sidebar-collapse .nav > li > a:focus {
-	
 	background:#0A0A0A;
 	outline:0;
+}
+
+.sidebar-collapse > .nav > li > a:focus{
+    background-color: #C90000;
 }
 
 .nav-second-level > li > a:before ,
@@ -336,6 +351,10 @@ background-color: #FFF;
 .nav > li > a > i {
     margin-right:10px;
 }
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+    color: #FFF;
+}
 /*==============================================
     UI ELEMENTS STYLES     
     =============================================*/
@@ -351,28 +370,33 @@ font-size: 12px;
 line-height: 1.428571429;
 }
 
+.pre-line{
+    white-space: pre-line;
+}
+
 /*==============================================
     MEDIA QUERIES     
     =============================================*/
  
  @media(min-width:768px) {
      #page-wrapper{
-               margin: 0 0 0 260px;
+        margin: 0 0 0 260px;
         padding: 15px 30px;
         min-height: 1200px;
-		
     }
-	
-	
+
     .navbar-side {
         z-index: 1;
         position: absolute;
         width: 260px;
+        min-height: 93vh;
     }
-
    .navbar {
- border-radius: 0px; 
-}
+        border-radius: 0px; 
+    }
+    iframe{
+        margin-left: 260px;
+    }
    
 }
 

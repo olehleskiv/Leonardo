@@ -52,14 +52,14 @@
 			<b>Cena jest podana w euro za 1 dobę za apartament (bez kuchni) bez wyżywienia</b>
 		</td>
 	</tr>
-	<tr>
-		<th><b>Typ apartamentu </b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
+	<tr id="single-header">
+		<th><b>Typ apartamentu </b></th>
 	</tr>
-	<tr>
-		<th><b>Jednopokojowy (2 osoby)</b></th><td>15</td><td>18</td><td>24</td><td>18</td><td>16</td>
+	<tr id="single-price2">
+		<th><b>Jednopokojowy (2 osoby)</b></th>
 	</tr>
-	<tr>
-		<th><b>Jednopokojowy (3 osoby)</b></th><td>18</td><td>22</td><td>28</td><td>22</td><td>20</td>
+	<tr id="single-price3">
+		<th><b>Jednopokojowy (3 osoby)</b></th>
 	</tr>
 </table>
 
@@ -151,14 +151,11 @@
 			<b>Cena jest podana w euro za 1 dobę za apartament(bez kuchni) bez wyżywienia</b>
 		</td>
 	</tr>
-	<tr>
-		<th><b>Typ apartamentu</b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
+	<tr id="double-header">
+		<th><b>Typ apartamentu</b></th>
 	</tr>
-	<tr>
-		<tr>
-			<tb></tb>
-		</tr>
-		<th><b>Dwupokojowu (3-4 osoby)</b></th><td>21</td><td>28</td><td>38</td><td>32</td><td>24</td>
+	<tr id="double-prices">
+		<th><b>Dwupokojowu (3-4 osoby)</b></th>
 	</tr>
 </table>
 
@@ -358,26 +355,26 @@
 		<td></td>
 		<td>3-7 dni </td><td>8-15 dni </td>
 	</tr>
-	<tr class='even'>
-		<th>01 maja - 31 maja</th><td>25</td><td>22</td>
+	<tr id="apartment0" class='even'>
+		<th>01 maja - 31 maja</th>
 	</tr>
-	<tr>
-		<th>01 czerwca - 30 czerwca</th><td>38</td><td>35</td>
+	<tr id="apartment1">
+		<th>01 czerwca - 30 czerwca</th>
 	</tr>
-	<tr class='even'>
-		<th>01 lipca - 14 lipca</th><td>45</td><td>40</td>
+	<tr id="apartment2" class='even'>
+		<th>01 lipca - 14 lipca</th>
 	</tr>
-	<tr
-		><th>15 lipca - 14 sierpnia</th><td>50</td><td>46</td>
+	<tr id="apartment3">
+		<th>15 lipca - 14 sierpnia</th>
 	</tr>
-	<tr class='even'>
-		<th>15 sierpnia - 31 sierpnia</th><td>45</td><td>40</td>
+	<tr id="apartment4" class='even'>
+		<th>15 sierpnia - 31 sierpnia</th>
 	</tr>
-	<tr>
-		<th>1 września - 14 października</th><td>35</td><td>32</td>
+	<tr id="apartment5">
+		<th>1 września - 14 października</th>
 	</tr>
-	<tr class='even'>
-		<th>15 października – 31 grudnia</th><td>25</td><td>20</td>
+	<tr id="apartment6" class='even'>
+		<th>15 października – 31 grudnia</th>
 	</tr>
 </table>
 
@@ -622,7 +619,7 @@
 	</tr>
 	
 </table>
-
+<script src="scripts/prices.js"></script>
 
 	
 <!--  Put this script tag to the <head> of your page  -->

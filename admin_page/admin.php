@@ -7,20 +7,12 @@
     <!-- BOOTSTRAP STYLES-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
      <!-- FONTAWESOME STYLES-->
-    <link href="assets/css/font-awesome.css" rel="stylesheet" />
-     <!-- MORRIS CHART STYLES-->
-    <link href="assets/js/morris/morris-0.4.3.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <!-- CUSTOM STYLES-->
     <link href="assets/css/custom.css" rel="stylesheet" />
      <!-- GOOGLE FONTS-->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
-   <style>
-        iframe{
-            min-width: 80%;
-            min-height: 90vh;
-            margin-left: 260px;
-        }
-   </style>
+
 </head>
 <body ng-controller="mainController">
     <div id="wrapper">
@@ -32,12 +24,17 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="agencyleonardo.com">Villa Leonardo</a> 
+                <a class="navbar-brand" href="http://www.agencyleonard.com">Villa Leonardo</a> 
             </div>
-  <div style="color: white;
-padding: 15px 50px 5px 50px;
-float: right;
-font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="?logout=true" class="btn btn-danger square-btn-adjust">Logout</a> </div>
+            <ul class="nav navbar-nav">
+                <li><a href="https://www.facebook.com/agency.leonardo"><img src="images/facebook.png" alt=""> Facebook</a></li>
+                <li><a href="http://www.tripadvisor.com/VacationRentalReview-g304080-d8287023-Villa_Leonardo-Herceg_Novi_Herceg_Novi_Municipality.html"><img src="images/tripadvisor.jpg" alt=""> Tripadvisor</a></li>
+                <li><a href="https://plus.google.com/u/0/101630119550525288050/posts"><img src="images/google.png" alt=""> Plus</a></li>
+                <li><a href="https://twitter.com/AgencyLeonardo"><img src="images/twitter.png" alt=""> Twitter</a></li>
+                <li><a href="https://mail.google.com/mail/#inbox"><img src="images/gmail.png" alt=""> Gmail</a></li>
+                <li><a href="https://www.mail.lviv.ua/"><img src="images/mail.png" alt=""> Mail</a></li>
+           </ul>
+            <div style="color: white; padding: 15px 15px 5px 5px; float: right; font-size: 16px;"><a href="?logout=true" class="btn btn-danger square-btn-adjust">Logout</a> </div>
         </nav>   
            <!-- /. NAV TOP  -->
                 <nav class="navbar-default navbar-side" role="navigation">
@@ -47,54 +44,37 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="?logout=true" class
                         <img src="assets/img/find_user.png" class="user-image img-responsive"/>
                     </li>
                     <li>
-                        <a href="#prices"><i class="fa fa-money fa-3x"></i>Управління цінами</a>
+                        <a href="#dashboard"><i class="fa fa-dashboard fa-2x"></i> Dashboard</a>
                     </li>
                     <li>
-                        <a class="active-menu"  href="#dashboard"><i class="fa fa-dashboard fa-3x"></i> Dashboard</a>
+                        <a href="#prices"><i class="fa fa-money fa-2x"></i>Управління цінами</a>
                     </li>
                    <!--  Frames -->
-                     <li>
-                        <a href="#holidaylettings"><i class="fa fa-money fa-3x"></i>Holidaylettings</a>
+                    <li>
+                        <a href="#visitors"><i class="fa fa fa-users fa-2x"></i>Відвідуваність сайту</a>
                     </li>
                      <li>
-                        <a href="#prices"><i class="fa fa-money fa-3x"></i>Управління цінами</a>
-                    </li>
-                     <li>
-                        <a href="#prices"><i class="fa fa-money fa-3x"></i>Управління цінами</a>
-                    </li>
-                     <li>
-                        <a href="#prices"><i class="fa fa-money fa-3x"></i>Управління цінами</a>
-                    </li>
-                     <li>
-                        <a href="#prices"><i class="fa fa-money fa-3x"></i>Управління цінами</a>
-                    </li>
-
-
-
-                     <li>
-                        <a  href="ui.html"><i class="fa fa-desktop fa-3x"></i> UI Elements</a>
+                        <a href="#holidaylettings"><i class="fa fa-list-alt fa-2x"></i>Holidaylettings</a>
                     </li>
                     <li>
-                        <a  href="tab-panel.html"><i class="fa fa-qrcode fa-3x"></i> Tabs & Panels</a>
+                        <a href="#booking"><i class="fa fa-list-alt fa-2x"></i>Booking.com</a>
                     </li>
-                           <li  >
-                        <a   href="chart.html"><i class="fa fa-bar-chart-o fa-3x"></i> Morris Charts</a>
-                    </li>   
-                      <li  >
-                        <a  href="table.html"><i class="fa fa-table fa-3x"></i> Table Examples</a>
+                     <li>
+                        <a href="#club"><i class="fa fa-list-alt fa-2x"></i>chernogoriya-club</a>
                     </li>
-                    <li  >
-                        <a  href="form.html"><i class="fa fa-edit fa-3x"></i> Forms </a>
+                     <li>
+                        <a href="#wakacyjnywynajem"><i class="fa fa-list-alt fa-2x"></i>wakacyjnywynajem</a>
                     </li>
-                     <li  >
-                        <a   href="login.html"><i class="fa fa-bolt fa-3x"></i> Login</a>
-                    </li>   
-                     <li  >
-                        <a   href="registeration.html"><i class="fa fa-laptop fa-3x"></i> Registeration</a>
+
+                    <!--  <li>
+                        <a  href="#ui"><i class="fa fa-desktop fa-2x"></i> UI Elements</a>
                     </li>
+                    <li>
+                        <a  href="#tab-panel"><i class="fa fa-qrcode fa-2x"></i> Tabs & Panels</a>
+                    </li> -->
                         
-                    <li>
-                        <a href="#"><i class="fa fa-sitemap fa-3x"></i> Multi-Level Dropdown<span class="fa arrow"></span></a>
+                    <!-- <li>
+                        <a href="#"><i class="fa fa-sitemap fa-2x"></i> Multi-Level Dropdown<span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li>
                                 <a href="#">Second Level Link</a>
@@ -119,10 +99,7 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="?logout=true" class
                                
                             </li>
                         </ul>
-                      </li>  
-                  <li  >
-                        <a  href="blank.html"><i class="fa fa-square-o fa-3x"></i> Blank Page</a>
-                    </li>   
+                      </li>  -->
                 </ul>
                
             </div>
@@ -148,12 +125,10 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="?logout=true" class
     <script src="assets/js/bootstrap.min.js"></script>
     <!-- METISMENU SCRIPTS -->
     <script src="assets/js/jquery.metisMenu.js"></script>
-     <!-- MORRIS CHART SCRIPTS -->
-     <script src="assets/js/morris/raphael-2.1.0.min.js"></script>
-    <script src="assets/js/morris/morris.js"></script>
       <!-- CUSTOM SCRIPTS -->
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/script.js"></script>
+    <script src="assets/js/pricesCtrl.js"></script>
     
    
 </body>
