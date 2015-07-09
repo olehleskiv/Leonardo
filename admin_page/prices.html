@@ -10,36 +10,57 @@
                     </div>
                     <div class="panel-body">
                         <div class="table-responsive">
-                            <table class="table table-striped table-bordered table-hover">
+                            <table class="table table-striped table-bordered table-hover" >
                                 <thead>
                                     <tr>
-                                        <th>Тип номеру/Дата</th>
-                                        <th>1.05-31.05</th>
-                                        <th>1.06-9.07</th>
-                                        <th>10.07-31.08</th>
-                                        <th>1.09-31.09</th>
-                                        <th>1.10-31.10</th>
+                                        <th>Дата</th>
+                                        <th>2-місн.(однокімн.)</th>
+                                        <th>3-місн.(однокімн.)</th>
+                                        <th>Дії</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
-                                       <td>2-місн.(однокімн.)</td>
-                                       <td>15</td>
-                                       <td>18</td>
-                                       <td>24</td>
-                                       <td>18</td>
-                                       <td>16</td>
+                                    <tr ng-repeat-start="price in singlePrices.single" ng-if="!price.$edit">
+                                        <th>{{price.date}}</th>
+                                        <td>{{price.price2}}</td>
+                                        <td>{{price.price3}}</td>
+                                        <td>
+                                            <button class="btn btn-primary" ng-click="editSinglePrice($index); price.$edit = true;">Редагувати</button>
+                                        </td>
                                     </tr>
-                                    <tr>
-                                        <td>3-місн.(однокімн.)</td>
-                                        <td>18</td>
-                                        <td>22</td>
-                                        <td>28</td>
-                                        <td>22</td>
-                                        <td>20</td>
+                                    <tr ng-repeat-end="price in prices.single" ng-if="price.$edit">
+                                        <td>
+                                            <div class="form-group">
+                                                <input type="text" class="form-control" ng-model="price.date">
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="form-group">
+                                                <input type="number" class="form-control" ng-model="price.price2"><div class="form-group">
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="form-group"> 
+                                                <input type="number" class="form-control" ng-model="price.price3"><div class="form-group">
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <button class="btn btn-success" ng-click="savePriceSingle($index); price.$edit = false;">
+                                                <i class="fa fa-check"></i>
+                                            </button>
+                                            <button class="btn btn-danger" ng-click="cancelEditSinglePrices($index); price.$edit = false;">
+                                                <i class="fa fa-times"></i>
+                                            </button>
+                                        </td>
                                     </tr>
                                 </tbody>
                             </table>
+                            <div ng-show="serverSingleMessage" class="alert alert-success" role="alert">
+                                <button type="button" class="close" ng-click="serverSingleMessage=false">
+                                    <span aria-hidden="true">×</span>
+                                </button>
+                                {{serverSingleMessage}}
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -58,25 +79,47 @@
                             <table class="table table-striped table-bordered table-hover">
                                 <thead>
                                     <tr>
-                                        <th>Тип номеру/Дата</th>
-                                        <th>1.05-31.05</th>
-                                        <th>1.06-9.07</th>
-                                        <th>10.07-31.08</th>
-                                        <th>1.09-31.09</th>
-                                        <th>1.10-31.10</th>
+                                        <th>Дата</th>
+                                        <th>2-х кімнатний</th>
+                                        <th>Дії</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
-                                       <td>3-4–місн. (двокімн.)</td>
-                                       <td>21</td>
-                                       <td>28</td>
-                                       <td>38</td>
-                                       <td>32</td>
-                                       <td>24</td>
+                                    <tr ng-repeat-start="price in doublePrices.double" ng-if="!price.$edit">
+                                        <th>{{price.date}}</th>
+                                        <td>{{price.price}}</td>
+                                        <td>
+                                            <button class="btn btn-primary" ng-click="editDoublePrice($index); price.$edit = true;">Редагувати</button>
+                                        </td>
+                                    </tr>
+                                    <tr ng-repeat-end="price in doublePrices.double" ng-if="price.$edit">
+                                        <td>
+                                            <div class="form-group">
+                                                <input type="text" class="form-control" ng-model="price.date">
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="form-group">
+                                                <input type="number" class="form-control" ng-model="price.price">
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <button class="btn btn-success" ng-click="savePriceDouble($index); price.$edit = false;">
+                                                <i class="fa fa-check"></i>
+                                            </button>
+                                            <button class="btn btn-danger" ng-click="cancelEditDoublePrices($index); price.$edit = false;">
+                                                <i class="fa fa-times"></i>
+                                            </button>
+                                        </td>
                                     </tr>
                                 </tbody>
                             </table>
+                            <div ng-show="serverDoubleMessage" class="alert alert-success" role="alert">
+                                <button type="button" class="close" ng-click="serverDoubleMessage=false">
+                                    <span aria-hidden="true">×</span>
+                                </button>
+                                {{serverDoubleMessage}}
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -92,7 +135,7 @@
                     </div>
                     <div class="panel-body">
                         <div class="table-responsive">
-                            <table class="table table-striped table-bordered table-hover">
+                            <!-- <table class="table table-striped table-bordered table-hover">
                                 <thead>
                                     <tr>
                                         <th>Дата</th>
@@ -126,9 +169,59 @@
                                         <th>15 жовтня – 31 грудня</th><td>25</td><td>20</td>
                                     </tr>
                                 </tbody>
+                            </table> -->
+                            <table class="table table-striped table-bordered table-hover" >
+                                <thead>
+                                    <tr>
+                                        <th>Дата</th>
+                                        <th>3-7 днів</th>
+                                        <th>8-15 днів</th>
+                                        <th>Дії</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr ng-repeat-start="price in apartmentPrices.apartment" ng-if="!price.$edit">
+                                        <th>{{price.date}}</th>
+                                        <td>{{price.priceHigh}}</td>
+                                        <td>{{price.priceLow}}</td>
+                                        <td>
+                                            <button class="btn btn-primary" ng-click="editApartmentPrice($index); price.$edit = true;">Редагувати</button>
+                                        </td>
+                                    </tr>
+                                    <tr ng-repeat-end="price in apartmentPrices.apartment" ng-if="price.$edit">
+                                        <td>
+                                            {{price.date}}
+                                            <!-- <div class="form-group">
+                                                <input type="text" class="form-control" ng-model="price.date">
+                                            </div> -->
+                                        </td>
+                                        <td>
+                                            <div class="form-group">
+                                                <input type="number" class="form-control" ng-model="price.priceHigh"><div class="form-group">
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="form-group"> 
+                                                <input type="number" class="form-control" ng-model="price.priceLow"><div class="form-group">
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <button class="btn btn-success" ng-click="savePriceApartment($index); price.$edit = false;">
+                                                <i class="fa fa-check"></i>
+                                            </button>
+                                            <button class="btn btn-danger" ng-click="cancelEditApartmentPrices($index); price.$edit = false;">
+                                                <i class="fa fa-times"></i>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                </tbody>
                             </table>
-
-
+                            <div ng-show="serverApartmentMessage" class="alert alert-success" role="alert">
+                                <button type="button" class="close" ng-click="serverApartmentMessage=false">
+                                    <span aria-hidden="true">×</span>
+                                </button>
+                                {{serverApartmentMessage}}
+                            </div>
                         </div>
                     </div>
                 </div>

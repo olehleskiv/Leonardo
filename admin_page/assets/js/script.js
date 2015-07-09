@@ -31,7 +31,7 @@
             // route for the about page
             .when('/prices', {
                 templateUrl : 'prices.html',
-                controller  : 'aboutController'
+                controller  : 'pricesController'
             })
 
             // route for the contact page
@@ -42,6 +42,11 @@
 
             .when('/holidaylettings', {
                 template : '<iframe src="https://www.holidaylettings.co.uk/content/dashboard" frameborder="0"></iframe>',
+                controller  : 'contactController'
+            })
+
+            .when('/booking', {
+                template : '<iframe src="https://admin.booking.com/hotel/hoteladmin/?lang=uk" frameborder="0"></iframe>',
                 controller  : 'contactController'
             })
 

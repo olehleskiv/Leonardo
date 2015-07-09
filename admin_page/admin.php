@@ -24,7 +24,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="agencyleonardo.com">Villa Leonardo</a> 
+                <a class="navbar-brand" href="http://www.agencyleonard.com">Villa Leonardo</a> 
             </div>
             <ul class="nav navbar-nav">
                 <li><a href="https://www.facebook.com/agency.leonardo"><img src="images/facebook.png" alt=""> Facebook</a></li>
@@ -56,22 +56,22 @@
                      <li>
                         <a href="#holidaylettings"><i class="fa fa-list-alt fa-2x"></i>Holidaylettings</a>
                     </li>
+                    <li>
+                        <a href="#booking"><i class="fa fa-list-alt fa-2x"></i>Booking.com</a>
+                    </li>
                      <li>
                         <a href="#club"><i class="fa fa-list-alt fa-2x"></i>chernogoriya-club</a>
                     </li>
                      <li>
                         <a href="#wakacyjnywynajem"><i class="fa fa-list-alt fa-2x"></i>wakacyjnywynajem</a>
                     </li>
-                     <li>
-                        <a href="#prices"><i class="fa fa-money fa-2x"></i>Управління цінами</a>
-                    </li>
 
-                     <li>
+                    <!--  <li>
                         <a  href="#ui"><i class="fa fa-desktop fa-2x"></i> UI Elements</a>
                     </li>
                     <li>
                         <a  href="#tab-panel"><i class="fa fa-qrcode fa-2x"></i> Tabs & Panels</a>
-                    </li>
+                    </li> -->
                         
                     <!-- <li>
                         <a href="#"><i class="fa fa-sitemap fa-2x"></i> Multi-Level Dropdown<span class="fa arrow"></span></a>
@@ -128,6 +128,7 @@
       <!-- CUSTOM SCRIPTS -->
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/script.js"></script>
+    <script src="assets/js/pricesCtrl.js"></script>
     
    
 </body>

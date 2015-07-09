@@ -52,14 +52,16 @@
 			<b>All prices are given in Euro per apartment per night</b>
 		</td>
 	</tr>
-	<tr>
-		<th><b>Suite type/Date</b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
+	<tr id="single-header">
+		<th><b>Suite type/Date</b></th>
 	</tr>
-	<tr>
-		<th><b>1 Bedroom suite (2 persons)</b></th><td>15</td><td>18</td><td>24</td><td>18</td><td>16</td>
+	<tr id="single-price2" id="double-header"
+id="double-prices">
+		<th><b>1 Bedroom suite (2 persons)</b></th>
 	</tr>
-	<tr>
-		<th><b>1 Bedroom suite (3 persons)</b></th><td>18</td><td>22</td><td>28</td><td>22</td><td>20</td>
+	<tr id="single-price3" id="double-header"
+id="double-prices">
+		<th><b>1 Bedroom suite (3 persons)</b></th>
 	</tr>
 </table>
 
@@ -151,14 +153,11 @@
 			<b>All prices are given in Euro per apartment per night</b>
 		</td>
 	</tr>
-	<tr>
-		<th><b>Apartment type/Date</b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
+	<tr id="double-header">
+		<th><b>Apartment type/Date</b></th>
 	</tr>
-	<tr>
-		<tr>
-			<tb></tb>
-		</tr>
-		<th><b>2 Bedroom suite</b></th><td>21</td><td>28</td><td>38</td><td>32</td><td>24</td>
+	<tr id="double-prices">
+		<th><b>2 Bedroom suite</b></th>
 	</tr>
 </table>
 
@@ -358,26 +357,26 @@
 		<td></td>
 		<td>3-7 days </td><td>8-15 days </td>
 	</tr>
-	<tr class='even'>
-		<th>01 may- 31 may</th><td>25</td><td>22</td>
+	<tr id="apartment0" class='even'>
+		<th>01 may- 31 may</th>
 	</tr>
-	<tr>
-		<th>01 june - 30 june</th><td>38</td><td>35</td>
+	<tr id="apartment1">
+		<th>01 june - 30 june</th>
 	</tr>
-	<tr class='even'>
-		<th>01 july - 14 july</th><td>45</td><td>40</td>
+	<tr id="apartment2" class='even'>
+		<th>01 july - 14 july</th>
 	</tr>
-	<tr
-		><th>15 july - 14 august</th><td>50</td><td>46</td>
+	<tr id="apartment3">
+		<th>15 july - 14 august</th>
 	</tr>
-	<tr class='even'>
-		<th>15 august - 31 august</th><td>45</td><td>40</td>
+	<tr id="apartment4" class='even'>
+		<th>15 august - 31 august</th>
 	</tr>
-	<tr>
-		<th>1 september - 14 october</th><td>35</td><td>32</td>
+	<tr id="apartment5">
+		<th>1 september - 14 october</th>
 	</tr>
-	<tr class='even'>
-		<th>15 october – 31 december</th><td>25</td><td>20</td>
+	<tr id="apartment6" class='even'>
+		<th>15 october – 31 december</th>
 	</tr>
 </table>
 
@@ -622,6 +621,7 @@
 	</tr>
 	
 </table>
+<script src="scripts/prices.js"></script>
 
 	
 <!--  Put this script tag to the <head> of your page  -->

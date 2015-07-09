@@ -52,14 +52,14 @@
 			<b>Ціна вказана в євро за номер за 1 добу без харчування</b>
 		</td>
 	</tr>
-	<tr>
-		<th><b>Тип номеру/Дата</b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
+	<tr id="single-header">
+		<th><b>Тип номеру/Дата</b></th>
 	</tr>
-	<tr>
-		<th><b>2-місн.(однокімн.)</b></th><td>15</td><td>18</td><td>24</td><td>18</td><td>16</td>
+	<tr id="single-price2">
+		<th><b>2-місн.(однокімн.)</b></th>
 	</tr>
-	<tr>
-		<th><b>3-місн.(однокімн.)</b></th><td>18</td><td>22</td><td>28</td><td>22</td><td>20</td>
+	<tr id="single-price3">
+		<th><b>3-місн.(однокімн.)</b></th>
 	</tr>
 </table>
 
@@ -151,14 +151,11 @@
 			<b>Ціна вказана в євро за номер за 1 добу без харчування</b>
 		</td>
 	</tr>
-	<tr>
-		<th><b>Тип номеру</b></th><th>1.05-31.05</th><th>1.06-9.07</th><th>10.07-31.08</th><th>1.09-31.09</th><th>1.10-31.10</th>
+	<tr id="double-header">
+		<th><b>Тип номеру</b></th>
 	</tr>
-	<tr>
-		<tr>
-			<tb></tb>
-		</tr>
-		<th><b>3-4–місн. (двокімн.)</b></th><td>21</td><td>28</td><td>38</td><td>32</td><td>24</td>
+	<tr id="double-prices">
+		<th><b>3-4–місн. (двокімн.)</b></th>
 	</tr>
 </table>
 
@@ -358,26 +355,26 @@
 		<td></td>
 		<td>3-7 днів </td><td>8-15 днів </td>
 	</tr>
-	<tr class='even'>
-		<th>01 травня- 31 травня</th><td>25</td><td>22</td>
+	<tr id="apartment0" class='even'>
+		<th>01 травня- 31 травня</th>
 	</tr>
-	<tr>
-		<th>01 червня -30 червня</th><td>38</td><td>35</td>
+	<tr id="apartment1">
+		<th>01 червня -30 червня</th>
 	</tr>
-	<tr class='even'>
-		<th>01 липня- 14 липня</th><td>45</td><td>40</td>
+	<tr id="apartment2" class='even'>
+		<th>01 липня- 14 липня</th>
 	</tr>
-	<tr
-		><th>15 липня -14 серпня</th><td>50</td><td>46</td>
+	<tr id="apartment3">
+		<th>15 липня -14 серпня</th>
 	</tr>
-	<tr class='even'>
-		<th>15 серпня- 31 серпня</th><td>45</td><td>40</td>
+	<tr id="apartment4" class='even'>
+		<th>15 серпня- 31 серпня</th>
 	</tr>
-	<tr>
-		<th>1 вересня-14 жовтня</th><td>35</td><td>32</td>
+	<tr id="apartment5">
+		<th>1 вересня-14 жовтня</th>
 	</tr>
-	<tr class='even'>
-		<th>15 жовтня – 31 грудня</th><td>25</td><td>20</td>
+	<tr id="apartment6" class='even'>
+		<th>15 жовтня – 31 грудня</th>
 	</tr>
 </table>
 
@@ -622,6 +619,8 @@
 	</tr>
 	
 </table>
+
+<script src="scripts/prices.js"></script>
 
 	
 <!--  Put this script tag to the <head> of your page  -->
